@@ -1,0 +1,3154 @@
+{
+  "data": [
+    {
+      "area": "千代田区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "ひぐちたかあき",
+          "kana": "ひぐち　たかあき",
+          "sex": "男",
+          "age": "34",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://h-takaaki.or.jp",
+          "instagram_url": "https://www.instagram.com/higuchi.takaaki34/",
+          "facebook_url": "https://www.facebook.com/higuchi.takaaki34/",
+          "twitter_url": "https://twitter.com/higuchi_takaaki"
+        },
+        {
+          "id": "2",
+          "name": "須賀かずお",
+          "kana": "すが　かずお",
+          "sex": "男",
+          "age": "61",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "3",
+          "name": "中村あや",
+          "kana": "なかむら　あや",
+          "sex": "女",
+          "age": "27",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://nakamuraaya.com",
+          "facebook_url": "https://www.facebook.com/1852140831718719",
+          "twitter_url": "https://twitter.com/ayanakamura0702",
+          "instagram_url": "https://www.instagram.com/ayanakamura0702/"
+        },
+        {
+          "id": "4",
+          "name": "ごとうてるき",
+          "kana": "ごとう　てるき",
+          "sex": "男",
+          "age": "34",
+          "party": "国民ファーストの会",
+          "type": "新",
+          "url": "http://gototeruki.web.fc2.com"
+        }
+      ]
+    },
+    {
+      "area": "中央区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "森山高至",
+          "kana": "もりやま　たかし",
+          "sex": "男",
+          "age": "51",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://www.toshi-kangaerukai.jp/",
+          "facebook_url": "https://www.facebook.com/moriyamatakashi.jp/",
+          "twitter_url": "https://twitter.com/mori_arch_econo"
+        },
+        {
+          "id": "2",
+          "name": "立石はるやす",
+          "kana": "たていし　はるやす",
+          "sex": "男",
+          "age": "75",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://立石はるやす.jp/",
+          "facebook_url": "http://www.facebook.com/tateishiharuyasu"
+        },
+        {
+          "id": "3",
+          "name": "西郷あゆ美",
+          "kana": "さいごう　あゆみ",
+          "sex": "女",
+          "age": "32",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.ayumi-m.com",
+          "facebook_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fayumi.moriya55%2F&src=sdkpreparse"
+        },
+        {
+          "id": "4",
+          "name": "さいとうかずえ",
+          "kana": "さいとう　かずえ",
+          "sex": "女",
+          "age": "48",
+          "party": "希望ファーストの会",
+          "type": "新",
+          "url": "https://www.facebook.com/Kibou1st",
+          "facebook_url": "https://www.facebook.com/Kibou1st#"
+        },
+        {
+          "id": "5",
+          "name": "石島ひでき",
+          "kana": "いしじま　ひでき",
+          "sex": "男",
+          "age": "57",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://www.ishijimahideki.com/",
+          "facebook_url": "https://www.facebook.com/ishijimahideki",
+          "twitter_url": "https://twitter.com/#!/ishijimahideki"
+        }
+      ]
+    },
+    {
+      "area": "港区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "入江のぶこ",
+          "kana": "いりえ　のぶこ",
+          "sex": "女",
+          "age": "55",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://tomin1minato.tokyo/",
+          "facebook_url": "https://www.facebook.com/IrieNobukoMinato/",
+          "twitter_url": "https://twitter.com/irienobuko",
+          "youtube_url": "https://www.youtube.com/channel/UCE4wl6JIFtBjESzCBa4SoZA"
+        },
+        {
+          "id": "2",
+          "name": "かんの弘一",
+          "kana": "かんの　こういち",
+          "sex": "男",
+          "age": "58",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.kanno-ko.com/",
+          "facebook_url": "http://www.facebook.com/sharer.php?src=bm&u=http://www.kanno-ko.com&t=%E3%81%8B%E3%82%93%E3%81%AE%E5%BC%98%E4%B8%80++%E6%B8%AF%E5%8C%BA%E9%81%B8%E5%87%BA%E3%83%BB%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1",
+          "twitter_url": "https://twitter.com/kanno_tokyoma",
+          "googleplus_url": "https://plus.google.com/share?url=http://www.kanno-ko.com&t=%E3%81%8B%E3%82%93%E3%81%AE%E5%BC%98%E4%B8%80++%E6%B8%AF%E5%8C%BA%E9%81%B8%E5%87%BA%E3%83%BB%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1",
+          "instagram_url": "http://instagram.com/"
+        },
+        {
+          "id": "3",
+          "name": "大塚たかあき",
+          "kana": "おおつか　たかあき",
+          "sex": "男",
+          "age": "57",
+          "party": "無所属",
+          "type": "元",
+          "url": "http://www.otsuka-t.jp",
+          "facebook_url": "https://www.facebook.com/takaaki.otsuka.58",
+          "instagram_url": "http://instagram.com/"
+        },
+        {
+          "id": "4",
+          "name": "染谷ふみ子",
+          "kana": "そめや　ふみこ",
+          "sex": "女",
+          "age": "65",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "5",
+          "name": "なべ島ひさし",
+          "kana": "なべしま　ひさし",
+          "sex": "男",
+          "age": "53",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "http://www.nabeshima.tokyo/",
+          "twitter_url": "https://twitter.com/nabehisashi",
+          "facebook_url": "https://www.facebook.com/nabehisashi",
+          "googleplus_url": "https://plus.google.com/u/0/117116612688864692953/"
+        },
+        {
+          "id": "6",
+          "name": "きたしろ勝彦",
+          "kana": "きたしろ　かつひこ",
+          "sex": "男",
+          "age": "72",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.kitashiro.gr.jp/",
+          "facebook_url": "https://www.facebook.com/%E3%81%8D%E3%81%9F%E3%81%97%E3%82%8D%E5%8B%9D%E5%BD%A6-414748678897801/",
+          "twitter_url": "https://twitter.com/kitshiro_office",
+          "instagram_url": "https://www.instagram.com/katsuhiko.kitashiro/?hl=ja"
+        }
+      ]
+    },
+    {
+      "area": "新宿区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "古城まさお",
+          "kana": "こじょう　まさお",
+          "sex": "男",
+          "age": "37",
+          "party": "公明党",
+          "type": "新",
+          "url": "http://www.komei.or.jp/km/kojomasao/",
+          "youtube_url": "https://www.youtube.com/embed/pMv2XBbDrn4?rel=0"
+        },
+        {
+          "id": "2",
+          "name": "あおじまみ",
+          "kana": "あおじ　まみ",
+          "sex": "女",
+          "age": "50",
+          "party": "民進党",
+          "type": "新",
+          "url": "https://www.facebook.com/groups/625715320966200/?ref=aymt_homepage_panel",
+          "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
+        },
+        {
+          "id": "3",
+          "name": "大山とも子",
+          "kana": "おおやま　ともこ",
+          "sex": "女",
+          "age": "61",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://ohyama-tomoko.com",
+          "facebook_url": "https://www.facebook.com/%E5%A4%A7%E5%B1%B1%E3%81%A8%E3%82%82%E5%AD%90%E4%BA%8B%E5%8B%99%E6%89%80-341097192660414/"
+        },
+        {
+          "id": "4",
+          "name": "大門さちえ",
+          "kana": "だいもん　さちえ",
+          "sex": "女",
+          "age": "48",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://sachiedaimon.com/",
+          "facebook_url": "https://www.facebook.com/sachie.daimon"
+        },
+        {
+          "id": "5",
+          "name": "森口つかさ",
+          "kana": "もりぐち　つかさ",
+          "sex": "男",
+          "age": "35",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://www.tsukasa-moriguchi.info/",
+          "twitter_url": "https://twitter.com/tsukasamorigu",
+          "facebook_url": "https://www.facebook.com/tsukasa.moriguchi.yy/"
+        },
+        {
+          "id": "6",
+          "name": "秋田一郎",
+          "kana": "あきた　いちろう",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.akita160.jp/",
+          "instagram_url": "http://instagram.com/"
+        },
+        {
+          "id": "7",
+          "name": "浜野秀昭",
+          "kana": "はまの　ひであき",
+          "sex": "男",
+          "age": "37",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://hamano.black/",
+          "twitter_url": "https://twitter.com/sevenchord7",
+          "facebook_url": "https://www.facebook.com/hideaki.hamano.5",
+          "instagram_url": "https://www.instagram.com/syachi9.black/"
+        }
+      ]
+    },
+    {
+      "area": "文京区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "なかや文孝",
+          "kana": "なかや　ふみたか",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://f-nakaya.jp/",
+          "facebook_url": "http://www.facebook.com/profile.php?id=100008584295400",
+          "twitter_url": "http://twitter.com/search?q=http%3A%2F%2Ff-nakaya.jp%2F"
+        },
+        {
+          "id": "2",
+          "name": "福手ゆう子",
+          "kana": "ふくて　ゆうこ",
+          "sex": "女",
+          "age": "40",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://yufukute.exblog.jp/",
+          "twitter_url": "https://twitter.com/yukofukute"
+        },
+        {
+          "id": "3",
+          "name": "増子ひろき",
+          "kana": "ますこ　ひろき",
+          "sex": "男",
+          "age": "57",
+          "party": "都民ファーストの会",
+          "type": "元",
+          "url": "http://masuko.tokyo"
+        }
+      ]
+    },
+    {
+      "area": "台東区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "いずみひろし",
+          "kana": "いずみ　ひろし",
+          "sex": "男",
+          "age": "60",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.izumi-hiroshi.tokyo"
+        },
+        {
+          "id": "2",
+          "name": "小柳しげる",
+          "kana": "こやなぎ　しげる",
+          "sex": "男",
+          "age": "44",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "3",
+          "name": "中山ひろゆき",
+          "kana": "なかやま　ひろゆき",
+          "sex": "男",
+          "age": "45",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.nakayama-hiroyuki.jp",
+          "facebook_url": "https://www.facebook.com/nakayamahiroyuki.shitamachi/"
+        },
+        {
+          "id": "4",
+          "name": "保坂まさひろ",
+          "kana": "ほさか　まさひろ",
+          "sex": "男",
+          "age": "43",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://www.hosakamasahiro.com"
+        },
+        {
+          "id": "5",
+          "name": "武田完兵",
+          "kana": "たけだ　かんべえ",
+          "sex": "男",
+          "age": "69",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "墨田区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "伊藤大気",
+          "kana": "いとう　だいき",
+          "sex": "男",
+          "age": "38",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://kouho.jcp-tokyo.net/ito/",
+          "facebook_url": "https://www.facebook.com/daiki.itho",
+          "twitter_url": "https://twitter.com/ozone728"
+        },
+        {
+          "id": "2",
+          "name": "川松真一朗",
+          "kana": "かわまつ　しんいちろう",
+          "sex": "男",
+          "age": "36",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "https://kawamatsu2011.com/",
+          "facebook_url": "https://www.facebook.com/%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97-529350280606639/",
+          "twitter_url": "https://twitter.com/#!/kawamatsushin16",
+          "googleplus_url": "https://plus.google.com/share?url=https://kawamatsu2011.com&t=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1+%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97%EF%BC%88%E3%81%8B%E3%82%8F%E3%81%BE%E3%81%A4%E3%81%97%E3%82%93%E3%81%84%E3%81%A1%E3%82%8D%E3%81%86%EF%BC%89"
+        },
+        {
+          "id": "3",
+          "name": "桜井ひろゆき",
+          "kana": "さくらい　ひろゆき",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.h-sakurai.jp/",
+          "twitter_url": "http://twitter.com/intent/user?screen_name=SakuraiHiroyuki",
+          "youtube_url": "https://www.youtube.com/user/sakuraidouga",
+          "facebook_url": "http://www.facebook.com/profile.php?id=100002687443679"
+        },
+        {
+          "id": "4",
+          "name": "加藤まさゆき",
+          "kana": "かとう　まさゆき",
+          "sex": "男",
+          "age": "52",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.komei.or.jp/km/kato-masayuki",
+          "twitter_url": "https://twitter.com/komei_koho"
+        },
+        {
+          "id": "5",
+          "name": "なりきよりさ子",
+          "kana": "なりきよ　りさこ",
+          "sex": "女",
+          "age": "27",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://risakonarikiyo.com",
+          "facebook_url": "https://www.facebook.com/risakonarikiyo/?ref=aymt_homepage_panel",
+          "twitter_url": "https://twitter.com/narikiyorisako"
+        }
+      ]
+    },
+    {
+      "area": "江東区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "白戸太朗",
+          "kana": "しらと　たろう",
+          "sex": "男",
+          "age": "50",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.shiratotaro.com ",
+          "facebook_url": "https://www.facebook.com/groups/1315443538574344/",
+          "twitter_url": "https://twitter.com/maidotaro"
+        },
+        {
+          "id": "2",
+          "name": "高橋めぐみ",
+          "kana": "たかはし　めぐみ",
+          "sex": "女",
+          "age": "48",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://megutaka.jp/",
+          "facebook_url": "https://www.facebook.com/megumi.takahashi.37454",
+          "twitter_url": "https://twitter.com/takahashimegumi"
+        },
+        {
+          "id": "3",
+          "name": "細田いさむ",
+          "kana": "ほそだ　いさむ",
+          "sex": "男",
+          "age": "56",
+          "party": "公明党",
+          "type": "新",
+          "url": "http://www.isamu-hosoda.jp/",
+          "facebook_url": "https://www.facebook.com/hosoda.isamu/"
+        },
+        {
+          "id": "4",
+          "name": "やまざき一輝",
+          "kana": "やまざき　いっき",
+          "sex": "男",
+          "age": "44",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.ikki-y.jp/",
+          "instagram_url": "https://www.instagram.com/ikki.yamazaki/",
+          "facebook_url": "https://www.facebook.com/YAMAZAKI.ikki/"
+        },
+        {
+          "id": "5",
+          "name": "柿沢ゆきえ",
+          "kana": "かきざわ　ゆきえ",
+          "sex": "女",
+          "age": "47",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://nogamiyukie.com/",
+          "twitter_url": "https://twitter.com/nogamiyukie"
+        },
+        {
+          "id": "6",
+          "name": "大沢のぼる",
+          "kana": "おおさわ　のぼる",
+          "sex": "男",
+          "age": "52",
+          "party": "民進党",
+          "type": "元",
+          "url": "http://www.0038.jp",
+          "facebook_url": "https://www.facebook.com/noboru.osawa.52"
+        },
+        {
+          "id": "7",
+          "name": "古賀美子",
+          "kana": "こが　よしこ",
+          "sex": "女",
+          "age": "48",
+          "party": "無所属",
+          "type": "新",
+          "url": "https://lineblog.me/casinomimi/"
+        },
+        {
+          "id": "8",
+          "name": "あぜ上三和子",
+          "kana": "あぜがみ　みわこ",
+          "sex": "女",
+          "age": "61",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://azegami-miwako-jcp.info/",
+          "facebook_url": "http://www.facebook.com/%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A-%E3%81%82%E3%81%9C%E4%B8%8A%E4%B8%89%E5%92%8C%E5%AD%90-221106978332022/",
+          "youtube_url": "https://www.youtube.com/channel/UCSQzCUN9cW_u5pOw-Xw5c3Q",
+          "twitter_url": "https://twitter.com/miwako_azegami"
+        },
+        {
+          "id": "9",
+          "name": "表なつこ",
+          "kana": "おもて　なつこ",
+          "sex": "女",
+          "age": "33",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "http://www.omote-natsuko.com"
+        }
+      ]
+    },
+    {
+      "area": "品川区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "田中たけし",
+          "kana": "たなか　たけし",
+          "sex": "男",
+          "age": "54",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://tanaka-takeshi.com"
+        },
+        {
+          "id": "2",
+          "name": "白石たみお",
+          "kana": "しらいし　たみお",
+          "sex": "男",
+          "age": "35",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://S-tamio.net",
+          "facebook_url": "https://www.facebook.com/jcp.shiraishi.tamio/",
+          "twitter_url": "https://twitter.com/tamioshiraishi",
+          "youtube_url": "https://www.youtube.com/user/shiraishitamio/videos?shelf_id=0&view=0&sort=dd"
+        },
+        {
+          "id": "3",
+          "name": "もりさわ恭子",
+          "kana": "もりさわ　きょうこ",
+          "sex": "女",
+          "age": "38",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://kyokomorisawa.jp",
+          "facebook_url": "https://www.facebook.com/kyokomorisawa2017"
+        },
+        {
+          "id": "4",
+          "name": "沢田ひろかず",
+          "kana": "さわだ　ひろかず",
+          "sex": "男",
+          "age": "36",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://www.sawada-hirokazu.com",
+          "twitter_url": "https://twitter.com/SawadaHirokazu",
+          "instagram_url": "https://www.instagram.com/hirokazu800815/?hl=ja",
+          "facebook_url": "https://www.facebook.com/hirokazu800815/"
+        },
+        {
+          "id": "5",
+          "name": "伊藤こういち",
+          "kana": "いとう　こういち",
+          "sex": "男",
+          "age": "56",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.koichi-ito.net"
+        },
+        {
+          "id": "6",
+          "name": "あべ祐美子",
+          "kana": "あべ　ゆみこ",
+          "sex": "女",
+          "age": "52",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://www.abeyumiko.com",
+          "twitter_url": "https://twitter.com/abe_shinagawa",
+          "facebook_url": "https://www.facebook.com/abeyumiko.shinagawa/"
+        },
+        {
+          "id": "7",
+          "name": "山内あきら",
+          "kana": "やまうち　あきら",
+          "sex": "男",
+          "age": "48",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://www.a-yamauchi.com",
+          "twitter_url": "https://twitter.com/akira_yamauchi8",
+          "facebook_url": "https://www.facebook.com/akira.yamauchi.2407"
+        }
+      ]
+    },
+    {
+      "area": "目黒区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "斉藤やすひろ",
+          "kana": "さいとう　やすひろ",
+          "sex": "男",
+          "age": "54",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.saitou-yasuhiro.com/",
+          "twitter_url": "https://twitter.com/yasuhirosaitou",
+          "facebook_url": "https://www.facebook.com/saito.yasuhiro.meguro/",
+          "youtube_url": "https://www.youtube.com/user/saitouchannel"
+        },
+        {
+          "id": "2",
+          "name": "星見てい子",
+          "kana": "ほしみ　ていこ",
+          "sex": "女",
+          "age": "59",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://kouho.jcp-tokyo.net/hoshimi",
+          "facebook_url": "https://www.facebook.com/teiko.hosimi",
+          "twitter_url": "https://twitter.com/hoshimite_ikou"
+        },
+        {
+          "id": "3",
+          "name": "鈴木隆道",
+          "kana": "すずき　たかみち",
+          "sex": "男",
+          "age": "66",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://s-takamichi.com/"
+        },
+        {
+          "id": "4",
+          "name": "伊藤ゆう",
+          "kana": "いとう　ゆう",
+          "sex": "男",
+          "age": "40",
+          "party": "都民ファーストの会",
+          "type": "元",
+          "url": "http://www.itoyuu.tokyo/"
+        },
+        {
+          "id": "5",
+          "name": "栗山よしじ",
+          "kana": "くりやま　よしじ",
+          "sex": "男",
+          "age": "47",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://kuriyama-yoshiji.com/",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100009546672747"
+        }
+      ]
+    },
+    {
+      "area": "大田区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "藤井一",
+          "kana": "ふじい　はじめ",
+          "sex": "男",
+          "age": "63",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.hajimeclub.net/",
+          "facebook_url": "https://www.facebook.com/hajime.fujii.773",
+          "twitter_url": "https://twitter.com/komei_koho",
+          "youtube_url": "https://www.youtube.com/user/Newkomeito"
+        },
+        {
+          "id": "2",
+          "name": "みぞぐち晃一",
+          "kana": "みぞぐち　こういち",
+          "sex": "男",
+          "age": "48",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://www.koichi-mizoguchi.com"
+        },
+        {
+          "id": "3",
+          "name": "藤田りょうこ",
+          "kana": "ふじた　りょうこ",
+          "sex": "女",
+          "age": "42",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://r-fujita.jcp-ota.jp/",
+          "twitter_url": "https://twitter.com/ryokofujitajcp"
+        },
+        {
+          "id": "4",
+          "name": "神林茂",
+          "kana": "かみばやし　しげる",
+          "sex": "男",
+          "age": "64",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.s-kamibayashi-senkyo.com",
+          "facebook_url": "https://www.facebook.com/groups/1743869689250587/",
+          "twitter_url": "https://twitter.com/intent/tweet?text=http%3a%2f%2fwww%2es%2dkamibayashi%2dsenkyo%2ecom%2f%20%23%e7%a5%9e%e6%9e%97%e8%8c%82%20%23%e6%94%bf%e6%b2%bb%e3%81%ab%e8%b2%ac%e4%bb%bb%e6%84%9f"
+        },
+        {
+          "id": "5",
+          "name": "もり愛",
+          "kana": "もり　あい",
+          "sex": "女",
+          "age": "40",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.spyros.tokyo/moriai/moriaiHP/",
+          "facebook_url": "https://www.facebook.com/moriai.net/"
+        },
+        {
+          "id": "6",
+          "name": "すどうえいじ",
+          "kana": "すどう　えいじ",
+          "sex": "男",
+          "age": "48",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://www3.point.ne.jp/~dh18eberharter",
+          "twitter_url": "http://twitter.com/sudoeiji",
+          "facebook_url": "https://www.facebook.com/eiji.sudo.1"
+        },
+        {
+          "id": "7",
+          "name": "鈴木あきまさ",
+          "kana": "すずき　あきまさ",
+          "sex": "男",
+          "age": "59",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.akimasa.info"
+        },
+        {
+          "id": "8",
+          "name": "遠藤守",
+          "kana": "えんどう　まもる",
+          "sex": "男",
+          "age": "50",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://endomamoru.com/",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100010235494142"
+        },
+        {
+          "id": "9",
+          "name": "鈴木あきひろ",
+          "kana": "すずき　あきひろ",
+          "sex": "男",
+          "age": "54",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.akihiro3708.com",
+          "facebook_url": "https://www.facebook.com/Akihiro.s3708?fref=ts"
+        },
+        {
+          "id": "10",
+          "name": "沢田大作",
+          "kana": "さわだ　だいさく",
+          "sex": "男",
+          "age": "38",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://d139.jp",
+          "twitter_url": "https://twitter.com/d139_jp",
+          "facebook_url": "https://www.facebook.com/d139.jp/"
+        },
+        {
+          "id": "11",
+          "name": "栗下善行",
+          "kana": "くりした　ぜんこう",
+          "sex": "男",
+          "age": "34",
+          "party": "都民ファーストの会",
+          "type": "元",
+          "url": "http://kurishitazenko.jp",
+          "twitter_url": "https://twitter.com/zkurishi"
+        },
+        {
+          "id": "12",
+          "name": "やながせ裕文",
+          "kana": "やながせ　ひろふみ",
+          "sex": "男",
+          "age": "42",
+          "party": "日本維新の会",
+          "type": "現",
+          "url": "http://www.yanagase.org",
+          "facebook_url": "https://www.facebook.com/yanagasehirofumi",
+          "twitter_url": "https://twitter.com/yanagase_ootaku",
+          "youtube_url": "http://www.youtube.com/user/YanagaseChannel"
+        },
+        {
+          "id": "13",
+          "name": "飯田佳宏",
+          "kana": "いいだ　よしひろ",
+          "sex": "男",
+          "age": "44",
+          "party": "地方議員ゼロの会",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "14",
+          "name": "佐藤伸",
+          "kana": "さとう　しん",
+          "sex": "男",
+          "age": "43",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://www.shin310.net/",
+          "facebook_url": "http://www.facebook.com/share.php?u=http://www.shin310.net/",
+          "googleplus_url": "https://plus.google.com/share?url=http://www.shin310.net/",
+          "twitter_url": "https://twitter.com/shinsato0302"
+        },
+        {
+          "id": "15",
+          "name": "井出鬼子雄",
+          "kana": "いで　きしお",
+          "sex": "男",
+          "age": "76",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "世田谷区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "ふじた孝行",
+          "kana": "ふじた　たかゆき",
+          "sex": "男",
+          "age": "47",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://www.世田谷区ふじた孝行.tokyo/",
+          "facebook_url": "https://www.facebook.com/takayuki.fujita.SETAGAYA/"
+        },
+        {
+          "id": "2",
+          "name": "栗林のり子",
+          "kana": "くりばやし　のりこ",
+          "sex": "女",
+          "age": "63",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://kurinori.net",
+          "facebook_url": "https://www.facebook.com/kuribayashi.noriko.1",
+          "twitter_url": "https://twitter.com/kurinori_tokyo"
+        },
+        {
+          "id": "3",
+          "name": "桜井純子",
+          "kana": "さくらい　じゅんこ",
+          "sex": "女",
+          "age": "53",
+          "party": "社会民主党",
+          "type": "新",
+          "url": "http://www.sakuraijunko.com"
+        },
+        {
+          "id": "4",
+          "name": "山口拓",
+          "kana": "やまぐち　たく",
+          "sex": "男",
+          "age": "44",
+          "party": "民進党",
+          "type": "元",
+          "url": "http://www.taku.jp",
+          "facebook_url": "https://www.facebook.com/taku.yamaguchi.setagaya/",
+          "twitter_url": "https://twitter.com/taku_yamaguchi",
+          "instagram_url": "https://www.instagram.com/yamaguchitaku/"
+        },
+        {
+          "id": "5",
+          "name": "小松ダイスケ",
+          "kana": "こまつ　だいすけ",
+          "sex": "男",
+          "age": "39",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://komatsudaisuke.com",
+          "facebook_url": "https://www.facebook.com/komatsu.daisuke.official/",
+          "twitter_url": "https://twitter.com/komatsu_daisuke"
+        },
+        {
+          "id": "6",
+          "name": "川合善大",
+          "kana": "かわい　よしお",
+          "sex": "男",
+          "age": "69",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://www.kw224.com"
+        },
+        {
+          "id": "7",
+          "name": "伊沢浩美",
+          "kana": "いざわ　ひろみ",
+          "sex": "女",
+          "age": "52",
+          "party": "地方議員ゼロの会",
+          "type": "新",
+          "url": "https://www.chihougiinzero-no-kai.com"
+        },
+        {
+          "id": "8",
+          "name": "後藤雄一",
+          "kana": "ごとう　ゆういち",
+          "sex": "男",
+          "age": "67",
+          "party": "行革110番",
+          "type": "元",
+          "url": "http://www.gyoukaku110ban.jp"
+        },
+        {
+          "id": "9",
+          "name": "ひえしま進",
+          "kana": "ひえしま　すすむ",
+          "sex": "男",
+          "age": "40",
+          "party": "日本維新の会",
+          "type": "新",
+          "url": "http://hieshimasusumu.jp/",
+          "twitter_url": "https://twitter.com/manabu_tokyo5",
+          "facebook_url": "https://www.facebook.com/hieshimasusumutokyo"
+        },
+        {
+          "id": "10",
+          "name": "マック赤坂",
+          "kana": "まっくあかさか",
+          "sex": "男",
+          "age": "68",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://smileparty.info"
+        },
+        {
+          "id": "11",
+          "name": "岡本京子",
+          "kana": "おかもと　きょうこ",
+          "sex": "女",
+          "age": "59",
+          "party": "東京・生活者ネットワーク",
+          "type": "新",
+          "url": "http://okamoto.seikatsusha.me/",
+          "twitter_url": "https://twitter.com/okamotonet"
+        },
+        {
+          "id": "12",
+          "name": "福島りえこ",
+          "kana": "ふくしま　りえこ",
+          "sex": "女",
+          "age": "46",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://www.facebook.com/tomin1setagaya.tokyo",
+          "facebook_url": "https://www.facebook.com/tomin1setagaya.tokyo#"
+        },
+        {
+          "id": "13",
+          "name": "木村基成",
+          "kana": "きむら　もとなり",
+          "sex": "男",
+          "age": "47",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://www.motonari-kimura.info",
+          "facebook_url": "https://ja-jp.facebook.com/kimura.motonari/"
+        },
+        {
+          "id": "14",
+          "name": "里吉ゆみ",
+          "kana": "さとよし　ゆみ",
+          "sex": "女",
+          "age": "50",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://www.jcp-setagaya.jp/satoyosi/",
+          "facebook_url": "https://www.facebook.com/yumi.satoyoshi",
+          "twitter_url": "https://twitter.com/yumisatoyoshi",
+          "youtube_url": "https://www.youtube.com/channel/UCz6R6mbXuxCDSrEP8a5i9iw"
+        },
+        {
+          "id": "15",
+          "name": "三浦しずか",
+          "kana": "みうら　しずか",
+          "sex": "女",
+          "age": "64",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://miurashizuka.jp/",
+          "facebook_url": "https://www.facebook.com/shibuya.sailors/",
+          "twitter_url": "https://twitter.com/shibuyasailors"
+        },
+        {
+          "id": "16",
+          "name": "大場やすのぶ",
+          "kana": "おおば　やすのぶ",
+          "sex": "男",
+          "age": "69",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://yasunobu-oba.jp",
+          "facebook_url": "http://www.facebook.com/yasunobu.ohba"
+        },
+        {
+          "id": "17",
+          "name": "森ふみお",
+          "kana": "もり　ふみお",
+          "sex": "男",
+          "age": "69",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "18",
+          "name": "三宅しげき",
+          "kana": "みやけ　しげき",
+          "sex": "男",
+          "age": "67",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.miyake.setagaya.tokyo.jp",
+          "facebook_url": "http://www.facebook.com/MiyakeShigeki"
+        }
+      ]
+    },
+    {
+      "area": "渋谷区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "浜田ひろき",
+          "kana": "はまだ　ひろき",
+          "sex": "男",
+          "age": "39",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://hamada.to/",
+          "twitter_url": "https://twitter.com/hamadahiroki"
+        },
+        {
+          "id": "2",
+          "name": "大津ひろ子",
+          "kana": "おおつ　ひろこ",
+          "sex": "女",
+          "age": "57",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.o2net.jp",
+          "facebook_url": "http://www.facebook.com/o2hiroko"
+        },
+        {
+          "id": "3",
+          "name": "龍円あいり　",
+          "kana": "りゅうえん　あいり",
+          "sex": "女",
+          "age": "40",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://airi-ryuen.com/",
+          "facebook_url": "https://www.facebook.com/airi.ryuen.shibuya/"
+        },
+        {
+          "id": "4",
+          "name": "前田かずしげ",
+          "kana": "まえだ　かずしげ",
+          "sex": "男",
+          "age": "47",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://maekaz.com",
+          "twitter_url": "https://twitter.com/nonnokokazun",
+          "facebook_url": "https://www.facebook.com/maeda.kazushige.tokyo"
+        },
+        {
+          "id": "5",
+          "name": "おりかさ裕治",
+          "kana": "おりかさ　ゆうじ",
+          "sex": "男",
+          "age": "59",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "中野区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "荒木ちはる",
+          "kana": "あらき　ちはる",
+          "sex": "女",
+          "age": "35",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://araki-chiharu.com",
+          "facebook_url": "https://www.facebook.com/chiharu.araki.52",
+          "twitter_url": "https://twitter.com/araki_chiharu"
+        },
+        {
+          "id": "2",
+          "name": "西沢けいた",
+          "kana": "にしざわ　けいた",
+          "sex": "男",
+          "age": "37",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://24zawa.jp",
+          "facebook_url": "https://www.facebook.com/keita.nishizawa.9/",
+          "twitter_url": "https://twitter.com/nishizawakeita",
+          "instagram_url": "https://www.instagram.com/keita_nishizawa/"
+        },
+        {
+          "id": "3",
+          "name": "しらかし貴子",
+          "kana": "しらかし　たかこ",
+          "sex": "女",
+          "age": "33",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "http://sirakashi.net/"
+        },
+        {
+          "id": "4",
+          "name": "浦野さとみ",
+          "kana": "うらの　さとみ",
+          "sex": "女",
+          "age": "36",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://urano-satomi.jp",
+          "twitter_url": "https://twitter.com/urano_satomi",
+          "facebook_url": "https://www.facebook.com/urano.satomi?ref=tn_tnmn"
+        },
+        {
+          "id": "5",
+          "name": "高倉良生",
+          "kana": "たかくら　りょうせい",
+          "sex": "男",
+          "age": "60",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.komei.or.jp/km/takakura-ryosei/",
+          "twitter_url": "https://twitter.com/komei_koho"
+        },
+        {
+          "id": "6",
+          "name": "川井しげお",
+          "kana": "かわい　しげお",
+          "sex": "男",
+          "age": "69",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://kawai-shigeo.jp"
+        }
+      ]
+    },
+    {
+      "area": "杉並区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "田中朝子",
+          "kana": "たなか　あさこ",
+          "sex": "女",
+          "age": "57",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://tanakaasako.com",
+          "facebook_url": "https://www.facebook.com/tanakaasakooffice/"
+        },
+        {
+          "id": "2",
+          "name": "小松久子",
+          "kana": "こまつ　ひさこ",
+          "sex": "女",
+          "age": "64",
+          "party": "東京・生活者ネットワーク",
+          "type": "現",
+          "url": "http://komatsu.seikatsusha.me/",
+          "twitter_url": "https://twitter.com/komachisa",
+          "facebook_url": "https://www.facebook.com/hisako.komatsu1"
+        },
+        {
+          "id": "3",
+          "name": "あかねがくぼかよ子",
+          "kana": "あかねがくぼ　かよこ",
+          "sex": "女",
+          "age": "41",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://a-kayo.com",
+          "facebook_url": "https://www.facebook.com/akanegakubokayoko/",
+          "twitter_url": "https://twitter.com/k_akanegakubo"
+        },
+        {
+          "id": "4",
+          "name": "原田あきら",
+          "kana": "はらだ　あきら",
+          "sex": "男",
+          "age": "42",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://www.yuiyuidori.net/jcpskd-harada/",
+          "twitter_url": "http://twitter.com/harada_akira"
+        },
+        {
+          "id": "5",
+          "name": "高橋しょうご",
+          "kana": "たかはし　しょうご",
+          "sex": "男",
+          "age": "33",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://ameblo.jp/shogotakahashi-tosei",
+          "twitter_url": "https://twitter.com/Shogo_tkhs"
+        },
+        {
+          "id": "6",
+          "name": "北島くにひこ",
+          "kana": "きたじま　くにひこ",
+          "sex": "男",
+          "age": "57",
+          "party": "都政を革新する会",
+          "type": "新",
+          "url": "http://www.tokakushin.org/wp/",
+          "twitter_url": "https://twitter.com/kjmirai"
+        },
+        {
+          "id": "7",
+          "name": "小宮あんり",
+          "kana": "こみや　あんり",
+          "sex": "女",
+          "age": "41",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.komiya-anri.com/"
+        },
+        {
+          "id": "8",
+          "name": "西村まさみ",
+          "kana": "にしむら　まさみ",
+          "sex": "女",
+          "age": "53",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://www.nishimura-masami.tokyo"
+        },
+        {
+          "id": "9",
+          "name": "まつば多美子",
+          "kana": "まつば　たみこ",
+          "sex": "女",
+          "age": "54",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.tamichan.net/",
+          "facebook_url": "https://www.facebook.com/%E3%81%BE%E3%81%A4%E3%81%B0%E5%A4%9A%E7%BE%8E%E5%AD%90-1145822075512440/"
+        },
+        {
+          "id": "10",
+          "name": "鳥居こうすけ",
+          "kana": "とりい　こうすけ",
+          "sex": "男",
+          "age": "46",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://www.toriikosuke.info"
+        },
+        {
+          "id": "11",
+          "name": "早坂よしひろ",
+          "kana": "はやさか　よしひろ",
+          "sex": "男",
+          "age": "48",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.tokyo-hayasaka.com",
+          "youtube_url": "http://www.youtube.com/user/mrbousai",
+          "facebook_url": "https://www.facebook.com/yoshihiro.hayasaka.7",
+          "twitter_url": "https://twitter.com/mrbousai"
+        },
+        {
+          "id": "12",
+          "name": "菅沢治希",
+          "kana": "すがさわ　はるき",
+          "sex": "男",
+          "age": "34",
+          "party": "地方議員ゼロの会",
+          "type": "新",
+          "url": "https://www.chihougiinzero-no-kai.com"
+        }
+      ]
+    },
+    {
+      "area": "豊島区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "泉谷つよし",
+          "kana": "いづみや　つよし",
+          "sex": "男",
+          "age": "51",
+          "party": "民進党",
+          "type": "元",
+          "url": "なし"
+        },
+        {
+          "id": "2",
+          "name": "本橋ひろたか",
+          "kana": "もとはし　ひろたか",
+          "sex": "男",
+          "age": "55",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.motohashi-hirotaka.jp",
+          "facebook_url": "https://www.facebook.com/tominfirst7/",
+          "twitter_url": "https://twitter.com/mr_motohashi"
+        },
+        {
+          "id": "3",
+          "name": "堀こうどう",
+          "kana": "ほり　こうどう",
+          "sex": "男",
+          "age": "52",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.hori-koudou.com/",
+          "twitter_url": "https://twitter.com/horikoudou1964",
+          "facebook_url": "http://www.facebook.com/horikoudou"
+        },
+        {
+          "id": "4",
+          "name": "米倉春奈",
+          "kana": "よねくら　はるな",
+          "sex": "女",
+          "age": "29",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://kouho.jcp-tokyo.net/yonekura/",
+          "facebook_url": "https://www.facebook.com/yonekuraharuna/",
+          "twitter_url": "https://twitter.com/yonekura_haruna",
+          "youtube_url": "https://www.youtube.com/playlist?list=PLHsLS2_dxXZAKb6uvypaUmGmzpo53_c7X",
+          "instagram_url": "http://instagram.com/"
+        },
+        {
+          "id": "5",
+          "name": "長橋けい一",
+          "kana": "ながはし　けいいち",
+          "sex": "男",
+          "age": "60",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.komei.or.jp/km/tokyo-nagahashi-keiichi/",
+          "facebook_url": "https://www.facebook.com/nagahashikeiichitoshima/",
+          "twitter_url": "https://twitter.com/nagahashikeiich"
+        }
+      ]
+    },
+    {
+      "area": "北区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "おときた駿",
+          "kana": "おときた　しゅん",
+          "sex": "男",
+          "age": "33",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://otokitashun.com/",
+          "twitter_url": "http://twitter.com/otokita",
+          "facebook_url": "http://www.facebook.com/otokitashun",
+          "googleplus_url": "https://plus.google.com/u/0/112321612788215374984/posts?rel=author"
+        },
+        {
+          "id": "2",
+          "name": "そねはじめ",
+          "kana": "そね　はじめ",
+          "sex": "男",
+          "age": "65",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://sonehajime.com/",
+          "twitter_url": "https://twitter.com/sone_hajime",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100005299354592&fref=ts"
+        },
+        {
+          "id": "3",
+          "name": "和田宗春",
+          "kana": "わだ　むねはる",
+          "sex": "男",
+          "age": "73",
+          "party": "民進党",
+          "type": "元",
+          "url": "http://www.wadamune.jp/"
+        },
+        {
+          "id": "4",
+          "name": "高木けい",
+          "kana": "たかぎ　けい",
+          "sex": "男",
+          "age": "52",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://takagi-kei.com/index.php",
+          "facebook_url": "https://www.facebook.com/tochokoho",
+          "twitter_url": "https://twitter.com/tocho_koho"
+        },
+        {
+          "id": "5",
+          "name": "大松あきら",
+          "kana": "おおまつ　あきら",
+          "sex": "男",
+          "age": "56",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.oomatsu.com/",
+          "facebook_url": "https://www.facebook.com/oomatsuakira/",
+          "youtube_url": "https://www.youtube.com/user/akiraoomatsu",
+          "twitter_url": "https://twitter.com/akiraoomatsu"
+        }
+      ]
+    },
+    {
+      "area": "荒川区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "たきぐち学",
+          "kana": "たきぐち　がく",
+          "sex": "男",
+          "age": "46",
+          "party": "無所属",
+          "type": "元",
+          "url": "http://t-gaku.com/",
+          "facebook_url": "https://www.facebook.com/gaku.takiguchi",
+          "twitter_url": "https://twitter.com/#!/takiguchigaku",
+          "googleplus_url": "https://plus.google.com/share?url=http://t-gaku.com&t=%E5%89%8D%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E3%81%9F%E3%81%8D%E3%81%90%E3%81%A1%E5%AD%A6%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99"
+        },
+        {
+          "id": "2",
+          "name": "西野アキラ",
+          "kana": "にしの　あきら",
+          "sex": "男",
+          "age": "40",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "https://www.facebook.com/nishino.akira7777",
+          "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
+        },
+        {
+          "id": "3",
+          "name": "けいの信一",
+          "kana": "けいの　しんいち",
+          "sex": "男",
+          "age": "41",
+          "party": "公明党",
+          "type": "新",
+          "url": "http://www.komei.or.jp/km/keino/",
+          "facebook_url": "https://www.facebook.com/keino.shinichi",
+          "instagram_url": "https://www.instagram.com/keino_shinichi/",
+          "twitter_url": "https://twitter.com/KeinoShinichi",
+          "youtube_url": "https://www.youtube.com/channel/UCrti02tDmyM-uKxJw4ovPeA"
+        },
+        {
+          "id": "4",
+          "name": "さきやま知尚",
+          "kana": "さきやま　ちしょう",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.sakiyama-c.jp/",
+          "twitter_url": "https://twitter.com/tokyojimin"
+        },
+        {
+          "id": "5",
+          "name": "山本ごう",
+          "kana": "やまもと　ごう",
+          "sex": "男",
+          "age": "39",
+          "party": "無所属",
+          "type": "新",
+          "url": "https://twitter.com/gohhog1",
+          "twitter_url": "http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code"
+        },
+        {
+          "id": "6",
+          "name": "相馬けんいち",
+          "kana": "そうま　けんいち",
+          "sex": "男",
+          "age": "63",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://kouho.jcp-tokyo.net/souma"
+        },
+        {
+          "id": "7",
+          "name": "宮本しゅんま",
+          "kana": "みやもと　しゅんま",
+          "sex": "男",
+          "age": "26",
+          "party": "無所属",
+          "type": "新",
+          "url": "https://mobile.twitter.com/cocomirakai"
+        }
+      ]
+    },
+    {
+      "area": "板橋区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "宮瀬英治",
+          "kana": "みやせ　えいじ",
+          "sex": "男",
+          "age": "40",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://miyase-eiji.net/",
+          "twitter_url": "https://twitter.com/miyase_eiji",
+          "facebook_url": "https://www.facebook.com/miyase.eiji.yourparty",
+          "youtube_url": "http://www.youtube.com/channel/UCAcHLDY9UbMVjNrp7w03L9A"
+        },
+        {
+          "id": "2",
+          "name": "くまき美奈子",
+          "kana": "くまき　みなこ",
+          "sex": "女",
+          "age": "55",
+          "party": "無所属",
+          "type": "元",
+          "url": "http://kumakiminako.jp/",
+          "twitter_url": "https://twitter.com/kumaki_minako",
+          "facebook_url": "https://www.facebook.com/くまき美奈子事務所-1667222106839710/"
+        },
+        {
+          "id": "3",
+          "name": "安原ひろし",
+          "kana": "やすはら　ひろし",
+          "sex": "男",
+          "age": "27",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "http://s.ameblo.jp/h-yasuhara11/"
+        },
+        {
+          "id": "4",
+          "name": "たちばな正剛",
+          "kana": "たちばな　せいごう",
+          "sex": "男",
+          "age": "64",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.komei.or.jp/km/tokyo-tachibana-seigo/",
+          "facebook_url": "https://www.facebook.com/tachibana.seigou?fref=ts",
+          "youtube_url": "https://www.youtube.com/watch?v=djAQCuZSGa4&authuser=0",
+          "twitter_url": "https://twitter.com/komei_koho"
+        },
+        {
+          "id": "5",
+          "name": "河野ゆうき",
+          "kana": "こうの　ゆうき",
+          "sex": "男",
+          "age": "47",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.kouno.tokyo.jp/"
+        },
+        {
+          "id": "6",
+          "name": "木下ふみこ",
+          "kana": "きのした　ふみこ",
+          "sex": "女",
+          "age": "50",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.k-fumiko.jp",
+          "twitter_url": "http://twitter.com/kinoshitafumiko",
+          "facebook_url": "https://www.facebook.com/kinoshitafumiko/",
+          "youtube_url": "https://www.youtube.com/channel/UCGh_OTQNFAZOJRauhLlEKWw"
+        },
+        {
+          "id": "7",
+          "name": "平けいしょう",
+          "kana": "たいら　けいしょう",
+          "sex": "男",
+          "age": "29",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.tairakeisyo.com/"
+        },
+        {
+          "id": "8",
+          "name": "松田やすまさ",
+          "kana": "まつだ　やすまさ",
+          "sex": "男",
+          "age": "40",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://yasumasa-matsuda.info"
+        },
+        {
+          "id": "9",
+          "name": "とくとめ道信",
+          "kana": "とくとめ　みちのぶ",
+          "sex": "男",
+          "age": "65",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://m-tokutome.com/",
+          "youtube_url": "https://www.youtube.com/channel/UCEfnRgUhXtO8wpyOoNYmAwg",
+          "facebook_url": "https://www.facebook.com/mitinobu.tokutome"
+        },
+        {
+          "id": "10",
+          "name": "佐上彰浩",
+          "kana": "さがみ　あきひろ",
+          "sex": "男",
+          "age": "46",
+          "party": "無所属",
+          "type": "新",
+          "url": "Twitterのユーザー名　AkihiroSagami",
+          "twitter_url": "https://twitter.com/AkihiroSagami"
+        }
+      ]
+    },
+    {
+      "area": "練馬区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "渋谷誠",
+          "kana": "しぶや　まこと",
+          "sex": "男",
+          "age": "53",
+          "party": "環境党",
+          "type": "新",
+          "url": "http://www.kankyotou.jp",
+          "facebook_url": "https://www.facebook.com/kankyotou.shibuya",
+          "twitter_url": "https://twitter.com/kankyotou"
+        },
+        {
+          "id": "2",
+          "name": "あさの克彦",
+          "kana": "あさの　かつひこ",
+          "sex": "男",
+          "age": "42",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://asano-k.net",
+          "facebook_url": "https://www.facebook.com/asanokatsuhiko/?fref=ts",
+          "twitter_url": "https://twitter.com/katsuhikoasano",
+          "googleplus_url": "https://plus.google.com/u/0/103812044711630915781/",
+          "youtube_url": "https://www.youtube.com/channel/UC1rVC6-s2qN3IezLj2NFr8g"
+        },
+        {
+          "id": "3",
+          "name": "藤井とものり",
+          "kana": "ふじい　とものり",
+          "sex": "男",
+          "age": "41",
+          "party": "民進党",
+          "type": "新",
+          "url": "https://ameblo.jp/fujiitomonori-nerima/"
+        },
+        {
+          "id": "4",
+          "name": "とや英津子",
+          "kana": "とや　えつこ",
+          "sex": "女",
+          "age": "53",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://toya-jcp.info",
+          "facebook_url": "https://www.facebook.com/toyasuppo/",
+          "twitter_url": "https://twitter.com/toyajimusho",
+          "youtube_url": "https://www.youtube.com/channel/UCHxMqIdlEM_4xTDZv1Wo8IA"
+        },
+        {
+          "id": "5",
+          "name": "小林けんじ",
+          "kana": "こばやし　けんじ",
+          "sex": "男",
+          "age": "47",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://kobaken-komei.com",
+          "twitter_url": "https://twitter.com/kobaken_komei",
+          "youtube_url": "http://www.youtube.com/tokyo/",
+          "facebook_url": "https://www.facebook.com/kobaken.komei"
+        },
+        {
+          "id": "6",
+          "name": "やまかあけみ",
+          "kana": "やまか　あけみ",
+          "sex": "女",
+          "age": "63",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.yamaka-akemi.jp/",
+          "facebook_url": "http://www.facebook.com/yamaka.akemi"
+        },
+        {
+          "id": "7",
+          "name": "しばざき幹男",
+          "kana": "しばざき　みきお",
+          "sex": "男",
+          "age": "61",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.shibazaki-mikio.jp/",
+          "facebook_url": "https://www.facebook.com/mikio.shibazaki?fref=ts"
+        },
+        {
+          "id": "8",
+          "name": "きくちやすえ",
+          "kana": "きくち　やすえ",
+          "sex": "女",
+          "age": "54",
+          "party": "東京・生活者ネットワーク",
+          "type": "新",
+          "url": "http://kikuchi.seikatsusha.me",
+          "facebook_url": "https://www.facebook.com/yasue.kikuchi.714"
+        },
+        {
+          "id": "9",
+          "name": "おじま紘平",
+          "kana": "おじま　こうへい",
+          "sex": "男",
+          "age": "28",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://ojimakohei.jp",
+          "twitter_url": "https://twitter.com/ojimakohei"
+        },
+        {
+          "id": "10",
+          "name": "村松一希",
+          "kana": "むらまつ　かずき",
+          "sex": "男",
+          "age": "36",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://k-muramatsu.com",
+          "youtube_url": "https://www.youtube.com/watch?v=JWqpzkOFJTQ"
+        }
+      ]
+    },
+    {
+      "area": "足立区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "鈴木かつひろ",
+          "kana": "すずき　かつひろ",
+          "sex": "男",
+          "age": "59",
+          "party": "日本維新の会",
+          "type": "元",
+          "url": "http://suzukikatsuhiro.jp/",
+          "twitter_url": "http://twitter.com/katsukatsuhiro",
+          "facebook_url": "http://www.facebook.com/katsuhiro.suzuki.35",
+          "youtube_url": "https://www.youtube.com/channel/UC2fCJ_aRZ2CIL0m5Whv68DQ"
+        },
+        {
+          "id": "2",
+          "name": "銀川ゆい子",
+          "kana": "ぎんかわ　ゆいこ",
+          "sex": "女",
+          "age": "31",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://ginkawa.org",
+          "twitter_url": "https://twitter.com/yuikoginkawa",
+          "facebook_url": "https://www.facebook.com/%E9%8A%80%E5%B7%9D-%E3%82%86%E3%81%84%E5%AD%90-110359972836817/"
+        },
+        {
+          "id": "3",
+          "name": "ばば信男",
+          "kana": "ばば　のぶお",
+          "sex": "男",
+          "age": "56",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://www.babanobuo.com/",
+          "facebook_url": "https://www.facebook.com/babanobuo2017/",
+          "twitter_url": "https://twitter.com/babanobuo"
+        },
+        {
+          "id": "4",
+          "name": "ほっち易隆",
+          "kana": "ほっち　やすたか",
+          "sex": "男",
+          "age": "41",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://hotchi.jp/",
+          "facebook_url": "https://www.facebook.com/328hochi/",
+          "youtube_url": "https://www.youtube.com/channel/UCgSWqMvVanGIdBalRsx0BuQ",
+          "twitter_url": "https://twitter.com/hotci_support/"
+        },
+        {
+          "id": "5",
+          "name": "中山信行",
+          "kana": "なかやま　のぶゆき",
+          "sex": "男",
+          "age": "58",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://nakayama.bg1.jp/",
+          "facebook_url": "https://www.facebook.com/adachi.nakayama/",
+          "twitter_url": "https://twitter.com/nobudon7"
+        },
+        {
+          "id": "6",
+          "name": "後藤なみ",
+          "kana": "ごとう　なみ",
+          "sex": "女",
+          "age": "30",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://gotonami.com",
+          "facebook_url": "https://www.facebook.com/GotoNamiTomin1st/",
+          "twitter_url": "https://twitter.com/gotonami_Tomin1"
+        },
+        {
+          "id": "7",
+          "name": "斉藤まりこ",
+          "kana": "さいとう　まりこ",
+          "sex": "女",
+          "age": "42",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://saito-mariko.info/",
+          "twitter_url": "https://twitter.com/tsukuttenet",
+          "facebook_url": "https://www.facebook.com/marikojimusyo/",
+          "youtube_url": "https://www.youtube.com/channel/UCVjtiClqlcfvi901PvRxwQA"
+        },
+        {
+          "id": "8",
+          "name": "うすい浩一",
+          "kana": "うすい　こういち",
+          "sex": "男",
+          "age": "57",
+          "party": "公明党",
+          "type": "新",
+          "url": "http://usui-kouichi.net/",
+          "youtube_url": "https://www.youtube.com/playlist?list=PLiMlUyKZToik4JRmmcyurTQBxCwk3YsEG",
+          "facebook_url": "https://www.facebook.com/%E3%81%86%E3%81%99%E3%81%84-%E6%B5%A9%E4%B8%80-336533063210111/",
+          "twitter_url": "https://twitter.com/maikana5155"
+        },
+        {
+          "id": "9",
+          "name": "髙島なおき",
+          "kana": "たかしま　なおき",
+          "sex": "男",
+          "age": "67",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.zenryoku.net",
+          "facebook_url": "https://www.facebook.com/takashima.naoki.adachiku",
+          "twitter_url": "http://twitter.com/intent/tweet?url=http://www.zenryoku.net&text=%5B1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%5D+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E9%AB%98%E5%B3%B6%E7%9B%B4%E6%A8%B9%EF%BC%88%E3%81%9F%E3%81%8B%E3%81%97%E3%81%BE%E3%81%AA%E3%81%8A%E3%81%8D%EF%BC%89+%7C+%E3%82%BC%E3%83%B3%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88",
+          "googleplus_url": "https://plus.google.com/share?url=http://www.zenryoku.net&t=%5B1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%5D+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E9%AB%98%E5%B3%B6%E7%9B%B4%E6%A8%B9%EF%BC%88%E3%81%9F%E3%81%8B%E3%81%97%E3%81%BE%E3%81%AA%E3%81%8A%E3%81%8D%EF%BC%89+%7C+%E3%82%BC%E3%83%B3%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88",
+          "youtube_url": "https://www.youtube.com/watch?v=SHwz-Un-qLU",
+          "instagram_url": "http://instagram.com/"
+        }
+      ]
+    },
+    {
+      "area": "葛飾区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "米山真吾",
+          "kana": "よねやま　しんご",
+          "sex": "男",
+          "age": "47",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://www.yoneyama-shingo.com",
+          "facebook_url": "https://www.facebook.com/yoneyamasingo/"
+        },
+        {
+          "id": "2",
+          "name": "のがみ純子",
+          "kana": "のがみ　じゅんこ",
+          "sex": "女",
+          "age": "64",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.nogami-junko.net",
+          "twitter_url": "https://twitter.com/junko_nogami116",
+          "facebook_url": "https://www.facebook.com/junko.nogami.9"
+        },
+        {
+          "id": "3",
+          "name": "谷野せいしろう",
+          "kana": "たにの　せいしろう",
+          "sex": "男",
+          "age": "75",
+          "party": "区民ファーストの会",
+          "type": "新",
+          "url": "http://tanino-seishiro.com/",
+          "facebook_url": "https://www.facebook.com/seishiro.tanino/"
+        },
+        {
+          "id": "4",
+          "name": "米川大二郎",
+          "kana": "よねかわ　だいじろう",
+          "sex": "男",
+          "age": "49",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://yonekawadaijiro.jp/"
+        },
+        {
+          "id": "5",
+          "name": "いずみ武彦",
+          "kana": "いずみ　たけひこ",
+          "sex": "男",
+          "age": "48",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://izumitakehiko.com",
+          "twitter_url": "https://twitter.com/tizumihcc",
+          "facebook_url": "https://www.facebook.com/togikaigiin/?fref=ts",
+          "youtube_url": "https://www.youtube.com/channel/UC_d4HaTDB9aqCyKu_lDmQFg"
+        },
+        {
+          "id": "6",
+          "name": "舟坂ちかお",
+          "kana": "ふなさか　ちかお",
+          "sex": "男",
+          "age": "69",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.funasaka-chikao.com/",
+          "facebook_url": "https://m.facebook.com/funasaka.tikao"
+        },
+        {
+          "id": "7",
+          "name": "和泉なおみ",
+          "kana": "いずみ　なおみ",
+          "sex": "女",
+          "age": "55",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "https://blogs.yahoo.co.jp/izumi_jmsy",
+          "facebook_url": "https://www.facebook.com/izumijmsy/?ref=aymt_homepage_panel",
+          "twitter_url": "https://twitter.com/6r58TQPgxTLCO7T"
+        },
+        {
+          "id": "8",
+          "name": "立花孝志",
+          "kana": "たちばな　たかし",
+          "sex": "男",
+          "age": "49",
+          "party": "NHKから国民を守る党",
+          "type": "新",
+          "url": "http://nhkkara.jp/",
+          "youtube_url": "http://www.youtube.com/channel/UCatwlXd46XYr0LftyBdx1bg",
+          "facebook_url": "https://www.facebook.com/takashi.tachibana.965",
+          "twitter_url": "https://twitter.com/tachibanat"
+        }
+      ]
+    },
+    {
+      "area": "江戸川区",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "田の上いくこ",
+          "kana": "たのうえ　いくこ",
+          "sex": "女",
+          "age": "47",
+          "party": "都民ファーストの会",
+          "type": "元",
+          "url": "http://ikuko-tanoue.com/",
+          "facebook_url": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fikuko-tanoue.com%2F&src=sdkpreparse",
+          "twitter_url": "http://twitter.com/intent/tweet?url=http://ikuko-tanoue.com/&text=田の上いくこHP&via=IKUKOTANN&related=IKUKOTANNさんのツイート&hashtags=田の上いくこ"
+        },
+        {
+          "id": "2",
+          "name": "たじま和明",
+          "kana": "たじま　かずあき",
+          "sex": "男",
+          "age": "66",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "なし"
+        },
+        {
+          "id": "3",
+          "name": "上田令子",
+          "kana": "うえだ　れいこ",
+          "sex": "女",
+          "age": "52",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://www.ueda-reiko.com",
+          "twitter_url": "http://twitter.com/uedareiko",
+          "youtube_url": "http://www.youtube.com/user/reikoueda",
+          "facebook_url": "http://www.facebook.com/people/%E4%B8%8A%E7%94%B0%E4%BB%A4%E5%AD%90/100001671249017"
+        },
+        {
+          "id": "4",
+          "name": "上野和彦",
+          "kana": "うえの　かずひこ",
+          "sex": "男",
+          "age": "64",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.ueno-net.com"
+        },
+        {
+          "id": "5",
+          "name": "河野ゆりえ",
+          "kana": "こうの　ゆりえ",
+          "sex": "女",
+          "age": "67",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://yurie-kouno.com/"
+        },
+        {
+          "id": "6",
+          "name": "宇田川さとし",
+          "kana": "うだがわ　さとし",
+          "sex": "男",
+          "age": "52",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.udagawa.tv"
+        }
+      ]
+    },
+    {
+      "area": "八王子市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "滝田やすひこ",
+          "kana": "たきた　やすひこ",
+          "sex": "男",
+          "age": "35",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://yasuhiko-takita.com/"
+        },
+        {
+          "id": "2",
+          "name": "清水ひで子",
+          "kana": "しみず　ひでこ",
+          "sex": "女",
+          "age": "65",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://www.simizu-h.com",
+          "error": true
+        },
+        {
+          "id": "3",
+          "name": "もろずみみのる",
+          "kana": "もろずみ　みのる",
+          "sex": "男",
+          "age": "55",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://www.morozumi-minoru.jp",
+          "twitter_url": "https://twitter.com/morozumi_m",
+          "facebook_url": "https://www.facebook.com/minoru.morozumi"
+        },
+        {
+          "id": "4",
+          "name": "安藤おさみ",
+          "kana": "あんどう　おさみ",
+          "sex": "男",
+          "age": "37",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://www.osami-ando.com",
+          "facebook_url": "https://www.facebook.com/Ando-Osami-official-117418392139232/"
+        },
+        {
+          "id": "5",
+          "name": "伊藤しょうこう",
+          "kana": "いとう　しょうこう",
+          "sex": "男",
+          "age": "48",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://park20.wakwak.com/~shoko/"
+        },
+        {
+          "id": "6",
+          "name": "滝沢景一",
+          "kana": "たきざわ　けいいち",
+          "sex": "男",
+          "age": "51",
+          "party": "無所属",
+          "type": "元",
+          "url": "http://k-takizawa.com"
+        },
+        {
+          "id": "7",
+          "name": "東村くにひろ",
+          "kana": "ひがしむら　くにひろ",
+          "sex": "男",
+          "age": "55",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.k-higashimura.com",
+          "facebook_url": "https://www.facebook.com/higashimurakunihiro/",
+          "youtube_url": "https://www.youtube.com/user/HigashimuraKunihiro"
+        },
+        {
+          "id": "8",
+          "name": "鈴木レオ",
+          "kana": "すずき　れお",
+          "sex": "男",
+          "age": "39",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://www.leo-leo.jp",
+          "twitter_url": "https://twitter.com/leosuzuki"
+        },
+        {
+          "id": "9",
+          "name": "岡村みきお",
+          "kana": "おかむら　みきお",
+          "sex": "男",
+          "age": "60",
+          "party": "日本第一党",
+          "type": "新",
+          "url": "https://m-okamura.japan-first.net/",
+          "twitter_url": "https://twitter.com/mvk3237"
+        }
+      ]
+    },
+    {
+      "area": "立川市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "酒井大史",
+          "kana": "さかい　だいし",
+          "sex": "男",
+          "age": "49",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.sakai-tachikawa.tokyo"
+        },
+        {
+          "id": "2",
+          "name": "増田いちろう",
+          "kana": "ますだ　いちろう",
+          "sex": "男",
+          "age": "52",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://ichiro-masuda.tokyo/",
+          "twitter_url": "https://twitter.com/ichiro_tachikaw"
+        },
+        {
+          "id": "3",
+          "name": "清水こうじ",
+          "kana": "しみず　こうじ",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://koji-s.net/",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100015540737018"
+        },
+        {
+          "id": "4",
+          "name": "浅川修一",
+          "kana": "あさかわ　しゅういち",
+          "sex": "男",
+          "age": "62",
+          "party": "日本共産党",
+          "type": "元",
+          "url": "http://kouho.jcp-tokyo.net/asakawa/",
+          "twitter_url": "https://twitter.com/asakawasyuuitij"
+        }
+      ]
+    },
+    {
+      "area": "武蔵野市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "島崎よしじ",
+          "kana": "しまざき　よしじ",
+          "sex": "男",
+          "age": "51",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://shimazakiyoshiji.com"
+        },
+        {
+          "id": "2",
+          "name": "鈴木くにかず",
+          "kana": "すずき　くにかず",
+          "sex": "男",
+          "age": "28",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://kunikazu.jp",
+          "facebook_url": "https://www.facebook.com/%E9%88%B4%E6%9C%A8-%E9%82%A6%E5%92%8C-238352469976411/",
+          "twitter_url": "https://twitter.com/kunikazu_suzuki"
+        },
+        {
+          "id": "3",
+          "name": "松下玲子",
+          "kana": "まつした　れいこ",
+          "sex": "女",
+          "age": "46",
+          "party": "民進党",
+          "type": "元",
+          "url": "http://015.bz/",
+          "facebook_url": "https://www.facebook.com/matsushitareiko/posts/1601400656537711",
+          "twitter_url": "https://twitter.com/matsushitareiko",
+          "youtube_url": "https://www.youtube.com/channel/UCv3_0Nj2zTqN0r0lovmdGHA/"
+        }
+      ]
+    },
+    {
+      "area": "三鷹市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "中村ひろし",
+          "kana": "なかむら　ひろし",
+          "sex": "男",
+          "age": "45",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://nakamurahiroshi.jpn.org/",
+          "twitter_url": "https://twitter.com/Nakamura_Mitaka",
+          "facebook_url": "https://www.facebook.com/nakamurahiroshi1971/photos/a.679856668753840.1073741829.673607522712088/1512443622161803/?type=3"
+        },
+        {
+          "id": "2",
+          "name": "加藤こうじ",
+          "kana": "かとう　こうじ",
+          "sex": "男",
+          "age": "50",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://katokoji.tokyo/",
+          "twitter_url": "https://twitter.com/katokoji0716",
+          "facebook_url": "https://www.facebook.com/abeshinzo"
+        },
+        {
+          "id": "3",
+          "name": "むろ喜代一",
+          "kana": "むろ　きよかず",
+          "sex": "男",
+          "age": "61",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://twitter.com/jcpmuro",
+          "twitter_url": "http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code"
+        },
+        {
+          "id": "4",
+          "name": "山田ひろし",
+          "kana": "やまだ　ひろし",
+          "sex": "男",
+          "age": "32",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://yamadahiroshi.jp/",
+          "twitter_url": "https://twitter.com/tomin1yamada",
+          "facebook_url": "https://www.facebook.com/山田ひろし-都民ファーストの会三鷹-297208480724325"
+        }
+      ]
+    },
+    {
+      "area": "青梅市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "つるた一忠",
+          "kana": "つるた　かずただ",
+          "sex": "男",
+          "age": "72",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "2",
+          "name": "森村たかゆき",
+          "kana": "もりむら　たかゆき",
+          "sex": "男",
+          "age": "43",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://morimura.tokyo",
+          "facebook_url": "http://www.facebook.com/sharer.php?src=bm&u=https://morimura.tokyo&t=%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A+%E6%A3%AE%E6%9D%91%E3%81%9F%E3%81%8B%E3%82%86%E3%81%8D%EF%BC%88%E6%A3%AE%E6%9D%91%E9%9A%86%E8%A1%8C%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88",
+          "twitter_url": "https://twitter.com/morimurataka",
+          "googleplus_url": "https://plus.google.com/share?url=https://morimura.tokyo&t=%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A+%E6%A3%AE%E6%9D%91%E3%81%9F%E3%81%8B%E3%82%86%E3%81%8D%EF%BC%88%E6%A3%AE%E6%9D%91%E9%9A%86%E8%A1%8C%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88"
+        },
+        {
+          "id": "3",
+          "name": "野村有信",
+          "kana": "のむら　ありのぶ",
+          "sex": "男",
+          "age": "76",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.nomura-arinobu.com/",
+          "facebook_url": "https://www.facebook.com/arinobu.nomura/",
+          "twitter_url": "https://twitter.com/nomuraarinobu"
+        }
+      ]
+    },
+    {
+      "area": "府中市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "鈴木きんじ",
+          "kana": "すずき　きんじ",
+          "sex": "男",
+          "age": "61",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://s-kinji.com"
+        },
+        {
+          "id": "2",
+          "name": "からさわ地平",
+          "kana": "からさわ　ちへい",
+          "sex": "男",
+          "age": "28",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://jcp-fuchu.com/karasawa-c/",
+          "facebook_url": "https://www.facebook.com/chihei.karasawa?"
+        },
+        {
+          "id": "3",
+          "name": "藤井あきら",
+          "kana": "ふじい　あきら",
+          "sex": "男",
+          "age": "35",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://fujiiakira.tokyo/",
+          "twitter_url": "https://twitter.com/FujiiAkiraTokyo",
+          "facebook_url": "https://www.facebook.com/FujiiAkiraTokyo/"
+        },
+        {
+          "id": "4",
+          "name": "小山くにひこ",
+          "kana": "こやま　くにひこ",
+          "sex": "男",
+          "age": "41",
+          "party": "都民ファーストの会",
+          "type": "現",
+          "url": "http://www.koyama.be",
+          "twitter_url": "https://twitter.com/KoyamaKunihiko",
+          "youtube_url": "http://www.youtube.com/channel/UC-p252ry2fLiG0F-jYAhC-g/videos"
+        }
+      ]
+    },
+    {
+      "area": "昭島市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "中村たけし",
+          "kana": "なかむら　たけし",
+          "sex": "男",
+          "age": "41",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://www.takeshinakamura.jp/",
+          "facebook_url": "https://www.facebook.com/takeshi.nakamura.543908",
+          "twitter_url": "https://twitter.com/tana0428",
+          "googleplus_url": "https://plus.google.com/share?url=http%3A//www.takeshinakamura.jp/election/"
+        },
+        {
+          "id": "2",
+          "name": "内山真吾",
+          "kana": "うちやま　しんご",
+          "sex": "男",
+          "age": "37",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://ameblo.jp/boxer-shingo/"
+        },
+        {
+          "id": "3",
+          "name": "奥村ひろし",
+          "kana": "おくむら　ひろし",
+          "sex": "男",
+          "age": "66",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "町田市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "池川友一",
+          "kana": "いけがわ　ゆういち",
+          "sex": "男",
+          "age": "32",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://blog.goo.ne.jp/u1_ikegawa",
+          "twitter_url": "https://twitter.com/goo_blog",
+          "facebook_url": "https://www.facebook.com/blog.goo.ne.jp"
+        },
+        {
+          "id": "2",
+          "name": "今村るか",
+          "kana": "いまむら　るか",
+          "sex": "男",
+          "age": "48",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://rukaruka.info"
+        },
+        {
+          "id": "3",
+          "name": "えびさわ由紀",
+          "kana": "えびさわ　ゆき",
+          "sex": "女",
+          "age": "43",
+          "party": "日本維新の会",
+          "type": "新",
+          "url": "https://ebisawayuki.com",
+          "twitter_url": "https://twitter.com/ebisawayuki",
+          "facebook_url": "https://www.facebook.com/ebisawayuki.tokyo/"
+        },
+        {
+          "id": "4",
+          "name": "よしわら修",
+          "kana": "よしわら　おさむ",
+          "sex": "男",
+          "age": "61",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.yoshiwara.jp/",
+          "googleplus_url": "https://plus.google.com/110699824227132898523",
+          "facebook_url": "https://www.facebook.com/yoshiwara"
+        },
+        {
+          "id": "5",
+          "name": "おくざわ高広",
+          "kana": "おくざわ　たかひろ",
+          "sex": "男",
+          "age": "35",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://okuzawa-takahiro.com/",
+          "facebook_url": "https://www.facebook.com/1927884604107779/posts/1989212627974976"
+        },
+        {
+          "id": "6",
+          "name": "上田てつじ",
+          "kana": "うえだ　てつじ",
+          "sex": "男",
+          "age": "57",
+          "party": "幸福実現党",
+          "type": "新",
+          "url": "http://www.ueda-tetsuji.net",
+          "twitter_url": "https://twitter.com/ueda_tetsuji"
+        },
+        {
+          "id": "7",
+          "name": "こいそ善彦",
+          "kana": "こいそ　よしひこ",
+          "sex": "男",
+          "age": "62",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://www.komei.or.jp/km/koiso-yoshihiko/",
+          "twitter_url": "https://twitter.com/komei_koho"
+        },
+        {
+          "id": "8",
+          "name": "市川勝斗",
+          "kana": "いちかわ　まさと",
+          "sex": "男",
+          "age": "40",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://ichikawa-m.jp"
+        }
+      ]
+    },
+    {
+      "area": "小金井市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "漢人あきこ",
+          "kana": "かんど　あきこ",
+          "sex": "女",
+          "age": "57",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://kandoakiko.com",
+          "facebook_url": "https://www.facebook.com/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E6%9D%B1%E4%BA%AC-1973630909536398/",
+          "twitter_url": "https://twitter.com/ctkoganei2017",
+          "youtube_url": "https://www.youtube.com/watch?v=9DT8nN_DFwY"
+        },
+        {
+          "id": "2",
+          "name": "朝倉法明",
+          "kana": "あさくら　のりあき",
+          "sex": "男",
+          "age": "58",
+          "party": "無所属",
+          "type": "新",
+          "url": "https://houmei1959.wixsite.com/asakurahoumei"
+        },
+        {
+          "id": "3",
+          "name": "うちこが宏",
+          "kana": "うちこが　ひろし",
+          "sex": "男",
+          "age": "53",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://uchikoga.com",
+          "twitter_url": "https://twitter.com/UchikogaHiroshi"
+        },
+        {
+          "id": "4",
+          "name": "広瀬まき",
+          "kana": "ひろせ　まき",
+          "sex": "女",
+          "age": "35",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://hirose-maki.jp",
+          "twitter_url": "https://twitter.com/hiromaki0415",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100011441804563",
+          "instagram_url": "https://www.instagram.com/hiromaki1982/?hl=ja"
+        },
+        {
+          "id": "5",
+          "name": "つじの栄作",
+          "kana": "つじの　えいさく",
+          "sex": "男",
+          "age": "48",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "小平市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "高橋のぶひろ",
+          "kana": "たかはし　のぶひろ",
+          "sex": "男",
+          "age": "70",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://nobuhiro-takahashi.net/",
+          "facebook_url": "https://m.facebook.com/profile.php?id=100016215701175",
+          "instagram_url": "https://www.instagram.com/takahashi.nobuhiro.jimin/"
+        },
+        {
+          "id": "2",
+          "name": "斉藤あつし",
+          "kana": "さいとう　あつし",
+          "sex": "男",
+          "age": "50",
+          "party": "民進党",
+          "type": "現",
+          "url": "http://saitoatsushi.com"
+        },
+        {
+          "id": "3",
+          "name": "鈴木大智",
+          "kana": "すずき　だいち",
+          "sex": "男",
+          "age": "34",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://kouho.jcp-tokyo.net/suzuki/",
+          "facebook_url": "https://www.facebook.com/kodairadaichi",
+          "twitter_url": "https://twitter.com/JpKorochan"
+        },
+        {
+          "id": "4",
+          "name": "佐野いくお",
+          "kana": "さの　いくお",
+          "sex": "男",
+          "age": "61",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://snipesano.la.coocan.jp/"
+        }
+      ]
+    },
+    {
+      "area": "日野市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "新井ともはる",
+          "kana": "あらい　ともはる",
+          "sex": "男",
+          "age": "44",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.arai-tomoharu.com"
+        },
+        {
+          "id": "2",
+          "name": "菅原直志",
+          "kana": "すがわら　なおし",
+          "sex": "男",
+          "age": "49",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://www.facebook.com/naoshi.sugawara",
+          "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
+        },
+        {
+          "id": "3",
+          "name": "古賀俊昭",
+          "kana": "こが　としあき",
+          "sex": "男",
+          "age": "69",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "なし"
+        },
+        {
+          "id": "4",
+          "name": "中野あきと",
+          "kana": "なかの　あきと",
+          "sex": "男",
+          "age": "48",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://www.中野あきと.jp",
+          "facebook_url": "https://www.facebook.com/jcpshimi"
+        }
+      ]
+    },
+    {
+      "area": "西東京市",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "山田忠昭",
+          "kana": "やまだ　ただあき",
+          "sex": "男",
+          "age": "68",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.yamadatadaaki.net/",
+          "twitter_url": "https://twitter.com/toYAMADAtadaaki",
+          "facebook_url": "http://facebook.com/toYAMADAtadaaki",
+          "youtube_url": "https://www.youtube.com/watch?v=JfOJ4f25l_Y"
+        },
+        {
+          "id": "2",
+          "name": "桐山ひとみ",
+          "kana": "きりやま　ひとみ",
+          "sex": "女",
+          "age": "46",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://kiriyamahitomi.tokyo"
+        },
+        {
+          "id": "3",
+          "name": "中村すぐる",
+          "kana": "なかむら　すぐる",
+          "sex": "男",
+          "age": "30",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://blog.goo.ne.jp/nakamura-suguru",
+          "facebook_url": "https://www.facebook.com/blog.goo.ne.jp",
+          "twitter_url": "https://twitter.com/goo_blog"
+        },
+        {
+          "id": "4",
+          "name": "石毛しげる",
+          "kana": "いしげ　しげる",
+          "sex": "男",
+          "age": "64",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.ishige.info"
+        }
+      ]
+    },
+    {
+      "area": "西多摩",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "清水やすこ",
+          "kana": "しみず　やすこ",
+          "sex": "女",
+          "age": "50",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "2",
+          "name": "西村まさと",
+          "kana": "にしむら　まさと",
+          "sex": "男",
+          "age": "50",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "3",
+          "name": "田村利光",
+          "kana": "たむら　としみつ",
+          "sex": "男",
+          "age": "50",
+          "party": "自由民主党",
+          "type": "新",
+          "url": "http://www.tamuratoshimitsu.com",
+          "facebook_url": "https://www.facebook.com/tamura.toshimitsu/",
+          "twitter_url": "https://twitter.com/toshimitutamura",
+          "youtube_url": "https://www.youtube.com/channel/UCE_sl71j_2MyGtKugPUZjsA"
+        },
+        {
+          "id": "4",
+          "name": "島田幸成",
+          "kana": "しまだ　ゆきなり",
+          "sex": "男",
+          "age": "49",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.yukinari-shimada.net"
+        }
+      ]
+    },
+    {
+      "area": "南多摩",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "こいそ明",
+          "kana": "こいそ　あきら",
+          "sex": "男",
+          "age": "65",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.a-koiso.com/main/",
+          "facebook_url": "https://www.facebook.com/togikai.koiso.akira",
+          "twitter_url": "https://twitter.com/koiso_akira",
+          "instagram_url": "https://www.instagram.com/office_koiso/"
+        },
+        {
+          "id": "2",
+          "name": "斉藤れいな",
+          "kana": "さいとう　れいな",
+          "sex": "女",
+          "age": "38",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://reina-saito.amebaownd.com"
+        },
+        {
+          "id": "3",
+          "name": "石川良一",
+          "kana": "いしかわ　りょういち",
+          "sex": "男",
+          "age": "65",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://ryo1-inagi.com",
+          "facebook_url": "https://www.facebook.com/ISHIKAWA.RYOICHI.official/",
+          "twitter_url": "https://twitter.com/ishikawaryo1",
+          "instagram_url": "https://www.instagram.com/ishikawa.ryo1/",
+          "youtube_url": "https://www.youtube.com/channel/UC_484DaJXl07vNm8gXkGdHQ"
+        },
+        {
+          "id": "4",
+          "name": "菅原しげみ",
+          "kana": "すがわら　しげみ",
+          "sex": "女",
+          "age": "68",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "5",
+          "name": "土居範洋",
+          "kana": "どい　のりひろ",
+          "sex": "男",
+          "age": "35",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://doinorihiro.tokyo",
+          "facebook_url": "https://www.facebook.com/doinorihiro.tokyo/",
+          "twitter_url": "https://twitter.com/norimati",
+          "instagram_url": "https://www.instagram.com/rohirinoido/?hl=ja"
+        }
+      ]
+    },
+    {
+      "area": "北多摩第一",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "北久保まさみち",
+          "kana": "きたくぼ　まさみち",
+          "sex": "男",
+          "age": "64",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://masamichi.d.dooo.jp"
+        },
+        {
+          "id": "2",
+          "name": "谷村たかひこ",
+          "kana": "たにむら　たかひこ",
+          "sex": "男",
+          "age": "54",
+          "party": "公明党",
+          "type": "現",
+          "url": "https://www.tanimuratakahiko.com/",
+          "facebook_url": "https://www.facebook.com/takahiko.tanimura/"
+        },
+        {
+          "id": "3",
+          "name": "尾崎あや子",
+          "kana": "おざき　あやこ",
+          "sex": "女",
+          "age": "58",
+          "party": "日本共産党",
+          "type": "現",
+          "url": "http://kouho.jcp-tokyo.net/ozaki/",
+          "facebook_url": "https://www.facebook.com/people/Ayako-Ozaki/100005935718833",
+          "twitter_url": "https://twitter.com/ozaki_ayako"
+        },
+        {
+          "id": "4",
+          "name": "関野たかなり",
+          "kana": "せきの　たかなり",
+          "sex": "男",
+          "age": "43",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "https://sekino-takanari.com/",
+          "facebook_url": "https://ja-jp.facebook.com/sekino.takanari/",
+          "twitter_url": "https://twitter.com/takanaris"
+        },
+        {
+          "id": "5",
+          "name": "鈴木たつお",
+          "kana": "すずき　たつお",
+          "sex": "男",
+          "age": "48",
+          "party": "民進党",
+          "type": "新",
+          "url": "http://tatsuo.tokyo/",
+          "facebook_url": "https://www.facebook.com/tatsuo.suzuki.supporters.association/",
+          "twitter_url": "https://twitter.com/tatsuosuzukitw/"
+        },
+        {
+          "id": "6",
+          "name": "やまうち章明",
+          "kana": "やまうち　しょうめい",
+          "sex": "男",
+          "age": "64",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "北多摩第二",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "山内れい子",
+          "kana": "やまうち　れいこ",
+          "sex": "女",
+          "age": "61",
+          "party": "東京・生活者ネットワーク",
+          "type": "現",
+          "url": "http://yamauchi.seikatsusha.me",
+          "facebook_url": "https://www.facebook.com/reiko.yamauchi.733"
+        },
+        {
+          "id": "2",
+          "name": "たかすぎ健一",
+          "kana": "たかすぎ　けんいち",
+          "sex": "男",
+          "age": "66",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.takasugikenichi.com",
+          "facebook_url": "https://www.facebook.com/%E3%81%9F%E3%81%8B%E3%81%99%E3%81%8E%E5%81%A5%E4%B8%80%E3%83%9A%E3%83%BC%E3%82%B8-1226101997516364/"
+        },
+        {
+          "id": "3",
+          "name": "おきつひでのり",
+          "kana": "おきつ　ひでのり",
+          "sex": "男",
+          "age": "60",
+          "party": "民進党",
+          "type": "元",
+          "url": "https://okitsu.tokyo/",
+          "facebook_url": "https://www.facebook.com/okitsu.hidenori/"
+        },
+        {
+          "id": "4",
+          "name": "岡本こうき",
+          "kana": "おかもと　こうき",
+          "sex": "男",
+          "age": "34",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "北多摩第三",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "尾崎大介",
+          "kana": "おざき　だいすけ",
+          "sex": "男",
+          "age": "43",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://ozaki-daisuke.com",
+          "facebook_url": "https://www.facebook.com/ozakidaisuke74",
+          "youtube_url": "http://www.youtube.com/user/ozakidaisuke1"
+        },
+        {
+          "id": "2",
+          "name": "いび匡利",
+          "kana": "いび　まさとし",
+          "sex": "男",
+          "age": "53",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://www.ibimasatoshi.tokyo/"
+        },
+        {
+          "id": "3",
+          "name": "中島よしお",
+          "kana": "なかじま　よしお",
+          "sex": "男",
+          "age": "67",
+          "party": "公明党",
+          "type": "現",
+          "url": "http://nakajimanet.com/",
+          "youtube_url": "https://www.youtube.com/user/yoshionakajima/",
+          "facebook_url": "https://www.facebook.com/yoshio.nakajima.tokyo/",
+          "twitter_url": "https://twitter.com/nakajimayoshio"
+        },
+        {
+          "id": "4",
+          "name": "小野寺とおる",
+          "kana": "おのでら　とおる",
+          "sex": "男",
+          "age": "48",
+          "party": "無所属",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "5",
+          "name": "栗山よしゆき",
+          "kana": "くりやま　よしゆき",
+          "sex": "男",
+          "age": "58",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://yoshiyuki.my.coocan.jp",
+          "facebook_url": "https://www.facebook.com/yoshiyuki.kuriyama.12?hc_location=stream",
+          "twitter_url": "https://twitter.com/201Kuriyama"
+        },
+        {
+          "id": "6",
+          "name": "新井匠",
+          "kana": "あらい　たくみ",
+          "sex": "男",
+          "age": "48",
+          "party": "無所属",
+          "type": "新",
+          "url": "http://araitakumi.com"
+        }
+      ]
+    },
+    {
+      "area": "北多摩第四",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "原のり子",
+          "kana": "はら　のりこ",
+          "sex": "女",
+          "age": "51",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "http://hara-noriko.info",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100013886319679",
+          "twitter_url": "https://twitter.com/haranoriko0917"
+        },
+        {
+          "id": "2",
+          "name": "山下太郎",
+          "kana": "やました　たろう",
+          "sex": "男",
+          "age": "44",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://www.yamashitataro.com/"
+        },
+        {
+          "id": "3",
+          "name": "野島善司",
+          "kana": "のじま　ぜんじ",
+          "sex": "男",
+          "age": "68",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.nojizen.jp",
+          "instagram_url": "https://www.instagram.com/nojizen.jimusyo/",
+          "twitter_url": "https://twitter.com/NojizenJimusyo",
+          "facebook_url": "https://www.facebook.com/%E9%87%8E%E5%B3%B6%E5%96%84%E5%8F%B8%E4%BA%8B%E5%8B%99%E6%89%80-1520779881319418/"
+        },
+        {
+          "id": "4",
+          "name": "細谷しょうこ",
+          "kana": "ほそや　しょうこ",
+          "sex": "女",
+          "age": "63",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "なし"
+        }
+      ]
+    },
+    {
+      "area": "島部",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "綾とおる",
+          "kana": "あや　とおる",
+          "sex": "男",
+          "age": "64",
+          "party": "日本共産党",
+          "type": "新",
+          "url": "なし"
+        },
+        {
+          "id": "2",
+          "name": "山下崇",
+          "kana": "やました　そう",
+          "sex": "男",
+          "age": "44",
+          "party": "都民ファーストの会",
+          "type": "新",
+          "url": "http://so-yamashita.com/",
+          "facebook_url": "https://www.facebook.com/so.yamashita.islands/?fref=ts"
+        },
+        {
+          "id": "3",
+          "name": "三宅正彦",
+          "kana": "みやけ　まさひこ",
+          "sex": "男",
+          "age": "45",
+          "party": "自由民主党",
+          "type": "現",
+          "url": "http://www.miyake-masahiko.jp"
+        }
+      ]
+    }
+  ]
+}
