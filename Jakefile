@@ -112,7 +112,7 @@ function formatCSV(lines) {
   console.log("選挙区,定員,立候補者氏名,\"立候補者氏名（かな）\",性別,年齢,党派,新 現 元,ウェブサイト,Twitter URL,Facebook ID,YouTube URL,Instagram ID,Google+ URL,処理エラー");
   lines.forEach((line) => {
     if (line && line.area) {
-      console.log(line.area + ',,,,,,,,,,,,,');
+      console.log(line.area + ',,,,,,,,,,,,,,');
     } else if (line) {
       console.log(
         ',,' +
