@@ -1793,8 +1793,7 @@
           "age": "36",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "http://k-muramatsu.com",
-          "youtube_url": "https://www.youtube.com/watch?v=JWqpzkOFJTQ"
+          "url": "http://k-muramatsu.com"
         }
       ]
     },
@@ -2108,7 +2107,8 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://www.simizu-h.com",
-          "error": true
+          "facebook_url": "https://ja-jp.facebook.com/people/Hideko-Simizu/100001013727602",
+          "twitter_url": "https://twitter.com/@SimizuHideko"
         },
         {
           "id": "3",
@@ -2515,7 +2515,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://okuzawa-takahiro.com/",
-          "facebook_url": "https://www.facebook.com/1927884604107779/posts/1989212627974976"
+          "facebook_url": "https://www.facebook.com/1927884604107779/posts/1989382914624614"
         },
         {
           "id": "6",
@@ -2855,7 +2855,7 @@
           "age": "68",
           "party": "日本共産党",
           "type": "新",
-          "url": "なし"
+          "url": "http://sigemi-jimusyo.blogspot.jp/"
         },
         {
           "id": "5",

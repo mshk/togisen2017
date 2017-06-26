@@ -5,6 +5,7 @@ task('default', (format = 'json') => {
   client.fetch('http://www.h29togisen.metro.tokyo.jp/election/list.html', (err, $, res) => {
 
     let promises = [];
+    let timeout = 0;
 
     $('.contents section').each(function (idx) {
       if ($(this).attr('id') == null) { return; }
@@ -27,36 +28,39 @@ task('default', (format = 'json') => {
           }));
         } else if (candidate.url && candidate.url != 'なし') {
           promises.push(new Promise((resolve, error) => {
-            client.fetch(candidate.url, (err, $, res) => {
-              if (err) {
-                console.error("fetch url error: ", candidate.url);
-                candidate.error = true;
-                return resolve(candidate);
-              }
-
-              $('a').each(function (idx) {
-                let url = $(this).url();
-                switch (true) {
-                  case /facebook\.com/.test(url):
-                    candidate.facebook_url = url;
-                    break;
-                  case /twitter\.com/.test(url):
-                    if (!/twitter\.com\/share/.test(url))
-                      candidate.twitter_url = url;
-                    break;
-                  case /instagram\.com/.test(url):
-                    candidate.instagram_url = url;
-                    break;
-                  case /youtube\.com/.test(url):
-                    candidate.youtube_url = url;
-                    break;
-                  case /plus\.google\.com/.test(url):
-                    candidate.googleplus_url = url;
-                    break;                       
+            setTimeout(() => {
+              client.fetch(candidate.url, (err, $, res) => {
+                if (err) {
+                  console.error("fetch url error: ", candidate.url);
+                  candidate.error = true;
+                  return resolve(candidate);
                 }
+
+                $('a').each(function (idx) {
+                  let url = $(this).url();
+                  switch (true) {
+                    case /facebook\.com/.test(url):
+                      candidate.facebook_url = url;
+                      break;
+                    case /twitter\.com/.test(url):
+                      if (!/twitter\.com\/share/.test(url))
+                        candidate.twitter_url = url;
+                      break;
+                    case /instagram\.com/.test(url):
+                      candidate.instagram_url = url;
+                      break;
+                    case /youtube\.com/.test(url):
+                      candidate.youtube_url = url;
+                      break;
+                    case /plus\.google\.com/.test(url):
+                      candidate.googleplus_url = url;
+                      break;
+                  }
+                });
+                resolve(candidate);
               });
-              resolve(candidate);
-            });
+            }, timeout);
+            timeout += 200;
           }));
         } else {
           promises.push(new Promise((resolve, error) => {
