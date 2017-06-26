@@ -86,7 +86,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://www.ayumi-m.com",
-          "facebook_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fayumi.moriya55%2F&src=sdkpreparse"
+          "facebook_url": "https://www.facebook.com/profile.php?id=100008945136346"
         },
         {
           "id": "4",
@@ -138,10 +138,8 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.kanno-ko.com/",
-          "facebook_url": "http://www.facebook.com/sharer.php?src=bm&u=http://www.kanno-ko.com&t=%E3%81%8B%E3%82%93%E3%81%AE%E5%BC%98%E4%B8%80++%E6%B8%AF%E5%8C%BA%E9%81%B8%E5%87%BA%E3%83%BB%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1",
-          "twitter_url": "https://twitter.com/kanno_tokyoma",
-          "googleplus_url": "https://plus.google.com/share?url=http://www.kanno-ko.com&t=%E3%81%8B%E3%82%93%E3%81%AE%E5%BC%98%E4%B8%80++%E6%B8%AF%E5%8C%BA%E9%81%B8%E5%87%BA%E3%83%BB%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1",
-          "instagram_url": "http://instagram.com/"
+          "facebook_url": "https://www.facebook.com/1795438734105315/",
+          "twitter_url": "https://twitter.com/kanno_tokyoma"
         },
         {
           "id": "3",
@@ -152,8 +150,7 @@
           "party": "無所属",
           "type": "元",
           "url": "http://www.otsuka-t.jp",
-          "facebook_url": "https://www.facebook.com/takaaki.otsuka.58",
-          "instagram_url": "http://instagram.com/"
+          "facebook_url": "https://www.facebook.com/takaaki.otsuka.58"
         },
         {
           "id": "4",
@@ -260,8 +257,7 @@
           "age": "51",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.akita160.jp/",
-          "instagram_url": "http://instagram.com/"
+          "url": "http://www.akita160.jp/"
         },
         {
           "id": "7",
@@ -385,7 +381,8 @@
           "type": "新",
           "url": "http://kouho.jcp-tokyo.net/ito/",
           "facebook_url": "https://www.facebook.com/daiki.itho",
-          "twitter_url": "https://twitter.com/ozone728"
+          "twitter_url": "https://twitter.com/ozone728",
+          "youtube_url": "https://www.youtube.com/channel/UCSqDO_lzfv8yWl-QtW1dRDA"
         },
         {
           "id": "2",
@@ -397,8 +394,7 @@
           "type": "現",
           "url": "https://kawamatsu2011.com/",
           "facebook_url": "https://www.facebook.com/%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97-529350280606639/",
-          "twitter_url": "https://twitter.com/#!/kawamatsushin16",
-          "googleplus_url": "https://plus.google.com/share?url=https://kawamatsu2011.com&t=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1+%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97%EF%BC%88%E3%81%8B%E3%82%8F%E3%81%BE%E3%81%A4%E3%81%97%E3%82%93%E3%81%84%E3%81%A1%E3%82%8D%E3%81%86%EF%BC%89"
+          "twitter_url": "https://twitter.com/#!/kawamatsushin16"
         },
         {
           "id": "3",
@@ -409,7 +405,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.h-sakurai.jp/",
-          "twitter_url": "http://twitter.com/intent/user?screen_name=SakuraiHiroyuki",
+          "twitter_url": "https://twitter.com/SakuraiHiroyuki",
           "youtube_url": "https://www.youtube.com/user/sakuraidouga",
           "facebook_url": "http://www.facebook.com/profile.php?id=100002687443679"
         },
@@ -739,7 +735,7 @@
           "type": "現",
           "url": "http://www.s-kamibayashi-senkyo.com",
           "facebook_url": "https://www.facebook.com/groups/1743869689250587/",
-          "twitter_url": "https://twitter.com/intent/tweet?text=http%3a%2f%2fwww%2es%2dkamibayashi%2dsenkyo%2ecom%2f%20%23%e7%a5%9e%e6%9e%97%e8%8c%82%20%23%e6%94%bf%e6%b2%bb%e3%81%ab%e8%b2%ac%e4%bb%bb%e6%84%9f"
+          "twitter_url": "https://twitter.com/kamibayashi210"
         },
         {
           "id": "5",
@@ -852,7 +848,6 @@
           "type": "新",
           "url": "http://www.shin310.net/",
           "facebook_url": "http://www.facebook.com/share.php?u=http://www.shin310.net/",
-          "googleplus_url": "https://plus.google.com/share?url=http://www.shin310.net/",
           "twitter_url": "https://twitter.com/shinsato0302"
         },
         {
@@ -1390,8 +1385,7 @@
           "url": "http://kouho.jcp-tokyo.net/yonekura/",
           "facebook_url": "https://www.facebook.com/yonekuraharuna/",
           "twitter_url": "https://twitter.com/yonekura_haruna",
-          "youtube_url": "https://www.youtube.com/playlist?list=PLHsLS2_dxXZAKb6uvypaUmGmzpo53_c7X",
-          "instagram_url": "http://instagram.com/"
+          "youtube_url": "https://www.youtube.com/playlist?list=PLHsLS2_dxXZAKb6uvypaUmGmzpo53_c7X"
         },
         {
           "id": "5",
@@ -1485,8 +1479,7 @@
           "type": "元",
           "url": "http://t-gaku.com/",
           "facebook_url": "https://www.facebook.com/gaku.takiguchi",
-          "twitter_url": "https://twitter.com/#!/takiguchigaku",
-          "googleplus_url": "https://plus.google.com/share?url=http://t-gaku.com&t=%E5%89%8D%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E3%81%9F%E3%81%8D%E3%81%90%E3%81%A1%E5%AD%A6%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99"
+          "twitter_url": "https://twitter.com/#!/takiguchigaku"
         },
         {
           "id": "2",
@@ -1793,7 +1786,8 @@
           "age": "36",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "http://k-muramatsu.com"
+          "url": "http://k-muramatsu.com",
+          "youtube_url": "https://www.youtube.com/watch?v=JWqpzkOFJTQ"
         }
       ]
     },
@@ -1910,10 +1904,7 @@
           "type": "現",
           "url": "http://www.zenryoku.net",
           "facebook_url": "https://www.facebook.com/takashima.naoki.adachiku",
-          "twitter_url": "http://twitter.com/intent/tweet?url=http://www.zenryoku.net&text=%5B1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%5D+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E9%AB%98%E5%B3%B6%E7%9B%B4%E6%A8%B9%EF%BC%88%E3%81%9F%E3%81%8B%E3%81%97%E3%81%BE%E3%81%AA%E3%81%8A%E3%81%8D%EF%BC%89+%7C+%E3%82%BC%E3%83%B3%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88",
-          "googleplus_url": "https://plus.google.com/share?url=http://www.zenryoku.net&t=%5B1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE%5D+%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%80%80%E9%AB%98%E5%B3%B6%E7%9B%B4%E6%A8%B9%EF%BC%88%E3%81%9F%E3%81%8B%E3%81%97%E3%81%BE%E3%81%AA%E3%81%8A%E3%81%8D%EF%BC%89+%7C+%E3%82%BC%E3%83%B3%E3%83%AA%E3%83%A7%E3%82%AF%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88",
-          "youtube_url": "https://www.youtube.com/watch?v=SHwz-Un-qLU",
-          "instagram_url": "http://instagram.com/"
+          "youtube_url": "https://www.youtube.com/watch?v=SHwz-Un-qLU"
         }
       ]
     },
@@ -2027,8 +2018,8 @@
           "party": "都民ファーストの会",
           "type": "元",
           "url": "http://ikuko-tanoue.com/",
-          "facebook_url": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fikuko-tanoue.com%2F&src=sdkpreparse",
-          "twitter_url": "http://twitter.com/intent/tweet?url=http://ikuko-tanoue.com/&text=田の上いくこHP&via=IKUKOTANN&related=IKUKOTANNさんのツイート&hashtags=田の上いくこ"
+          "facebook_url": "https://www.facebook.com/1ikukotanoue/",
+          "twitter_url": "https://twitter.com/IKUKOTANN"
         },
         {
           "id": "2",
@@ -2351,9 +2342,8 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://morimura.tokyo",
-          "facebook_url": "http://www.facebook.com/sharer.php?src=bm&u=https://morimura.tokyo&t=%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A+%E6%A3%AE%E6%9D%91%E3%81%9F%E3%81%8B%E3%82%86%E3%81%8D%EF%BC%88%E6%A3%AE%E6%9D%91%E9%9A%86%E8%A1%8C%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88",
-          "twitter_url": "https://twitter.com/morimurataka",
-          "googleplus_url": "https://plus.google.com/share?url=https://morimura.tokyo&t=%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A+%E6%A3%AE%E6%9D%91%E3%81%9F%E3%81%8B%E3%82%86%E3%81%8D%EF%BC%88%E6%A3%AE%E6%9D%91%E9%9A%86%E8%A1%8C%EF%BC%89%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88"
+          "facebook_url": "https://www.facebook.com/morimuratakayuki/",
+          "twitter_url": "https://twitter.com/morimurataka"
         },
         {
           "id": "3",
@@ -2431,9 +2421,8 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.takeshinakamura.jp/",
-          "facebook_url": "https://www.facebook.com/takeshi.nakamura.543908",
           "twitter_url": "https://twitter.com/tana0428",
-          "googleplus_url": "https://plus.google.com/share?url=http%3A//www.takeshinakamura.jp/election/"
+          "facebook_url": "https://www.facebook.com/takeshi.nakamura.543908"
         },
         {
           "id": "2",
@@ -2564,8 +2553,8 @@
           "type": "新",
           "url": "http://kandoakiko.com",
           "facebook_url": "https://www.facebook.com/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E6%9D%B1%E4%BA%AC-1973630909536398/",
-          "twitter_url": "https://twitter.com/ctkoganei2017",
-          "youtube_url": "https://www.youtube.com/watch?v=9DT8nN_DFwY"
+          "youtube_url": "https://www.youtube.com/watch?v=9DT8nN_DFwY",
+          "twitter_url": "https://twitter.com/ctkoganei2017"
         },
         {
           "id": "2",

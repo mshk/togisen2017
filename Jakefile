@@ -39,21 +39,23 @@ task('default', (format = 'json') => {
                 $('a').each(function (idx) {
                   let url = $(this).url();
                   switch (true) {
-                    case /facebook\.com/.test(url):
-                      candidate.facebook_url = url;
+                    case /facebook\.com\/.+/.test(url):
+                      if (!/facebook\.com\/sharer/.test(url))
+                        candidate.facebook_url = url;
                       break;
-                    case /twitter\.com/.test(url):
-                      if (!/twitter\.com\/share/.test(url))
+                    case /twitter\.com\/.+/.test(url):
+                      if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url))
                         candidate.twitter_url = url;
                       break;
-                    case /instagram\.com/.test(url):
+                    case /instagram\.com\/.+/.test(url):
                       candidate.instagram_url = url;
                       break;
-                    case /youtube\.com/.test(url):
+                    case /youtube\.com\/.+/.test(url):
                       candidate.youtube_url = url;
                       break;
-                    case /plus\.google\.com/.test(url):
-                      candidate.googleplus_url = url;
+                    case /plus\.google\.com\/.+/.test(url):
+                      if (!/plus\.google\.com\/share/.test(url))
+                        candidate.googleplus_url = url;
                       break;
                   }
                 });
