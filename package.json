@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mshk/togisen2017#readme",
   "devDependencies": {
     "jake": "latest"
+  },
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.0"
   }
 }
