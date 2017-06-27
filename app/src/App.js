@@ -27,12 +27,13 @@ const paperStyle = {
 class App extends Component {
   render() {
     return (
-      <MuiThemeProvider>
-        <Provider store={store}>
-          <div>
+      <Provider store={store}>
+        <MuiThemeProvider>
+          <div style={{ margin: 0 }}>
             <AppBar
               title="都議選2017情報（α版）"
               showMenuIconButton={false}
+              style={{ margin: 0 }}
             />
             <Paper style={paperStyle} zDepth={0} >
               <div style={{textAlign: 'center'}}>
@@ -51,8 +52,8 @@ class App extends Component {
             </Paper>
             <Candidates />          
           </div>
-        </Provider>        
-      </MuiThemeProvider>        
+        </MuiThemeProvider>        
+      </Provider>                
     );
   }
 }
