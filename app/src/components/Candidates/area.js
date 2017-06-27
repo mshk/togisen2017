@@ -27,11 +27,7 @@ class Area extends Component {
             selectable={false}            
           >
             <TableRowColumn>{candidate.name}</TableRowColumn>
-            <TableRowColumn>{candidate.kana}</TableRowColumn>            
-            <TableRowColumn>{candidate.sex}</TableRowColumn>                        
-            <TableRowColumn>{candidate.age}</TableRowColumn>                        
-            <TableRowColumn>{candidate.party}</TableRowColumn>                        
-            <TableRowColumn>{candidate.type}</TableRowColumn>                                    
+            <TableRowColumn>{candidate.age}歳・{candidate.sex}・{candidate.party}・{candidate.type}</TableRowColumn>                        
             <TableRowColumn>
               <table>
                 <tbody>
@@ -58,15 +54,11 @@ class Area extends Component {
           actAsExpander={true}
         />
         <CardText expandable={true}>
-          <Table selectable={false}>
+          <Table selectable={false} style={{ tableLayout: 'auto' }} fixedHeader={false} >
             <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
               <TableRow>
                 <TableHeaderColumn>名前</TableHeaderColumn>
-                <TableHeaderColumn>よみ</TableHeaderColumn>                
-                <TableHeaderColumn>性別</TableHeaderColumn>                                                
-                <TableHeaderColumn>年齢</TableHeaderColumn>                                                                
-                <TableHeaderColumn>党派</TableHeaderColumn>   
-                <TableHeaderColumn>新 現 元</TableHeaderColumn>   
+                <TableHeaderColumn>年齢・性別・党派・新 現 元</TableHeaderColumn>   
                 <TableHeaderColumn>ウェブサイト・SNS</TableHeaderColumn>   
               </TableRow>                
             </TableHeader>
