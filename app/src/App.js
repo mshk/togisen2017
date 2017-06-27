@@ -35,8 +35,8 @@ class App extends Component {
             />
             <Paper style={paperStyle} zDepth={0} >
               <div style={{textAlign: 'center'}}>
-                <img src="images/senkyo_keijiban_people.png" width="500" /><br/>
-                <span style={{fontSize: '0.8em'}}>素材: <a href="http://www.irasutoya.com/2016/07/blog-post_586.html">いらすとや</a></span>
+                <img src="images/senkyo_keijiban_people.png" style={{ width: '100%', maxWidth: '500' }} /><br/>
+                <span style={{fontSize: '0.5em'}}>素材: <a href="http://www.irasutoya.com/2016/07/blog-post_586.html">いらすとや</a></span>
               </div>
               <p>
               2017年7月2日に行われる東京都議会議員選挙の候補者のプロフィールです。<br/>
