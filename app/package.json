@@ -2,6 +2,7 @@
   "name": "togisen2017",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mshk.github.io/togisen2017/",
   "dependencies": {
     "axios": "^0.16.2",
     "classnames": "^2.2.5",
