@@ -31,13 +31,15 @@ class App extends Component {
         <Provider store={store}>
           <div>
             <AppBar
-              title="都議選2017: 候補者SNSプロフィール（α版）"
+              title="都議選2017情報（α版）"
+              showMenuIconButton={false}
             />
             <Paper style={paperStyle} zDepth={0} >
               <div style={{textAlign: 'center'}}>
                 <img src="images/senkyo_keijiban_people.png" style={{ width: '100%', maxWidth: '500' }} /><br/>
                 <span style={{fontSize: '0.5em'}}>素材: <a href="http://www.irasutoya.com/2016/07/blog-post_586.html">いらすとや</a></span>
               </div>
+              <h3>候補者SNSプロフィール</h3>
               <p>
               2017年7月2日に行われる東京都議会議員選挙の候補者のプロフィールです。<br/>
               ※このサイトは準備中です。正確でない内容が含まれる可能性があります。
