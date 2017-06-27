@@ -54,7 +54,7 @@ class Area extends Component {
           actAsExpander={true}
         />
         <CardText expandable={true}>
-          <Table selectable={false} style={{ tableLayout: 'auto' }} fixedHeader={false} >
+          <Table selectable={false} style={{ tableLayout: 'auto' }} fixedHeader={false} bodyStyle={{ overflowX: undefined, overflowY: undefined }}>
             <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
               <TableRow>
                 <TableHeaderColumn>名前</TableHeaderColumn>
