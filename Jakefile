@@ -1,11 +1,11 @@
+let client = require('cheerio-httpcli');
+
 desc('候補者一覧の取得');
 task('default', (format = 'json') => {
-  let client = require('cheerio-httpcli');
-
   client.fetch('http://www.h29togisen.metro.tokyo.jp/election/list.html', (err, $, res) => {
 
     let promises = [];
-    let timeout = 0;
+    let delay = 0;
 
     $('.contents section').each(function (idx) {
       if ($(this).attr('id') == null) { return; }
@@ -27,43 +27,8 @@ task('default', (format = 'json') => {
             resolve(candidate);
           }));
         } else if (candidate.url && candidate.url != 'なし') {
-          promises.push(new Promise((resolve, error) => {
-            setTimeout(() => {
-              client.fetch(candidate.url, (err, $, res) => {
-                if (err) {
-                  console.error("fetch url error: ", candidate.url);
-                  candidate.error = true;
-                  return resolve(candidate);
-                }
-
-                $('a').each(function (idx) {
-                  let url = $(this).url();
-                  switch (true) {
-                    case /facebook\.com\/.+/.test(url):
-                      if (!/facebook\.com\/sharer/.test(url))
-                        candidate.facebook_url = url;
-                      break;
-                    case /twitter\.com\/.+/.test(url):
-                      if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url))
-                        candidate.twitter_url = url;
-                      break;
-                    case /instagram\.com\/.+/.test(url):
-                      candidate.instagram_url = url;
-                      break;
-                    case /youtube\.com\/.+/.test(url):
-                      candidate.youtube_url = url;
-                      break;
-                    case /plus\.google\.com\/.+/.test(url):
-                      if (!/plus\.google\.com\/share/.test(url))
-                        candidate.googleplus_url = url;
-                      break;
-                  }
-                });
-                resolve(candidate);
-              });
-            }, timeout);
-            timeout += 200;
-          }));
+          promises.push(fetchHomePage(candidate, delay));
+          delay += 200;
         } else {
           promises.push(new Promise((resolve, error) => {
             resolve(candidate);
@@ -72,13 +37,14 @@ task('default', (format = 'json') => {
       });
     });
 
-    Promise.all(promises).then((lines) => {
-      if (format == 'csv') {
-        formatCSV(lines);
-      } else {
-        formatJSON(lines);
-      }
-    });
+    Promise.all(promises)
+      .then((lines) => {
+        if (format == 'csv') {
+          formatCSV(lines);
+        } else {
+          formatJSON(lines);
+        }
+      });
   });
 });
 
@@ -93,6 +59,53 @@ function parseCandidate($, cols) {
     type: $(cols[6]).text(),
     url: $(cols[7]).text().replace(' ', '')
   };
+}
+
+function parseLinks($, candidate) {
+  $('a').each(function (idx) {
+    let url = $(this).url();
+    switch (true) {
+      case /facebook\.com\/.+/.test(url):
+        if (!/facebook\.com\/sharer/.test(url))
+          candidate.facebook_url = url;
+        break;
+      case /twitter\.com\/.+/.test(url):
+        if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url))
+          candidate.twitter_url = url;
+        break;
+      case /instagram\.com\/.+/.test(url):
+        candidate.instagram_url = url;
+        break;
+      case /youtube\.com\/.+/.test(url):
+        candidate.youtube_url = url;
+        break;
+      case /plus\.google\.com\/.+/.test(url):
+        if (!/plus\.google\.com\/share/.test(url))
+          candidate.googleplus_url = url;
+        break;
+    }
+  });
+}
+
+function fetchHomePage(candidate, delay) {
+  return new Promise((resolve, error) => {
+    setTimeout(() => {
+      console.error("fetching: " + candidate.url);
+
+      client.fetch(candidate.url)
+        .then((result) => {
+          if (result.err) {
+            console.error("fetch url error: ", candidate.url);
+            candidate.error = true;
+            return resolve(candidate);
+          }
+
+          parseLinks(result.$, candidate);
+
+          resolve(candidate);
+        });
+    }, delay);
+  });
 }
 
 function formatJSON(lines) {
