@@ -1,61 +1,78 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
-//import './App.css'
+
+// material-ui
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import AppBar from 'material-ui/AppBar';
-import Paper from 'material-ui/Paper';
+import Drawer from 'material-ui/Drawer';
+import MenuItem from 'material-ui/MenuItem';
+
+// react router
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Link
+} from 'react-router-dom';
+import Candidates from './components/Candidates';
+import About from './components/About';
+import NotFound from './components/NotFound';
+
+// redux
 import { Provider } from 'react-redux'
 import configureStore from './store/configureStore'
 
-import Candidates from './components/Candidates'
-
 const store = configureStore()
 
-const paperStyle = {
-  marginTop: 10,
-  marginBottom: 10,  
-  paddingTop: 10,
-  paddingBottom: 10,
-  paddingLeft: 20,
-  paddingRight: 20,  
-  width: '100%',
-  marginLeft: 'auto',
-  marginRight: 'auto',
-  display: 'inline-block'
-}
-
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { open: false };
+  }
+
   render() {
+    const { ...props } = this.props
+
     return (
       <Provider store={store}>
         <MuiThemeProvider>
           <div style={{ margin: 0 }}>
             <AppBar
               title="都議選2017情報（α版）"
-              showMenuIconButton={false}
+              showMenuIconButton={true}
+              onLeftIconButtonTouchTap={this.handleToggle}
               style={{ margin: 0 }}
             />
-            <Paper style={paperStyle} zDepth={0} >
-              <div style={{textAlign: 'center'}}>
-                <img src="images/senkyo_keijiban_people.png" style={{ width: '100%', maxWidth: '500' }} /><br/>
-                <span style={{fontSize: '0.5em'}}>素材: <a href="http://www.irasutoya.com/2016/07/blog-post_586.html">いらすとや</a></span>
+            <Router {...props}>
+              <div>
+                <Switch>
+                  <Route exact path="/" component={Candidates} />
+                  <Route path="/about" component={About} />
+                  <Route component={NotFound} />
+                </Switch>
+                <Drawer
+                  docked={false}
+                  width={200}
+                  open={this.state.open}
+                  onRequestChange={(open) => this.setState({ open })}
+                >
+                  <AppBar
+                    title=""
+                    showMenuIconButton={false}
+                    style={{ margin: 0 }}
+                  />
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/">ホーム</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/about">このサイトについて</Link></MenuItem>
+                </Drawer>
               </div>
-              <h3>候補者SNSプロフィール</h3>
-              <p>
-              2017年7月2日に行われる東京都議会議員選挙の候補者のプロフィールです。<br/>
-              ※このサイトは準備中です。正確でない内容が含まれる可能性があります。
-              </p>
-              <ul>
-                <li>連絡先: <a href="https://twitter.com/mshk" target="_blank">@mshk</a></li>
-                <li>ソースコード: <a href="https://github.com/mshk/togisen2017" target="_blank">GitHub</a></li>
-              </ul>
-            </Paper>
-            <Candidates />          
+            </Router>
           </div>
-        </MuiThemeProvider>        
-      </Provider>                
+        </MuiThemeProvider>
+      </Provider>
     );
   }
+
+  handleClose = () => this.setState({ open: false });
+  handleToggle = () => this.setState({ open: !this.state.open });
 }
 
 export default App;

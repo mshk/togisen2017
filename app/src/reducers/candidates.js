@@ -1,4 +1,3 @@
-import { combineReducers } from 'redux'
 import {
   REQUEST_CANDIDATES, 
   RECEIVE_CANDIDATES
