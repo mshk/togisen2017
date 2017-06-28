@@ -61,8 +61,12 @@ class Candidates extends Component {
           </div>
           <h3>候補者SNSプロフィール</h3>
           <p>
-            2017年7月2日に行われる東京都議会議員選挙の候補者のプロフィールです。<br />
-            ※このサイトは準備中です。正確でない内容が含まれる可能性があります。
+            2017年7月2日に行われる東京都議会議員選挙の候補者のSNSプロフィールです。<br />
+            <ul>
+              <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>              
+              <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>              
+              <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>              
+            </ul>              
               </p>
           <ul>
             <li>連絡先: <a href="https://twitter.com/mshk" target="_blank">@mshk</a></li>
