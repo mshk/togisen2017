@@ -12,9 +12,10 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://h-takaaki.or.jp",
+          "twitter_url": "https://twitter.com/@higuchi_takaaki",
+          "homepage_description": "都民ファーストの会 都政改革委員(千代田区担当) ひぐちたかあき（樋口高顕）です。",
           "instagram_url": "https://www.instagram.com/higuchi.takaaki34/",
-          "facebook_url": "https://www.facebook.com/higuchi.takaaki34/",
-          "twitter_url": "https://twitter.com/higuchi_takaaki"
+          "facebook_url": "https://www.facebook.com/higuchi.takaaki34/"
         },
         {
           "id": "2",
@@ -35,9 +36,12 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://nakamuraaya.com",
+          "homepage_description": "Welcome to my homepage | 中村あや 事務所",
           "facebook_url": "https://www.facebook.com/1852140831718719",
           "twitter_url": "https://twitter.com/ayanakamura0702",
-          "instagram_url": "https://www.instagram.com/ayanakamura0702/"
+          "instagram_url": "https://www.instagram.com/ayanakamura0702/",
+          "twitter_profile": "自民党千代田区支部、都議会議員候補予定者。慶應義塾大学大学院→(株)日本取引所グループ。旅行やスポーツが大好きな27歳中村彩です。区民都民のために全力を尽くします。千代田区民、全員主役宣言！ 本人更新です。https://t.co/HeZD9BCQ9O https://t.co/k3ZXJBURfN",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/860060406651396096/FH95s0aT_normal.jpg"
         },
         {
           "id": "4",
@@ -63,8 +67,9 @@
           "party": "無所属",
           "type": "新",
           "url": "http://www.toshi-kangaerukai.jp/",
-          "facebook_url": "https://www.facebook.com/moriyamatakashi.jp/",
-          "twitter_url": "https://twitter.com/mori_arch_econo"
+          "homepage_description": "東京都議会 中央区選出立候補者 都市を考える会 代表 森山高至 は、東京の中心で都市を考える「公共事業見直し宣言」のもと、日本文化を守り、暮らしやすい都市をつくるために、いま、行動します。",
+          "twitter_url": "https://twitter.com/@mori_arch_econo",
+          "facebook_url": "https://www.facebook.com/moriyamatakashi.jp/"
         },
         {
           "id": "2",
@@ -75,6 +80,7 @@
           "party": "無所属",
           "type": "現",
           "url": "http://立石はるやす.jp/",
+          "homepage_description": "立石はるやすオフィシャルサイトにようこそ！“続けていくから未来がある！”。続けて行くと言う事は非凡な事である。であるがゆえに日々精進の大切さを知ります。",
           "facebook_url": "http://www.facebook.com/tateishiharuyasu"
         },
         {
@@ -86,6 +92,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://www.ayumi-m.com",
+          "homepage_description": "都民ファーストの会公認中央区選挙区東京都議会議員選挙候補者「西郷あゆ美」の公式サイトです。ふるい都議会を、あたらしく！小池百合子知事と共に都政を改革します。",
           "facebook_url": "https://www.facebook.com/profile.php?id=100008945136346"
         },
         {
@@ -97,6 +104,7 @@
           "party": "希望ファーストの会",
           "type": "新",
           "url": "https://www.facebook.com/Kibou1st",
+          "homepage_description": "。、東京の改革を真に考え、いま動き始めました。の希望ファーストの会",
           "facebook_url": "https://www.facebook.com/Kibou1st#"
         },
         {
@@ -108,8 +116,11 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.ishijimahideki.com/",
+          "homepage_description": "自民党所属の東京都議会議員候補（中央区）、石島ひできの公式サイトです。世界に誇れる中央区を創造するために働きます。",
           "facebook_url": "https://www.facebook.com/ishijimahideki",
-          "twitter_url": "https://twitter.com/#!/ishijimahideki"
+          "twitter_url": "https://twitter.com/#!/ishijimahideki",
+          "twitter_profile": "日本橋生まれ、日本橋育ちの三代目。自民党中央区議会議員 日々の活動や考えをツイートしていきます。新旧交代、中央区36年ぶりの新人「進める責任。東京を前へ。」。趣味は、スキューバダイビング、アクアリウム、食べ歩き。好きな場所は、美瑛と阿嘉島。特技は整理整頓。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/3784390093/1eecc51f961a6ddb72acda7adc711d0b_normal.jpeg"
         }
       ]
     },
@@ -125,8 +136,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://tomin1minato.tokyo/",
+          "homepage_description": "都民ファーストの会・入江のぶこのオフィシャルサイト。プロフィール、政策、活動情報、メディア掲載情報をご紹介しております。",
+          "twitter_url": "https://twitter.com/@irienobuko",
           "facebook_url": "https://www.facebook.com/IrieNobukoMinato/",
-          "twitter_url": "https://twitter.com/irienobuko",
           "youtube_url": "https://www.youtube.com/channel/UCE4wl6JIFtBjESzCBa4SoZA"
         },
         {
@@ -138,8 +150,11 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.kanno-ko.com/",
+          "homepage_description": "東京都議会議員（自由民主党・港区選出）かんの弘一のオフィシャルサイトです。市場移転問題、オリンピック・パラリンピックの準備、災害に強い街づくり、待機児童対策・・・。2020年のその先の東京に向かって、いま直面している「待ったなし」の課題に正論と建設的な議論でとり組みます。",
           "facebook_url": "https://www.facebook.com/1795438734105315/",
-          "twitter_url": "https://twitter.com/kanno_tokyoma"
+          "twitter_url": "https://twitter.com/#!/kanno_TokyoMA",
+          "twitter_profile": "東京都議会議員（港区選出）の菅野弘一（かんの・こういち）です。 市場移転問題を扱う経済・港湾委員会の副委員長で、前豊洲市場移転問題特別委員。オリンピック・パラリンピック等推進対策特別委員、議会運営委員。 市場移転問題、オリンピック・パラリンピック、2020年に向けて、待ったなしの課題に正論と建設的な議論でとりくみます。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/861508414978932736/2Bqg5nwH_normal.jpg"
         },
         {
           "id": "3",
@@ -171,7 +186,8 @@
           "party": "幸福実現党",
           "type": "新",
           "url": "http://www.nabeshima.tokyo/",
-          "twitter_url": "https://twitter.com/nabehisashi",
+          "homepage_description": "東京都港区/幸福実現党のなべ島ひさしです",
+          "twitter_url": "https://twitter.com/@nabehisashi",
           "facebook_url": "https://www.facebook.com/nabehisashi",
           "googleplus_url": "https://plus.google.com/u/0/117116612688864692953/"
         },
@@ -184,9 +200,12 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.kitashiro.gr.jp/",
+          "homepage_description": "港区議会議員きたしろ勝彦のホームページ。改革の実現のために立ち上がる。",
           "facebook_url": "https://www.facebook.com/%E3%81%8D%E3%81%9F%E3%81%97%E3%82%8D%E5%8B%9D%E5%BD%A6-414748678897801/",
           "twitter_url": "https://twitter.com/kitshiro_office",
-          "instagram_url": "https://www.instagram.com/katsuhiko.kitashiro/?hl=ja"
+          "instagram_url": "https://www.instagram.com/katsuhiko.kitashiro/?hl=ja",
+          "twitter_profile": "自民党 東京都議会議員（港区選出）、 港区のお父さんこと元おまわりさんの きたしろ勝彦です。元警察官として都政の不正は許さない！警視庁時代(麻布署)から、港区民の暮らしを見守り続け現場主義で、早44年！防災防犯のプロフェショナル「2020年、港区を東京の玄関口にする！」東京の未来のために真っ直ぐにひた向きに頑張ります！",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/877890004642537473/_Z7kIS8K_normal.jpg"
         }
       ]
     },
@@ -202,6 +221,7 @@
           "party": "公明党",
           "type": "新",
           "url": "http://www.komei.or.jp/km/kojomasao/",
+          "homepage_description": "公明党東京都本部広報宣伝局次長 古城将夫（こじょう・まさお）の公式ホームページです。新宿区から都政に挑戦します。プロフィール、政策、公明党の実績、日々の活動などをご紹介します。",
           "youtube_url": "https://www.youtube.com/embed/pMv2XBbDrn4?rel=0"
         },
         {
@@ -213,6 +233,7 @@
           "party": "民進党",
           "type": "新",
           "url": "https://www.facebook.com/groups/625715320966200/?ref=aymt_homepage_panel",
+          "homepage_description": "Facebookにログインして、友達や家族と写真や近況をシェアしましょう。",
           "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
         },
         {
@@ -224,6 +245,7 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://ohyama-tomoko.com",
+          "homepage_description": "東京都議会議員　大山とも子。プロフィール、政策、活動レポート。PDFファイルでニュースを閲覧できます。",
           "facebook_url": "https://www.facebook.com/%E5%A4%A7%E5%B1%B1%E3%81%A8%E3%82%82%E5%AD%90%E4%BA%8B%E5%8B%99%E6%89%80-341097192660414/"
         },
         {
@@ -235,6 +257,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://sachiedaimon.com/",
+          "homepage_description": "大門さちえ 都政に挑戦！",
           "facebook_url": "https://www.facebook.com/sachie.daimon"
         },
         {
@@ -246,7 +269,8 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://www.tsukasa-moriguchi.info/",
-          "twitter_url": "https://twitter.com/tsukasamorigu",
+          "homepage_description": "都民ファーストの会 都政改革委員(新宿区担当) 森口つかさの公式Webサイトです。",
+          "twitter_url": "https://twitter.com/@tsukasamorigu",
           "facebook_url": "https://www.facebook.com/tsukasa.moriguchi.yy/"
         },
         {
@@ -257,7 +281,8 @@
           "age": "51",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.akita160.jp/"
+          "url": "http://www.akita160.jp/",
+          "homepage_description": "このままでいいのかっ！？　待ったなし日本！待ったなし東京！！「東京から日本を変える」東京都議会議員　秋田一郎（自民党）の公式HP。"
         },
         {
           "id": "7",
@@ -268,7 +293,8 @@
           "party": "無所属",
           "type": "新",
           "url": "http://hamano.black/",
-          "twitter_url": "https://twitter.com/sevenchord7",
+          "homepage_description": "都民の社畜になる！",
+          "twitter_url": "https://twitter.com/@sevenchord7",
           "facebook_url": "https://www.facebook.com/hideaki.hamano.5",
           "instagram_url": "https://www.instagram.com/syachi9.black/"
         }
@@ -286,8 +312,8 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://f-nakaya.jp/",
-          "facebook_url": "http://www.facebook.com/profile.php?id=100008584295400",
-          "twitter_url": "http://twitter.com/search?q=http%3A%2F%2Ff-nakaya.jp%2F"
+          "homepage_description": "文京からの都政改革。安心・安全な暮らし。スポーツを通して青少年の健全な育成を。中屋文孝は全力で都政・地元文京区の問題に立ち向かい、都民・区民が長く住み続けたいと思う東京・文京区を実現して参ります。",
+          "facebook_url": "http://www.facebook.com/profile.php?id=100008584295400"
         },
         {
           "id": "2",
@@ -298,7 +324,8 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://yufukute.exblog.jp/",
-          "twitter_url": "https://twitter.com/yukofukute"
+          "homepage_description": "小竹ひろ子都議からバトンタッチ　都政に挑戦",
+          "twitter_url": "https://twitter.com/@Excite_blog"
         },
         {
           "id": "3",
@@ -308,7 +335,8 @@
           "age": "57",
           "party": "都民ファーストの会",
           "type": "元",
-          "url": "http://masuko.tokyo"
+          "url": "http://masuko.tokyo",
+          "homepage_description": "都民ファーストの会　増子ひろき公式ホームページへようこそ。"
         }
       ]
     },
@@ -323,7 +351,8 @@
           "age": "60",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.izumi-hiroshi.tokyo"
+          "url": "http://www.izumi-hiroshi.tokyo",
+          "homepage_description": "東京都議会自民党 和泉浩司です。「確実に、着実に、都政を前に進める」東京の真ん中で光り輝く台東区を創ります"
         },
         {
           "id": "2",
@@ -344,6 +373,7 @@
           "party": "無所属",
           "type": "現",
           "url": "http://www.nakayama-hiroyuki.jp",
+          "homepage_description": "中山ひろゆきの重点政策は、中小企業の経営基盤強化・販路開拓支援、子育て支援と教育の充実、国際観光都市（台東区）にふさわしい基盤強化、高齢者の多様なニーズに対応した基盤整備の推進です。",
           "facebook_url": "https://www.facebook.com/nakayamahiroyuki.shitamachi/"
         },
         {
@@ -380,9 +410,12 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://kouho.jcp-tokyo.net/ito/",
+          "homepage_description": "東京都議会議員候補　伊藤大気の公式WEBサイトです",
           "facebook_url": "https://www.facebook.com/daiki.itho",
           "twitter_url": "https://twitter.com/ozone728",
-          "youtube_url": "https://www.youtube.com/channel/UCSqDO_lzfv8yWl-QtW1dRDA"
+          "youtube_url": "https://www.youtube.com/channel/UCSqDO_lzfv8yWl-QtW1dRDA",
+          "twitter_profile": "墨田区生まれ墨田育ちの３８歳。もんじゃと映画をこよなく愛します。日本共産党の都議会議員候補として活動中。家族は妻と娘、息子。２年連続６００人を超える待機児童問題を抱える墨田、認可保育所の大幅増設を求めていきます！HPはhttps://t.co/B6IaC9vpeD",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/807052030342664192/FeTRy_UA_normal.jpg"
         },
         {
           "id": "2",
@@ -393,8 +426,9 @@
           "party": "自由民主党",
           "type": "現",
           "url": "https://kawamatsu2011.com/",
-          "facebook_url": "https://www.facebook.com/%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97-529350280606639/",
-          "twitter_url": "https://twitter.com/#!/kawamatsushin16"
+          "homepage_description": "墨田区選出 東京都議会議員 川松真一朗(かわまつしんいちろう) の公式Webサイトです。都議会自民党最年少・墨田区選出。元テレ朝アナ。自民党東京青年部副部長。「墨田の声で都政を動かす！」「都政に正論」をテーマとして、全力で取り組んでおります。",
+          "twitter_url": "https://twitter.com/@kawamatsushin16",
+          "facebook_url": "https://www.facebook.com/%E5%B7%9D%E6%9D%BE%E7%9C%9F%E4%B8%80%E6%9C%97-529350280606639/"
         },
         {
           "id": "3",
@@ -405,9 +439,12 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.h-sakurai.jp/",
+          "homepage_description": "信念ある都政　桜井ひろゆき 目標は墨田区の活性化　不退転の決意で突っ走ります！自由民主党　東京都議会議員　桜井浩之",
           "twitter_url": "https://twitter.com/SakuraiHiroyuki",
           "youtube_url": "https://www.youtube.com/user/sakuraidouga",
-          "facebook_url": "http://www.facebook.com/profile.php?id=100002687443679"
+          "facebook_url": "http://www.facebook.com/profile.php?id=100002687443679",
+          "twitter_profile": "東京都議会議員（2期生）\r\n所属会派：都議会自由民主党\r\n墨田区在住\r\n年齢：51歳、やぎ座、午年\r\n　墨田区アーチェリー協会　会長\r\n　墨田区フォークダンス連盟　会長\r\n　墨田区ソフトボール連盟　顧問\r\n　墨田区軟式野球連盟　顧問\r\n　墨田区スキー連盟　理事\r\n　向島消防団第八分団団員",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/864053849/_______113____normal.jpg"
         },
         {
           "id": "4",
@@ -418,6 +455,7 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.komei.or.jp/km/kato-masayuki",
+          "homepage_description": "墨田区選出・東京都議会議員（公明党）加藤まさゆきのホームページです。\r\nプロフィール、政策、実績、議会報告などお知らせします。",
           "twitter_url": "https://twitter.com/komei_koho",
           "twitter_profile": "公明党広報の公式アカウントです。最新ニュースや党の見解、テレビ出演情報などをお知らせします。国会議員60人、地方議員およそ3000人。すぐに現場へ、国と地方のネットワーク力が持ち味です。若者や女性の活躍支援、地方発の話題もつぶやきます。 #希望がゆきわたる国へ",
           "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/516920893792989186/xqKHzAC9_normal.png"
@@ -431,8 +469,11 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://risakonarikiyo.com",
+          "homepage_description": "",
           "facebook_url": "https://www.facebook.com/risakonarikiyo/?ref=aymt_homepage_panel",
-          "twitter_url": "https://twitter.com/narikiyorisako"
+          "twitter_url": "https://twitter.com/narikiyorisako",
+          "twitter_profile": "雙葉高校2008年卒、東京大学経済学部2012年卒、公認会計士、元有限責任あずさ監査法人、都民ファーストの会（墨田区担当）として活動しております。 FB：https://t.co/bgEvYaOq3a",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/864625359257456641/n1-4MCKx_normal.jpg"
         }
       ]
     },
@@ -448,8 +489,11 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://www.shiratotaro.com ",
+          "homepage_description": "都民ファーストの会 江東区第一支部 都政改革委員江東区担当 スポーツナビゲーター 白戸太朗の公式ホームページ",
           "facebook_url": "https://www.facebook.com/groups/1315443538574344/",
-          "twitter_url": "https://twitter.com/maidotaro"
+          "twitter_url": "https://twitter.com/maidotaro",
+          "twitter_profile": "トライアスリート、スポーツナビゲーター、アスロニア代表白戸太朗　トライアスロン",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/552566525/s-____normal.jpg"
         },
         {
           "id": "2",
@@ -460,8 +504,11 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://megutaka.jp/",
+          "homepage_description": "東京に母のチカラ。",
           "facebook_url": "https://www.facebook.com/megumi.takahashi.37454",
-          "twitter_url": "https://twitter.com/takahashimegumi"
+          "twitter_url": "https://twitter.com/takahashimegumi",
+          "twitter_profile": "東京都議会議員選挙、自民党新人！自民党江東区議会議員として3期10年二人の子どもを持つママの視点を活かし、皆様の声を江東区政に声を届けて参りました、区議会からの叩き上げです。日々の活動はFacebookをご覧下さい。https://t.co/3H9ZUxO3g8",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/847957101192265729/thF2jfO0_normal.jpg"
         },
         {
           "id": "3",
@@ -472,6 +519,7 @@
           "party": "公明党",
           "type": "新",
           "url": "http://www.isamu-hosoda.jp/",
+          "homepage_description": "",
           "facebook_url": "https://www.facebook.com/hosoda.isamu/"
         },
         {
@@ -483,6 +531,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.ikki-y.jp/",
+          "homepage_description": "山﨑一輝（やまざきいっき）公式サイト。山﨑一輝は、働きます！ 江東区の「生活の声」を都政へ！",
           "instagram_url": "https://www.instagram.com/ikki.yamazaki/",
           "facebook_url": "https://www.facebook.com/YAMAZAKI.ikki/"
         },
@@ -495,7 +544,10 @@
           "party": "無所属",
           "type": "現",
           "url": "http://nogamiyukie.com/",
-          "twitter_url": "https://twitter.com/nogamiyukie"
+          "homepage_description": "私は、1.女性がより輝く、2.教育改革、3.原発に頼らない環境づくりを基本政策としています。実現に向け、確固たる意志を持ってこれからも様々な活動に取り組んで行く所存でございます。野上ゆきえをどうぞ、宜しくお願い致します。",
+          "twitter_url": "https://twitter.com/nogamiyukie",
+          "twitter_profile": "無所属。都民ファーストの会推薦。都議会議員（3期目・江東区選出）。早大政経卒、教員免許取得。松下政経塾出身。江東南ライオンズクラブ正会員  Tokyo Metropolitan Assembly member.",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/870213244383776768/-Dzv-u-d_normal.jpg"
         },
         {
           "id": "6",
@@ -506,6 +558,7 @@
           "party": "民進党",
           "type": "元",
           "url": "http://www.0038.jp",
+          "homepage_description": "大沢のぼるの公式サイト。東京をせんたくしよう！",
           "facebook_url": "https://www.facebook.com/noboru.osawa.52"
         },
         {
@@ -516,7 +569,8 @@
           "age": "48",
           "party": "無所属",
           "type": "新",
-          "url": "https://lineblog.me/casinomimi/"
+          "url": "https://lineblog.me/casinomimi/",
+          "homepage_description": "ペンネーム：鍛野ミミ（かじのみみ）\nカジノ&ディーラー業歴：26年\n10歳から15歳までインドボンベイで育つ。2001年ラスベガスPCIディーラーズスクールにて、日本人初としてブラックジャック、ルーレット、バカラのライセンスを取得する。\n現職: ジャパンオープンポーカーツアー株式会社 顧問\n最終学歴: 立教大学院ビジネスデザイン研究科(MBA)修士課程修了"
         },
         {
           "id": "8",
@@ -527,9 +581,10 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://azegami-miwako-jcp.info/",
+          "homepage_description": "東京都議会議員選挙候補者　江東区選挙区、あぜ上三和子のホームページです。 守ります！いのちと暮らし、子どもの未来",
+          "twitter_url": "https://twitter.com/@miwako_azegami",
           "facebook_url": "http://www.facebook.com/%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A-%E3%81%82%E3%81%9C%E4%B8%8A%E4%B8%89%E5%92%8C%E5%AD%90-221106978332022/",
-          "youtube_url": "https://www.youtube.com/channel/UCSQzCUN9cW_u5pOw-Xw5c3Q",
-          "twitter_url": "https://twitter.com/miwako_azegami"
+          "youtube_url": "https://www.youtube.com/channel/UCSQzCUN9cW_u5pOw-Xw5c3Q"
         },
         {
           "id": "9",
@@ -539,7 +594,8 @@
           "age": "33",
           "party": "幸福実現党",
           "type": "新",
-          "url": "http://www.omote-natsuko.com"
+          "url": "http://www.omote-natsuko.com",
+          "homepage_description": "幸福実現党江東区代表 表なつこ 公式サイト"
         }
       ]
     },
@@ -567,7 +623,9 @@
           "url": "http://S-tamio.net",
           "facebook_url": "https://www.facebook.com/jcp.shiraishi.tamio/",
           "twitter_url": "https://twitter.com/tamioshiraishi",
-          "youtube_url": "https://www.youtube.com/user/shiraishitamio/videos?shelf_id=0&view=0&sort=dd"
+          "youtube_url": "https://www.youtube.com/user/shiraishitamio/videos?shelf_id=0&view=0&sort=dd",
+          "twitter_profile": "日本共産党都議会議員の白石たみおです。寿司職人めざし15歳で高校中退。日雇い派遣で｢モノ扱い｣の体験もしました。そんな時に共産党と出会い18歳で入党。｢やり直そう｣と、21歳で大崎高校定時制に入学。仲間の中で人間に優劣をつけるのは間違いだと気付き、学ぶ中で政治も社会も変わるし、変えられると確信し、頑張ってきました。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878807599352692738/5CFiwG-M_normal.jpg"
         },
         {
           "id": "3",
@@ -578,6 +636,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://kyokomorisawa.jp",
+          "homepage_description": "都民ファーストの会 もりさわ恭子の公式ホームページです。",
           "facebook_url": "https://www.facebook.com/kyokomorisawa2017"
         },
         {
@@ -589,9 +648,12 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.sawada-hirokazu.com",
+          "homepage_description": "品川区議会議員、沢田ひろかずのオフィシャルサイトです。さわやかさわだ、若さと行動力で東京都・都議会に新しい風を吹かせます。ぜひ政策ダイジェストをご覧下さい。都議選に向け、自民党公認が決定しました。",
           "twitter_url": "https://twitter.com/SawadaHirokazu",
           "instagram_url": "https://www.instagram.com/hirokazu800815/?hl=ja",
-          "facebook_url": "https://www.facebook.com/hirokazu800815/"
+          "facebook_url": "https://www.facebook.com/hirokazu800815/",
+          "twitter_profile": "自民党　品川区議会議員\n都議会議員選挙　自民党公認候補\n沢田ひろかず（沢田洋和）です",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/862934062574350336/MJnXREVf_normal.jpg"
         },
         {
           "id": "5",
@@ -601,7 +663,8 @@
           "age": "56",
           "party": "公明党",
           "type": "現",
-          "url": "http://www.koichi-ito.net"
+          "url": "http://www.koichi-ito.net",
+          "homepage_description": ""
         },
         {
           "id": "6",
@@ -612,8 +675,11 @@
           "party": "民進党",
           "type": "新",
           "url": "http://www.abeyumiko.com",
+          "homepage_description": "民進党 都議会議員候補 あべ祐美子のオフィシャルサイトです",
           "twitter_url": "https://twitter.com/abe_shinagawa",
-          "facebook_url": "https://www.facebook.com/abeyumiko.shinagawa/"
+          "facebook_url": "https://www.facebook.com/abeyumiko.shinagawa/",
+          "twitter_profile": "子育て・介護・働き方から東京のくらしを変えようと、2017都議選に立候補。前品川区議。 山陽新聞記者→在ポーランド日本大使館専門調査員→日本教育新聞社記者を経て2006年から品川区議。様々な生き辛さを抱える人達に心を寄せていきたい。高２の息子、夫と３人暮らし。行政書士。北品川在住。岡山大卒。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/855231802184572928/1beefHZx_normal.jpg"
         },
         {
           "id": "7",
@@ -624,7 +690,8 @@
           "party": "都民ファーストの会",
           "type": "現",
           "url": "http://www.a-yamauchi.com",
-          "twitter_url": "https://twitter.com/akira_yamauchi8",
+          "homepage_description": "都議会ファーストの会所属。品川区選出、東京都議会議員、山内晃（やまうち　あきら）のオフィシャルサイト。都政の情報公開と透明化を進め、見せかけではない「真」の条例を作ります。",
+          "twitter_url": "https://twitter.com/@akira_yamauchi8",
           "facebook_url": "https://www.facebook.com/akira.yamauchi.2407"
         }
       ]
@@ -641,9 +708,12 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.saitou-yasuhiro.com/",
+          "homepage_description": "目黒区選出の公明党東京都議会議員 斉藤やすひろのホームページです。",
           "twitter_url": "https://twitter.com/yasuhirosaitou",
           "facebook_url": "https://www.facebook.com/saito.yasuhiro.meguro/",
-          "youtube_url": "https://www.youtube.com/user/saitouchannel"
+          "youtube_url": "https://www.youtube.com/user/saitouchannel",
+          "twitter_profile": "昭和38年5月15日生 O型 目黒区選出東京都議会議員 目黒第九中卒 明治大学附属中野高校を経て、慶應義塾大学法学部法律学科卒。前厚生委員会委員長、オリンピックパラリンピック等推進特別委員、ラグビーワールドカップ特別委員。都医学研評議委員会評議員。自転車政策、住宅と福祉政策、医療政策の連携、環境政策、動物福祉。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/696717476017500160/_o9A2xUI_normal.jpg"
         },
         {
           "id": "2",
@@ -654,8 +724,11 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://kouho.jcp-tokyo.net/hoshimi",
+          "homepage_description": "東京都議会議員候補　星見てい子の公式WEBサイトです",
           "facebook_url": "https://www.facebook.com/teiko.hosimi",
-          "twitter_url": "https://twitter.com/hoshimite_ikou"
+          "twitter_url": "https://twitter.com/hoshimiteiko",
+          "twitter_profile": "日本共産党目黒区議会議員です。目黒区議会文教子ども副委員長。原発ゼロ実現へ。故郷は函館市、大間原発稼動やめろ。原発、子どもと放射能問題、子ども問題、平和、憲法、目黒区政や日常話を発信します。生き物が大好き。特に、猫、虫、野菜など。　　　　　　　　　　　　facebook　yahooブログも公開中。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/378800000051689330/465bfb8cab194961511470a1c6209b8c_normal.png"
         },
         {
           "id": "3",
@@ -675,7 +748,8 @@
           "age": "40",
           "party": "都民ファーストの会",
           "type": "元",
-          "url": "http://www.itoyuu.tokyo/"
+          "url": "http://www.itoyuu.tokyo/",
+          "homepage_description": "前都議会議員の伊藤ゆう公式ページです。これまでの活動実績やこれから実現したいビジョン、日々の活動など掲載しております。"
         },
         {
           "id": "5",
@@ -686,6 +760,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://kuriyama-yoshiji.com/",
+          "homepage_description": "自民党東京都都議会議員 栗山よしじのオフィシャルサイト",
           "facebook_url": "https://www.facebook.com/profile.php?id=100009546672747"
         }
       ]
@@ -702,6 +777,7 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.hajimeclub.net/",
+          "homepage_description": "現場第一の実力派、大田から東京改革！",
           "facebook_url": "https://www.facebook.com/hajime.fujii.773",
           "twitter_url": "https://twitter.com/komei_koho",
           "youtube_url": "https://www.youtube.com/user/Newkomeito",
@@ -727,7 +803,10 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://r-fujita.jcp-ota.jp/",
-          "twitter_url": "https://twitter.com/ryokofujitajcp"
+          "homepage_description": "日本共産党・藤田りょうこ　のホームページです。",
+          "twitter_url": "https://twitter.com/ryokofujitajcp",
+          "twitter_profile": "『13兆円の財政を  都民のくらしに。』\nかち佳代子都議会議員の後継者として、大田区から日本共産党のふたりを都議会へ！\n\n1974年大田区生まれ。看護師。カウンセラー。7才、4才、2才男児のかーちゃん。\n趣味 : スポーツ(トライアスロン/バレーボール)",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/818693114634174464/LJrj4li4_normal.jpg"
         },
         {
           "id": "4",
@@ -738,8 +817,11 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.s-kamibayashi-senkyo.com",
+          "homepage_description": "神林茂の都議会議員選挙2017特設ページです。政治に責任感！をスローガンに、地元と一緒に進める政治を目指します。",
           "facebook_url": "https://www.facebook.com/groups/1743869689250587/",
-          "twitter_url": "https://twitter.com/kamibayashi210"
+          "twitter_url": "https://twitter.com/kamibayashi210",
+          "twitter_profile": "東京都議会議員 神林茂です。\r\n私は、大田区から東京都議会議員として東京都と地元大田区民の皆さまの地域や暮らしのサポーターとして活動しています。\r\n今政治家に求められているのは私たちの暮らしを支える政策をしっかりと打ちだし、一つずつ着実に実現し、実現したことに対してしっかりと責任を持つことです。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/3181577293/fa2e3a32b94a477451523659d61e211a_normal.jpeg"
         },
         {
           "id": "5",
@@ -761,8 +843,11 @@
           "party": "無所属",
           "type": "新",
           "url": "http://www3.point.ne.jp/~dh18eberharter",
+          "homepage_description": "すどうえいじ（須藤英児）の紹介ページです。",
           "twitter_url": "http://twitter.com/sudoeiji",
-          "facebook_url": "https://www.facebook.com/eiji.sudo.1"
+          "facebook_url": "https://www.facebook.com/eiji.sudo.1",
+          "twitter_profile": "明るく、元気に、前向きに生きる。\r\n次世代、将来世代まで考える。\r\n多世代が活躍、共存し続けるまち・地域・社会をつくりたい。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/1120978395/7H1O0531___normal.jpg"
         },
         {
           "id": "7",
@@ -772,7 +857,8 @@
           "age": "59",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.akimasa.info"
+          "url": "http://www.akimasa.info",
+          "homepage_description": "自民党所属都議会議員、鈴木晶雅(ずすきあきまさ)公式ホームページ"
         },
         {
           "id": "8",
@@ -805,8 +891,11 @@
           "party": "民進党",
           "type": "新",
           "url": "http://d139.jp",
+          "homepage_description": "大田区を思い、大田区を考え、大田区のために働きたい。その思いで日々活動している東京都議会 議員候補 沢田大作公式Webサイトです。",
           "twitter_url": "https://twitter.com/d139_jp",
-          "facebook_url": "https://www.facebook.com/d139.jp/"
+          "facebook_url": "https://www.facebook.com/d139.jp/",
+          "twitter_profile": "学歴：東京医科歯科大学大学院修士課程修了、法政大学大学院修士課程修了、日本大学文理学部心理学科出身、東京医療専門学校卒業\n現在：民進党東京都連政策委員、プロフェッショナルメディック株式会社代表取締役、巣鴨総合治療院・整骨院グループ総院長、NPO法人睡眠健康研究所代表理事\n学位：医療政策学修士、経営管理修士（MBA）",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/792594566868107265/bnc4cRu6_normal.jpg"
         },
         {
           "id": "11",
@@ -817,7 +906,10 @@
           "party": "都民ファーストの会",
           "type": "元",
           "url": "http://kurishitazenko.jp",
-          "twitter_url": "https://twitter.com/zkurishi"
+          "homepage_description": "東京を変える「東京大改革」都民ファーストの会都政改革委員（大田区担当）栗下善行公式サイト",
+          "twitter_url": "https://twitter.com/zkurishi",
+          "twitter_profile": "",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/851614279392403456/nyul42FK_normal.jpg"
         },
         {
           "id": "12",
@@ -828,9 +920,12 @@
           "party": "日本維新の会",
           "type": "現",
           "url": "http://www.yanagase.org",
+          "homepage_description": "子どもたちの未来のために！",
           "facebook_url": "https://www.facebook.com/yanagasehirofumi",
           "twitter_url": "https://twitter.com/yanagase_ootaku",
-          "youtube_url": "http://www.youtube.com/user/YanagaseChannel"
+          "youtube_url": "http://www.youtube.com/user/YanagaseChannel",
+          "twitter_profile": "東京都議会議員（日本維新の会所属・東京維新の会幹事長・大田区選出・2期目）。小池都政に是々非々でのぞめる唯一の都議会議員。徹底した行革、議員報酬定数の削減、天下り廃止、外郭団体ゼロ、都営地下鉄と東京メトロの統合民営化、深夜経済の活性化。 矢口西小、海城中高、早大卒。著書「東京都庁の深層」小学館新書。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/794787711781511169/8mrEtVz8_normal.jpg"
         },
         {
           "id": "13",
@@ -851,8 +946,11 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://www.shin310.net/",
+          "homepage_description": "東京都議会議員候補、日本共産党の佐藤伸のホームページです。１０年にわたり大田区の区議として、みなさんの願いにこたえ、暮らしと平和を守るために全力をあげてきました。こんどは都政で都民の願い実現に頑張ります。",
           "facebook_url": "http://www.facebook.com/share.php?u=http://www.shin310.net/",
-          "twitter_url": "https://twitter.com/shinsato0302"
+          "twitter_url": "https://twitter.com/shinsato0302",
+          "twitter_profile": "日本共産党前区議会議員。1974年岩手県水沢市(現奥州市)生まれ。高いものづくり技術を担う中小企業に魅せられ19歳で大田区に。中小企業団体で10年間勤務。多くの人に請われて区議10年、認可保育園の増設3000人分以上、数々の中小企業支援策を実現。看護師の妻とともに4人の子育て真っ最中。みんなの声が届く都政へと挑戦します",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/871326283304534017/dJl6LOuw_normal.jpg"
         },
         {
           "id": "15",
@@ -878,6 +976,7 @@
           "party": "無所属",
           "type": "新",
           "url": "http://www.世田谷区ふじた孝行.tokyo/",
+          "homepage_description": "世田谷区と川場村の縁組協定のおかげで今の藤田孝行(ふじたたかゆき)があると自負しております。だからこそ、「安全で安心かつ健全な東京、世界一魅力的な東京の実現」に向け、ご恩ある世田谷区からその第一歩を始めていく所存です。",
           "facebook_url": "https://www.facebook.com/takayuki.fujita.SETAGAYA/"
         },
         {
@@ -889,8 +988,11 @@
           "party": "公明党",
           "type": "現",
           "url": "http://kurinori.net",
+          "homepage_description": "東京都議会議員　栗林のり子　オフィシャルサイト",
           "facebook_url": "https://www.facebook.com/kuribayashi.noriko.1",
-          "twitter_url": "https://twitter.com/kurinori_tokyo"
+          "twitter_url": "https://twitter.com/kurinori_tokyo",
+          "twitter_profile": "昭和29年、北海道釧路市生まれ。東京立正短期大学卒。平成15年、世田谷区議会議員初当選（2期）。平成21年、都議会議員初当選。現在2期。党女性局次長、都議会党副政務調査会長。家族は夫と3男。座右の銘は「至誠天に通ず」",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/797839147658379264/h8piUnWs_normal.jpg"
         },
         {
           "id": "3",
@@ -913,7 +1015,9 @@
           "url": "http://www.taku.jp",
           "facebook_url": "https://www.facebook.com/taku.yamaguchi.setagaya/",
           "twitter_url": "https://twitter.com/taku_yamaguchi",
-          "instagram_url": "https://www.instagram.com/yamaguchitaku/"
+          "instagram_url": "https://www.instagram.com/yamaguchitaku/",
+          "twitter_profile": "【学歴】駒澤大→早稲田大学院卒 【経歴】世田谷バレーボール連盟会長/野菜ソムリエ協会顧問/ＮＰＯ代表/一社日本吹奏楽普及協会顧問/都議会都市整備委員長/早稲田大学大学院 政治学研究科公共経営専攻 招聘講師/駒大同窓会東京都支部副会長 世田谷区議２期を歴任",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/718483608155983872/IEfMz7PP_normal.jpg"
         },
         {
           "id": "5",
@@ -924,8 +1028,11 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://komatsudaisuke.com",
+          "homepage_description": "",
           "facebook_url": "https://www.facebook.com/komatsu.daisuke.official/",
-          "twitter_url": "https://twitter.com/komatsu_daisuke"
+          "twitter_url": "https://twitter.com/komatsu_daisuke",
+          "twitter_profile": "東京都議会議員\n 1977年7月世田谷区生まれ。千歳烏山在住。\n 国士舘大学体育学部を卒業後、（株）リクルートに入社。2011年より世田谷区議会議員。2013年より現職。早稲田大学大学院公共経営研究科修士課程修了",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/858991177659432960/tS59_mW3_normal.jpg"
         },
         {
           "id": "6",
@@ -935,7 +1042,8 @@
           "age": "69",
           "party": "無所属",
           "type": "新",
-          "url": "http://www.kw224.com"
+          "url": "http://www.kw224.com",
+          "homepage_description": ""
         },
         {
           "id": "7",
@@ -966,8 +1074,11 @@
           "party": "日本維新の会",
           "type": "新",
           "url": "http://hieshimasusumu.jp/",
-          "twitter_url": "https://twitter.com/manabu_tokyo5",
-          "facebook_url": "https://www.facebook.com/hieshimasusumutokyo"
+          "homepage_description": "東京都議会を改革！世田谷区選挙対策委員 ひえしま進 日本維新の会。2017年の東京都議会議員選挙を控え、世田谷区の選挙対策委員、働き盛り、子育て世代を力強くバックアップ！する稗島進、ひえしま進（ひえしますすむ）。東京都議会を改革する世田谷区選挙対策委員",
+          "twitter_url": "https://twitter.com/hieshima_susumu",
+          "facebook_url": "https://www.facebook.com/hieshimasusumutokyo",
+          "twitter_profile": "日本維新の会(東京維新)所属。都政対策委員(世田谷区)。1977年東京都目黒区生まれ。世田谷区在住。明治学院大学法学部政治学科卒業、同大学院修了(法学修士)。参議院議員秘書を経て、サラリーマン生活12年。 「ブレない、こびない」",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/828271916435714049/M8lqVVne_normal.jpg"
         },
         {
           "id": "10",
@@ -988,7 +1099,10 @@
           "party": "東京・生活者ネットワーク",
           "type": "新",
           "url": "http://okamoto.seikatsusha.me/",
-          "twitter_url": "https://twitter.com/okamotonet"
+          "homepage_description": "都政担当政策委員[世田谷区]",
+          "twitter_url": "https://twitter.com/okamotonet",
+          "twitter_profile": "【岡本 京子】（おかもと きょうこ）【#都議選 候補者】／📖世田谷・生活者ネットワーク 都政担当政策委員 ／🥛23区南生活クラブ生協 前理事長／☀️NPO世田谷みんなのエネルギー理事／✏️キーワード：#食の安全、#子育て介護は社会の仕事、#雇用の安定、#環境保護、#脱原発、#ジェンダー平等、#立憲主義、#平和主義",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/877048982500814848/GbF_hMRB_normal.jpg"
         },
         {
           "id": "12",
@@ -999,6 +1113,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://www.facebook.com/tomin1setagaya.tokyo",
+          "homepage_description": "福島りえこ【都民ファーストの会 / 世田谷区】 - いいね！324件 · 250人が話題にしています -...",
           "facebook_url": "https://www.facebook.com/tomin1setagaya.tokyo#"
         },
         {
@@ -1010,6 +1125,7 @@
           "party": "都民ファーストの会",
           "type": "現",
           "url": "http://www.motonari-kimura.info",
+          "homepage_description": "都民ファーストの会 東京都議会議員 木村基成 公式ホームページです。",
           "facebook_url": "https://ja-jp.facebook.com/kimura.motonari/"
         },
         {
@@ -1021,8 +1137,9 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://www.jcp-setagaya.jp/satoyosi/",
+          "homepage_description": "世田谷の都議予定候補です！政党は日本共産党｡2012年12月まで、3期約10年、世田谷区議会議員として活動してきました。文教常任委員､防災・防犯･オウム問題等特別委員長を歴任｡事務所は京王線千歳烏山駅近くです。家では３歳の息子と夫と猫とバタバタと毎日を送っています。1967年東京都八王子市生まれ､帝京大学卒",
           "facebook_url": "https://www.facebook.com/yumi.satoyoshi",
-          "twitter_url": "https://twitter.com/yumisatoyoshi",
+          "twitter_url": "https://twitter.com/yumisatoyoshi?lang=ja",
           "youtube_url": "https://www.youtube.com/channel/UCz6R6mbXuxCDSrEP8a5i9iw"
         },
         {
@@ -1034,8 +1151,11 @@
           "party": "無所属",
           "type": "新",
           "url": "http://miurashizuka.jp/",
+          "homepage_description": "セーラーズ社長の三浦しずかが東京都議会議員候補へ無所属で立候補いたします。こちらの公式サイトでは、私、三浦しずかがご提案する政策や選挙戦の最新情報などを常時更新中です。",
           "facebook_url": "https://www.facebook.com/shibuya.sailors/",
-          "twitter_url": "https://twitter.com/shibuyasailors"
+          "twitter_url": "https://twitter.com/shibuyasailors",
+          "twitter_profile": "セーラーズ社長の三浦しずかです！ 東京都議会選挙に無所属で立候補しています。脳性まひの娘と要介護の母に寄り添って【障がい児ファーストで誰にも優しい東京】を目指します。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/875269789182173184/Bf5Ry097_normal.jpg"
         },
         {
           "id": "16",
@@ -1067,6 +1187,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.miyake.setagaya.tokyo.jp",
+          "homepage_description": "",
           "facebook_url": "http://www.facebook.com/MiyakeShigeki"
         }
       ]
@@ -1083,7 +1204,9 @@
           "party": "民進党",
           "type": "新",
           "url": "http://hamada.to/",
-          "twitter_url": "https://twitter.com/hamadahiroki"
+          "twitter_url": "https://twitter.com/hamadahiroki",
+          "twitter_profile": "都議会議員候補。元渋谷区議会議員(2期）。民進党。2016年東京都議会議員補欠選挙、次点（35,559票）。東京大学教養学部卒。青いサニートラックに乗ってます。渋谷消防団第3分団団員。鹿児島市出身。恵比寿在住。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/1325924265/hamadahiroki_normal.jpg"
         },
         {
           "id": "2",
@@ -1105,6 +1228,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://airi-ryuen.com/",
+          "homepage_description": "龍円あいり（りゅうえんあいり）の公式サイトです。",
           "facebook_url": "https://www.facebook.com/airi.ryuen.shibuya/"
         },
         {
@@ -1116,8 +1240,11 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://maekaz.com",
+          "homepage_description": "東京都議会議員 前田かずしげの公約特設サイトです。",
           "twitter_url": "https://twitter.com/nonnokokazun",
-          "facebook_url": "https://www.facebook.com/maeda.kazushige.tokyo"
+          "facebook_url": "https://www.facebook.com/maeda.kazushige.tokyo",
+          "twitter_profile": "東京都議会議員（自民党）渋谷区選出 前渋谷区議会議長",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/849811851168763905/kM-i9O1L_normal.jpg"
         },
         {
           "id": "5",
@@ -1143,8 +1270,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://araki-chiharu.com",
-          "facebook_url": "https://www.facebook.com/chiharu.araki.52",
-          "twitter_url": "https://twitter.com/araki_chiharu"
+          "homepage_description": "都民ファーストの会 都政改革委員（中野区担当）荒木ちはる（千陽）の公式サイトです。",
+          "twitter_url": "https://twitter.com/@araki_chiharu",
+          "facebook_url": "https://www.facebook.com/chiharu.araki.52"
         },
         {
           "id": "2",
@@ -1155,9 +1283,12 @@
           "party": "民進党",
           "type": "現",
           "url": "http://24zawa.jp",
+          "homepage_description": "民進党東京都議会議員 西沢けいた（西澤圭太） 東京都のムダを斬り、本当に必要な所に予算がまわる社会を目指します",
           "facebook_url": "https://www.facebook.com/keita.nishizawa.9/",
           "twitter_url": "https://twitter.com/nishizawakeita",
-          "instagram_url": "https://www.instagram.com/keita_nishizawa/"
+          "instagram_url": "https://www.instagram.com/keita_nishizawa/",
+          "twitter_profile": "民進党 東京都議会議員/2009年初当選2期目/2006衆議院議員長妻昭公設秘書/2002株式会社ソフトクリエイト/2013民主党都連青年委員長/2011公益社団法人東京青年会議所中野区委員会委員長/1998中央大学法学部/1995中央大学杉並高校/趣味は風呂・音楽・読書/高校大学バンドでドラム/1979生まれ/",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/830006285139484673/L0qzAonu_normal.jpg"
         },
         {
           "id": "3",
@@ -1178,8 +1309,11 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://urano-satomi.jp",
+          "homepage_description": "浦野さとみは、2017年東京都議候補です。リハビリの作業療法士（OT）として、医療・介護現場で8年間働き、2011年から中野区議会議員として日々、地域をかけまわってきました。1人1人の「命」「健康」「くらし」を大事する都政へ。あなたと一緒に都政を変える。",
           "twitter_url": "https://twitter.com/urano_satomi",
-          "facebook_url": "https://www.facebook.com/urano.satomi?ref=tn_tnmn"
+          "facebook_url": "https://www.facebook.com/urano.satomi?ref=tn_tnmn",
+          "twitter_profile": "リハビリの作業療法士（OT）として8年間、中野共立病院・上高田訪看St等に勤務。中野区議会議員（2期6年）。都議会議員候補（中野区選出・定数3）。あなたと一緒に都政を変える。医療介護現場での経験を必ずいかします。ソフトボール/竹富島/ゆず/秦基博/鳥の唐揚げが元気の源。千葉県松戸市出身。36才。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/442651381808123904/uzJzE5O3_normal.png"
         },
         {
           "id": "5",
@@ -1190,9 +1324,10 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.komei.or.jp/km/takakura-ryosei/",
-          "twitter_url": "https://twitter.com/komei_koho",
-          "twitter_profile": "公明党広報の公式アカウントです。最新ニュースや党の見解、テレビ出演情報などをお知らせします。国会議員60人、地方議員およそ3000人。すぐに現場へ、国と地方のネットワーク力が持ち味です。若者や女性の活躍支援、地方発の話題もつぶやきます。 #希望がゆきわたる国へ",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/516920893792989186/xqKHzAC9_normal.png"
+          "homepage_description": "東京都議会議員・ 高倉良生(たかくら・りょうせい) の公式ホームページです。中野区選出、都議会公明党副幹事長",
+          "twitter_url": "https://twitter.com/tryosei",
+          "twitter_profile": "東京都議会議員（中野区選出・３期）。 都議会総務委員長など歴任。 都議会環境・建設委員。 都議会公明党「動物との共生を進めるPT」座長。党都本部議会局長。茨城県出身。 県立水戸第一高校、創価大学経済学部卒。 元公明新聞記者。 区議2期を経て、2005年から都議。 東京マラソン完走。 アマ無線局 ＪＩ１ＴＰＢ。防災士。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/846358027796017154/W2Pj0mvE_normal.jpg"
         },
         {
           "id": "6",
@@ -1202,7 +1337,8 @@
           "age": "69",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://kawai-shigeo.jp"
+          "url": "http://kawai-shigeo.jp",
+          "homepage_description": "東京都議会議員川井しげおホームページです。「東京都から明るい未来を」「子供たちに夢と希望と感動を」夢や理想を語るだけなら誰でもできる。この街に築けた、たくさんの喜びを未来へとつなぐ。"
         }
       ]
     },
@@ -1218,6 +1354,7 @@
           "party": "民進党",
           "type": "現",
           "url": "http://tanakaasako.com",
+          "homepage_description": "元杉並区議の田中朝子（東京都議会議員（杉並区））は、政治に強い意志と行動力をもって頑張ります！",
           "facebook_url": "https://www.facebook.com/tanakaasakooffice/"
         },
         {
@@ -1229,8 +1366,11 @@
           "party": "東京・生活者ネットワーク",
           "type": "現",
           "url": "http://komatsu.seikatsusha.me/",
+          "homepage_description": "東京都議会議員　生活者ネットワーク",
           "twitter_url": "https://twitter.com/komachisa",
-          "facebook_url": "https://www.facebook.com/hisako.komatsu1"
+          "facebook_url": "https://www.facebook.com/hisako.komatsu1",
+          "twitter_profile": "生活者ネットワークの東京都議会議員。好きなものはオペラと洋裁、とくいなのは『外郎売』の口上。 チャンス！東京を変える #生活者ネット #都議選 #杉並区 #小松久子 #yourvoice2020",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/2827261689/f7b14c654da275d002c060b1b98bae72_normal.jpeg"
         },
         {
           "id": "3",
@@ -1241,8 +1381,11 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://a-kayo.com",
+          "homepage_description": "企業と連携し「働き方改革」を推進し、都民目線で「子育て環境」を整備します。 複雑な都政を分かりやすく見える化し、都民目線で改革を進めます。   一人の力では動かせない課題でも、大勢の力を合わせれば、政治を変える力になります。ぜひ皆様の力をお貸し下さい。",
           "facebook_url": "https://www.facebook.com/akanegakubokayoko/",
-          "twitter_url": "https://twitter.com/k_akanegakubo"
+          "twitter_url": "https://twitter.com/k_akanegakubo",
+          "twitter_profile": "小池新党「都民ファーストの会」杉並区の都政改革委員。東京大学卒業後、ベンチャー、外資大手企業勤務を経てキャリアアドバイザー、コンサルタントとして独立。一児の母。1975生。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878083303726759936/c8doTlSo_normal.jpg"
         },
         {
           "id": "4",
@@ -1253,7 +1396,10 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://www.yuiyuidori.net/jcpskd-harada/",
-          "twitter_url": "http://twitter.com/harada_akira"
+          "homepage_description": "日本共産党杉並区議会議員～原田あきらホームページ",
+          "twitter_url": "http://twitter.com/harada_akira",
+          "twitter_profile": "杉並生まれ（河北病院）、杉並育ち（阿佐ヶ谷南保育園/杉並第二小/東田中学校/都立武蔵丘小学校/東京学芸大学障害児教育学科卒業）。\n小学校での非常勤勤務を経て、2003年から杉並区議会議員を4期14年つとめました。\n都政の闇をあばき、くらしに光を！\n趣味はギター、フラワーアレンジメント、相撲、化石拾い。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878212650265489409/u1ldEoFq_normal.jpg"
         },
         {
           "id": "5",
@@ -1263,7 +1409,8 @@
           "age": "33",
           "party": "無所属",
           "type": "新",
-          "url": "http://ameblo.jp/shogotakahashi-tosei"
+          "url": "http://ameblo.jp/shogotakahashi-tosei",
+          "homepage_description": "高橋しょうご　〜私達の都政へ〜さんのブログ「高橋しょうご　〜私達の都政〜」です。最新記事は「後藤輝樹氏に秋葉原で読み上げてもらう予定だった、私から皆さんへのお手紙。」です。"
         },
         {
           "id": "6",
@@ -1274,7 +1421,9 @@
           "party": "都政を革新する会",
           "type": "新",
           "url": "http://www.tokakushin.org/wp/",
-          "twitter_url": "https://twitter.com/kjmirai"
+          "twitter_url": "https://twitter.com/kjmirai",
+          "twitter_profile": "1959年山口県岩国市生まれ。中央大学法学部法律学科卒業。読売広告社での組合活動を経て、杉並区議会議員（2007ｰ2011）。東京西部ユニオン副委員長。事務所スタッフともどもツイートします。2017年7月2日の東京都議会議員選挙に杉並区から立候補しました。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/857896145153966081/_RKzb9kK_normal.jpg"
         },
         {
           "id": "7",
@@ -1284,7 +1433,8 @@
           "age": "41",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.komiya-anri.com/"
+          "url": "http://www.komiya-anri.com/",
+          "homepage_description": "「人にやさしいまちづくり」を目指す、東京都議会議員・小宮あんりの最新ニュースを日々更新！　議会での活動、政治信条、小宮あんりができるまで、都政レポート、などなど盛り沢山！"
         },
         {
           "id": "8",
@@ -1294,7 +1444,8 @@
           "age": "53",
           "party": "民進党",
           "type": "新",
-          "url": "http://www.nishimura-masami.tokyo"
+          "url": "http://www.nishimura-masami.tokyo",
+          "homepage_description": "西村まさみ（西村正美）民進党東京都政策委員（杉並区）／歯科医師の公式ＷＥＢサイトです。"
         },
         {
           "id": "9",
@@ -1305,6 +1456,7 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.tamichan.net/",
+          "homepage_description": "都議会議員まつば多美子のオフィシャルサイトです。",
           "facebook_url": "https://www.facebook.com/%E3%81%BE%E3%81%A4%E3%81%B0%E5%A4%9A%E7%BE%8E%E5%AD%90-1145822075512440/"
         },
         {
@@ -1326,9 +1478,12 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.tokyo-hayasaka.com",
+          "homepage_description": "東京都議会議員 ミスター防災 早坂よしひろオフィシャルサイト",
           "youtube_url": "http://www.youtube.com/user/mrbousai",
           "facebook_url": "https://www.facebook.com/yoshihiro.hayasaka.7",
-          "twitter_url": "https://twitter.com/mrbousai"
+          "twitter_url": "https://twitter.com/mrbousai",
+          "twitter_profile": "https://t.co/GAeUddCi5t",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/835124997760811009/GrnmPOuU_normal.jpg"
         },
         {
           "id": "12",
@@ -1365,7 +1520,9 @@
           "type": "新",
           "url": "http://www.motohashi-hirotaka.jp",
           "facebook_url": "https://www.facebook.com/tominfirst7/",
-          "twitter_url": "https://twitter.com/mr_motohashi"
+          "twitter_url": "https://twitter.com/mr_motohashi",
+          "twitter_profile": "東京都豊島区議会議員。\n生まれ育った郷土・豊島区のため、区民の皆様と豊島区の本気の架け橋として、前進してまいります。            \n                 https://t.co/KO2UKeh86F…",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/823846567513686017/vcyxUgKt_normal.jpg"
         },
         {
           "id": "3",
@@ -1377,7 +1534,9 @@
           "type": "現",
           "url": "http://www.hori-koudou.com/",
           "twitter_url": "https://twitter.com/horikoudou1964",
-          "facebook_url": "http://www.facebook.com/horikoudou"
+          "facebook_url": "http://www.facebook.com/horikoudou",
+          "twitter_profile": "自民党東京都議会議員の堀宏道(ほり　こうどう)です。2013年6月に初当選し東京都議会議員として活動しております。「身近な都政へ今すぐ行動！」。FACE　TO　FACE～ひとりひとりと、じっくりと。高度防災都市・東京の構築、福祉医療の充実、教育・子育て支援、地域経済の活性化、世界一の環境都市・東京の実現、を目指します！",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/3369512444/803985a5fed1d1ccdcc5a49af6cafc5e_normal.jpeg"
         },
         {
           "id": "4",
@@ -1388,9 +1547,12 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://kouho.jcp-tokyo.net/yonekura/",
+          "homepage_description": "日本共産党東京都議会議員　米倉春奈です。人間をたいせつにする政治にしたい。声を上げづらい社会だけど、変えることは必ずできます。私はその力を勇気づけ、社会を変える原動力の一つになりたいです。",
           "facebook_url": "https://www.facebook.com/yonekuraharuna/",
           "twitter_url": "https://twitter.com/yonekura_haruna",
-          "youtube_url": "https://www.youtube.com/playlist?list=PLHsLS2_dxXZAKb6uvypaUmGmzpo53_c7X"
+          "youtube_url": "https://www.youtube.com/playlist?list=PLHsLS2_dxXZAKb6uvypaUmGmzpo53_c7X",
+          "twitter_profile": "豊島区から、都議2期目をめざしてがんばります！(^-^) 日本共産党、宮崎県出身。 最年少の議員として、はじめて学生の学費値下げ問題を取り上げて、首都大学の授業料減免制度を拡充させました。ブラック企業、家賃補助などもとりくんできました。憲法守り人間を大切にする社会に✨定数3の激戦から、都議会に送ってください！",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/808187718781976576/MdHxQyJe_normal.jpg"
         },
         {
           "id": "5",
@@ -1401,8 +1563,11 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.komei.or.jp/km/tokyo-nagahashi-keiichi/",
+          "homepage_description": "東京都議会議員（豊島区）　長橋 桂一（けいいち）の公式ホームページ。",
           "facebook_url": "https://www.facebook.com/nagahashikeiichitoshima/",
-          "twitter_url": "https://twitter.com/nagahashikeiich"
+          "twitter_url": "https://twitter.com/nagahashikeiich",
+          "twitter_profile": "長橋けいいちです。豊島区選出公明党東京都議会議員。豊島区生まれの豊島区育ちです。皆様のために全力で働いて参ります。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/795193185421004800/Q8zFFadd_normal.jpg"
         }
       ]
     },
@@ -1418,9 +1583,12 @@
           "party": "都民ファーストの会",
           "type": "現",
           "url": "http://otokitashun.com/",
-          "twitter_url": "http://twitter.com/otokita",
+          "homepage_description": "東京都議会議員(北区選出)  おときた駿の公式サイトです",
+          "twitter_url": "https://twitter.com/otokita",
           "facebook_url": "http://www.facebook.com/otokitashun",
-          "googleplus_url": "https://plus.google.com/u/0/112321612788215374984/posts?rel=author"
+          "googleplus_url": "https://plus.google.com/u/0/112321612788215374984/posts?rel=author",
+          "twitter_profile": "東京都議会議員（北区選出）、おときた駿 / 音喜多駿です。北区うまれ、北区育ち。海城高校卒、早稲田大学政治経済学部卒。LVMHモエヘネシー・ルイヴィトングループにて7年間のビジネス経験を経て、現在。ネットを中心に積極的な情報発信を行う、通称「ブロガー議員」。都民ファーストの会東京都議団幹事長。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/847644930235289601/jICwqIrd_normal.jpg"
         },
         {
           "id": "2",
@@ -1432,7 +1600,9 @@
           "type": "現",
           "url": "http://sonehajime.com/",
           "twitter_url": "https://twitter.com/sone_hajime",
-          "facebook_url": "https://www.facebook.com/profile.php?id=100005299354592&fref=ts"
+          "facebook_url": "https://www.facebook.com/profile.php?id=100005299354592&fref=ts",
+          "twitter_profile": "日本共産党の東京都議会議員（北区選出）です。都民の暮らしを応援する都政の実現に全力で頑張ります。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/862783004174712832/DwIWJBKp_normal.jpg"
         },
         {
           "id": "3",
@@ -1442,7 +1612,8 @@
           "age": "73",
           "party": "民進党",
           "type": "元",
-          "url": "http://www.wadamune.jp/"
+          "url": "http://www.wadamune.jp/",
+          "homepage_description": "東京都議会議員　和田宗春公式サイト。和田都議の政治活動報告、日々感じたこと、政策、プロフィール、著書・翻訳書の紹介、和田宗春事務所からのお知らせを掲載。"
         },
         {
           "id": "4",
@@ -1453,8 +1624,11 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://takagi-kei.com/index.php",
+          "homepage_description": "自由民主党 北区総支部長 東京都議会議員 高木けい公式ウェブサイトです。東京を世界で一番の都市に！安心・安全・活気溢れる東京の未来を切り開きます。",
           "facebook_url": "https://www.facebook.com/tochokoho",
-          "twitter_url": "https://twitter.com/tocho_koho"
+          "twitter_url": "https://twitter.com/tocho_koho",
+          "twitter_profile": "東京都庁広報課の公式アカウントです。主に報道発表や都提供放送番組、広報紙「広報東京都」の情報などをツイートします。リプライやフォローには対応しませんので、ご了承ください。ご質問等がある方は、各ツイートのリンク先に記載の担当課へ直接お問い合わせください。\n 東京動画⇒https://t.co/eFluCN3BUG",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/1415201664/tocho_normal.jpg"
         },
         {
           "id": "5",
@@ -1465,9 +1639,12 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.oomatsu.com/",
+          "homepage_description": "都民相談2万5,000件！現場第一！質問回数No.1 実績NO.1 あなたの声を力に北区＆東京改革！東京都議会議員 大松あきら",
           "facebook_url": "https://www.facebook.com/oomatsuakira/",
           "youtube_url": "https://www.youtube.com/user/akiraoomatsu",
-          "twitter_url": "https://twitter.com/akiraoomatsu"
+          "twitter_url": "https://twitter.com/akiraoomatsu",
+          "twitter_profile": "東京都議会議員、公明党北総支部長。1960年、神戸市生まれ。兵庫県立長田高校、大阪大学法学部卒業。公明新聞記者を経て2005年、都議会選挙で初当選。現在3期目。趣味は映画観賞、音楽鑑賞。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/869571975286374400/DwBJQ3r8_normal.jpg"
         }
       ]
     },
@@ -1483,8 +1660,11 @@
           "party": "無所属",
           "type": "元",
           "url": "http://t-gaku.com/",
+          "homepage_description": "都民ファーストの会推薦　前東京都議会議員 たきぐち学のホームページ　東京都政に再挑戦！",
           "facebook_url": "https://www.facebook.com/gaku.takiguchi",
-          "twitter_url": "https://twitter.com/#!/takiguchigaku"
+          "twitter_url": "https://twitter.com/#!/takiguchigaku",
+          "twitter_profile": "前東京都議会議員",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/1474108402/illust2_normal.jpg"
         },
         {
           "id": "2",
@@ -1495,6 +1675,7 @@
           "party": "幸福実現党",
           "type": "新",
           "url": "https://www.facebook.com/nishino.akira7777",
+          "homepage_description": "西野 アキラさんはFacebookを利用しています。Facebookに登録して、西野 アキラさんや他の知り合いと交流しましょう。Facebookは、人々が簡単に情報をシェアできる、オープンでつながりのある世界の構築をお手伝いします。",
           "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
         },
         {
@@ -1506,10 +1687,13 @@
           "party": "公明党",
           "type": "新",
           "url": "http://www.komei.or.jp/km/keino/",
+          "homepage_description": "公明党　荒川区　けいの信一",
           "facebook_url": "https://www.facebook.com/keino.shinichi",
           "instagram_url": "https://www.instagram.com/keino_shinichi/",
           "twitter_url": "https://twitter.com/KeinoShinichi",
-          "youtube_url": "https://www.youtube.com/channel/UCrti02tDmyM-uKxJw4ovPeA"
+          "youtube_url": "https://www.youtube.com/channel/UCrti02tDmyM-uKxJw4ovPeA",
+          "twitter_profile": "",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/834405948416421889/k_RIj2SP_normal.jpg"
         },
         {
           "id": "4",
@@ -1520,7 +1704,9 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.sakiyama-c.jp/",
-          "twitter_url": "https://twitter.com/tokyojimin"
+          "twitter_url": "https://twitter.com/tokyojimin",
+          "twitter_profile": "自民党東京都連（自由民主党東京都支部連合会）\r\n〔TOKYO自民党 Facebook〕http://t.co/Rzeg6E6JYH",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/352717495/tokyojimin-c_normal.JPG"
         },
         {
           "id": "5",
@@ -1531,7 +1717,8 @@
           "party": "無所属",
           "type": "新",
           "url": "https://twitter.com/gohhog1",
-          "twitter_url": "http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code"
+          "homepage_description": "山本ごう (@gohhog1)さんの最新のツイート \"#山本ごう荒川区　＃山本ごう都議選　＃山本剛スケジュール　＃山本剛と握手\n＃山本ごう都有地　＃山本ごう活用 https://t.co/wG7ZCejWa2\"",
+          "twitter_url": "https://twitter.com/gohhog1#timeline"
         },
         {
           "id": "6",
@@ -1541,7 +1728,8 @@
           "age": "63",
           "party": "日本共産党",
           "type": "新",
-          "url": "http://kouho.jcp-tokyo.net/souma"
+          "url": "http://kouho.jcp-tokyo.net/souma",
+          "homepage_description": "東京都議会議員候補　相馬けんいちの公式WEBサイトです。東京都政に区民の声を届け、暮らし優先の都政、食の安全をまもり、福祉・子育て安心の都政へ全力をつくします。"
         },
         {
           "id": "7",
@@ -1567,9 +1755,12 @@
           "party": "民進党",
           "type": "現",
           "url": "http://miyase-eiji.net/",
+          "homepage_description": "政局より、政策　党の未来より、都の未来　業界団体などの組織のしがらみ一切なし　一人ひとりの都民のために闘う都議",
           "twitter_url": "https://twitter.com/miyase_eiji",
           "facebook_url": "https://www.facebook.com/miyase.eiji.yourparty",
-          "youtube_url": "http://www.youtube.com/channel/UCAcHLDY9UbMVjNrp7w03L9A"
+          "youtube_url": "http://www.youtube.com/channel/UCAcHLDY9UbMVjNrp7w03L9A",
+          "twitter_profile": "松月院幼稚園、高島7小、高島2中、城西川越高校、早大、サラリーマン（ベネッセ11年）出身。都議1期目 \n【スタッフがツイートすることもあります】",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/835124020131450880/8Cnh14Tu_normal.jpg"
         },
         {
           "id": "2",
@@ -1581,7 +1772,9 @@
           "type": "元",
           "url": "http://kumakiminako.jp/",
           "twitter_url": "https://twitter.com/kumaki_minako",
-          "facebook_url": "https://www.facebook.com/くまき美奈子事務所-1667222106839710/"
+          "facebook_url": "https://www.facebook.com/くまき美奈子事務所-1667222106839710/",
+          "twitter_profile": "東京都板橋区に住み25年、双子の子育てをしながら区内の病院に勤務していました。その息子も介護福祉士として板橋区で働いています。\n私たち家族を暖かく包んでくれている板橋区に感謝しつつ、これからももっと頑張ります。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/860380789317312515/V9g20gKU_normal.jpg"
         },
         {
           "id": "3",
@@ -1591,7 +1784,8 @@
           "age": "27",
           "party": "幸福実現党",
           "type": "新",
-          "url": "http://s.ameblo.jp/h-yasuhara11/"
+          "url": "http://s.ameblo.jp/h-yasuhara11/",
+          "homepage_description": "安原ひろしさんのブログ「安原ひろし」です。最新記事は「政治家の仕事は夢を語ること」です。"
         },
         {
           "id": "4",
@@ -1604,9 +1798,9 @@
           "url": "http://www.komei.or.jp/km/tokyo-tachibana-seigo/",
           "facebook_url": "https://www.facebook.com/tachibana.seigou?fref=ts",
           "youtube_url": "https://www.youtube.com/watch?v=djAQCuZSGa4&authuser=0",
-          "twitter_url": "https://twitter.com/komei_koho",
-          "twitter_profile": "公明党広報の公式アカウントです。最新ニュースや党の見解、テレビ出演情報などをお知らせします。国会議員60人、地方議員およそ3000人。すぐに現場へ、国と地方のネットワーク力が持ち味です。若者や女性の活躍支援、地方発の話題もつぶやきます。 #希望がゆきわたる国へ",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/516920893792989186/xqKHzAC9_normal.png"
+          "twitter_url": "https://twitter.com/voiceaction2016",
+          "twitter_profile": "―若者の声を政治に届けます― 公明党青年委員会によるアンケート「VOICE ACTION」。 今回は、いま注目を集める「東京」において、最近話題の「議員報酬削減」や「私立高校の授業料無償化」などを実現するために、皆さまの声を集め、小池都知事に届けて政治を動かします。 ―あったらいいね公明党― 公明党青年委員会",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/826994562115579904/bSxyDlNq_normal.jpg"
         },
         {
           "id": "5",
@@ -1616,7 +1810,8 @@
           "age": "47",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.kouno.tokyo.jp/"
+          "url": "http://www.kouno.tokyo.jp/",
+          "homepage_description": ""
         },
         {
           "id": "6",
@@ -1627,9 +1822,12 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://www.k-fumiko.jp",
+          "homepage_description": "「都民ファーストの会」都議会議員選挙候補(板橋区)・木下ふみこ（富美子）のウェブサイトです。広告会社で働きながら、ひとり娘を育てるシングルマザー／小池百合子東京都知事主宰「希望の塾」塾生／元・内閣府男女共同参画局政策企画調査官／元・内閣官房日本版シティマネージャー",
           "twitter_url": "http://twitter.com/kinoshitafumiko",
           "facebook_url": "https://www.facebook.com/kinoshitafumiko/",
-          "youtube_url": "https://www.youtube.com/channel/UCGh_OTQNFAZOJRauhLlEKWw"
+          "youtube_url": "https://www.youtube.com/channel/UCGh_OTQNFAZOJRauhLlEKWw",
+          "twitter_profile": "都民ファーストの会都議会議員候補(板橋区) 働きながら、ひとり娘を育てるシングルマザー。小池知事と共に、女性目線で東京改革に取組みます！東京外国語大学卒業後(株)博報堂入社。14年で全国32ヶ所のまちづくりを実践。元 内閣府男女共同参画局 政策企画調査官。元 内閣官房 地方創生人材支援制度派遣者1期生。希望の塾 塾生。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/850689068044124160/BaTQBj9d_normal.jpg"
         },
         {
           "id": "7",
@@ -1639,7 +1837,8 @@
           "age": "29",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "http://www.tairakeisyo.com/"
+          "url": "http://www.tairakeisyo.com/",
+          "homepage_description": "都民ファーストの会 都議選候補者（板橋区）の平けいしょう（平慶翔）の公式サイトです。小池百合子都知事が代表を務める都民ファーストの会から、都議会議員選挙に向けて公認を受けています。"
         },
         {
           "id": "8",
@@ -1660,6 +1859,7 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://m-tokutome.com/",
+          "homepage_description": "板橋区選出の日本共産党東京都議会議員とくとめ道信のブログです。くらし、福祉第一の都政を目指し全力を尽くします。",
           "youtube_url": "https://www.youtube.com/channel/UCEfnRgUhXtO8wpyOoNYmAwg",
           "facebook_url": "https://www.facebook.com/mitinobu.tokutome"
         },
@@ -1672,7 +1872,9 @@
           "party": "無所属",
           "type": "新",
           "url": "Twitterのユーザー名　AkihiroSagami",
-          "twitter_url": "https://twitter.com/AkihiroSagami"
+          "twitter_url": "https://twitter.com/AkihiroSagami",
+          "twitter_profile": "1971年 板橋区に生まれる。 板橋区立上板橋小学校 卒業。 板橋区立上板橋第一中学校 卒業。大学卒業後、ネフローゼ症候群 発症。 「趣味として、同じ曲を自然な形で聞き続ける」ということを中心として音楽に接し、大人になって、（演奏評価を行なっていただいた後に）演奏家を目指した本格的なピアノ練習を行った経験を持つ。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878238287390887936/qAeQq600_normal.jpg"
         }
       ]
     },
@@ -1688,8 +1890,11 @@
           "party": "環境党",
           "type": "新",
           "url": "http://www.kankyotou.jp",
+          "homepage_description": "環境党は、環境の専門家集団を率いて、日本のエコ社会を構築していきます。みなさまのお力をお貸しください。",
           "facebook_url": "https://www.facebook.com/kankyotou.shibuya",
-          "twitter_url": "https://twitter.com/kankyotou"
+          "twitter_url": "https://twitter.com/kankyotou",
+          "twitter_profile": "",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/823104533605728260/3llc24iA_normal.jpg"
         },
         {
           "id": "2",
@@ -1700,10 +1905,13 @@
           "party": "民進党",
           "type": "現",
           "url": "http://asano-k.net",
+          "homepage_description": "東京都練馬区選出の「東京都議会議員 あさの克彦のホームページ」です。このサイトは、あさの克彦を もっとよく理解していただくことと、皆様とのコミュニケーションを取りたいという目的のもとに 運営されています。政治家が変われば『政治』は必ず良くなるそう信じて全力で行動していきます。には必ず行きましょう！",
           "facebook_url": "https://www.facebook.com/asanokatsuhiko/?fref=ts",
           "twitter_url": "https://twitter.com/katsuhikoasano",
           "googleplus_url": "https://plus.google.com/u/0/103812044711630915781/",
-          "youtube_url": "https://www.youtube.com/channel/UC1rVC6-s2qN3IezLj2NFr8g"
+          "youtube_url": "https://www.youtube.com/channel/UC1rVC6-s2qN3IezLj2NFr8g",
+          "twitter_profile": "東京都議会議員（民進党・東京改革議員団）をしてます浅野克彦です。練馬区選出、現在２期目。日々、発言してます！ ホームページもご覧下さい。 https://t.co/nQGyvfZVbE 毎週月曜20時～ ニコニコ生放送出演中 https://t.co/Rs0AK4Vs1I",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/844146919173574657/F7zUEdpd_normal.jpg"
         },
         {
           "id": "3",
@@ -1713,7 +1921,8 @@
           "age": "41",
           "party": "民進党",
           "type": "新",
-          "url": "https://ameblo.jp/fujiitomonori-nerima/"
+          "url": "https://ameblo.jp/fujiitomonori-nerima/",
+          "homepage_description": "藤井とものりさんのブログ「藤井とものりオフィシャルブログ「『練馬ファースト』宣言」Powered by Ameba」です。最新記事は「都政大改革8策」です。"
         },
         {
           "id": "4",
@@ -1724,8 +1933,9 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://toya-jcp.info",
+          "homepage_description": "都議候補 とや英津子(前練馬区議会議員）です。3人の子どもの母親として医療・保育の問題に取り組み、現在4期目。練馬区選出の松村友昭都議会議員の後継者として2017年6月の都議選に出馬予定です。",
+          "twitter_url": "https://twitter.com/@estukotoya",
           "facebook_url": "https://www.facebook.com/toyasuppo/",
-          "twitter_url": "https://twitter.com/toyajimusho",
           "youtube_url": "https://www.youtube.com/channel/UCHxMqIdlEM_4xTDZv1Wo8IA"
         },
         {
@@ -1737,9 +1947,12 @@
           "party": "公明党",
           "type": "現",
           "url": "http://kobaken-komei.com",
+          "homepage_description": "東京都議会議員（練馬区選出）。小林けんじのオフィシャルウェブサイトです。小林けんじの活動報告から公明党のニュース、動画までご覧いただけます。",
           "twitter_url": "https://twitter.com/kobaken_komei",
           "youtube_url": "http://www.youtube.com/tokyo/",
-          "facebook_url": "https://www.facebook.com/kobaken.komei"
+          "facebook_url": "https://www.facebook.com/kobaken.komei",
+          "twitter_profile": "東京都議会議員(練馬区選出)\n昭和44年10月11日生、47歳。\n都議会厚生委員会委員長。公明党都本部青年局長。公明党練馬総支部長。\n練馬区立光和小学校、同三原台中学校、都立鷺宮高等学校、創価大学卒業。\n衆議院議員秘書を経て2009年初当選。現在2期目。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/831806927487184896/9WMOtt3R_normal.jpg"
         },
         {
           "id": "6",
@@ -1750,6 +1963,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.yamaka-akemi.jp/",
+          "homepage_description": "やまかあけみ,山加朱美,都議会,練馬区,生涯福祉,心のバリアフリー,バリアフリー,盲導犬,介助犬,聴導犬,救助犬,福祉,福祉啓発活動,盲人福祉,文化放送,走れ歌謡曲,パーソナリティー,歌姫,白雪姫,皇室ご一家,今夜だけは,作詞家,しあわせの白いハーネス,灯な会,スチュワーデス,歌手,音楽,",
           "facebook_url": "http://www.facebook.com/yamaka.akemi"
         },
         {
@@ -1761,6 +1975,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.shibazaki-mikio.jp/",
+          "homepage_description": "豊洲市場　施設竣工映像 豊洲市場　施設竣工映像（水産） 豊洲市場　施設竣工映像（青果）",
           "facebook_url": "https://www.facebook.com/mikio.shibazaki?fref=ts"
         },
         {
@@ -1772,6 +1987,7 @@
           "party": "東京・生活者ネットワーク",
           "type": "新",
           "url": "http://kikuchi.seikatsusha.me",
+          "homepage_description": "前練馬区議会議員　生活者ネットワーク",
           "facebook_url": "https://www.facebook.com/yasue.kikuchi.714"
         },
         {
@@ -1783,7 +1999,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://ojimakohei.jp",
-          "twitter_url": "https://twitter.com/ojimakohei"
+          "twitter_url": "https://twitter.com/ojimakohei",
+          "twitter_profile": "東京都議会議員候補（練馬区選挙区）都民ファーストの会公認。28歳。尾島紘平（おじまこうへい）です。早稲田大学政治経済学部卒業、衆議院議員小池百合子秘書を経て、練馬区議会議員1期。「新しい」「正しい」「わかりやすい」政治を目指します。kouheiojima@gmail.com",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/849349400036028420/4Hq4bZFc_normal.jpg"
         },
         {
           "id": "10",
@@ -1794,7 +2012,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://k-muramatsu.com",
-          "youtube_url": "https://www.youtube.com/watch?v=JWqpzkOFJTQ"
+          "homepage_description": "村松一希 元練馬区議会議員｜都民ファーストの会。小池百合子都知事公認の都民ファーストの会から都議会議員選挙に向けて公認される。"
         }
       ]
     },
@@ -1810,9 +2028,12 @@
           "party": "日本維新の会",
           "type": "元",
           "url": "http://suzukikatsuhiro.jp/",
-          "twitter_url": "http://twitter.com/katsukatsuhiro",
+          "homepage_description": "日本維新の会 鈴木かつひろの公式ホームページです。東京を世界一の都市へ。活力東京！",
+          "twitter_url": "http://twitter.com/katsuhirokatsu",
           "facebook_url": "http://www.facebook.com/katsuhiro.suzuki.35",
-          "youtube_url": "https://www.youtube.com/channel/UC2fCJ_aRZ2CIL0m5Whv68DQ"
+          "youtube_url": "https://www.youtube.com/channel/UC2fCJ_aRZ2CIL0m5Whv68DQ",
+          "twitter_profile": "前東京都議会議員 リクルート社員からIT企業を立ち上げ上場、2009年都議会議員選挙でトップ当選を果たす。2013年の選挙で次点で惜敗し、2017年捲土重来を期し活動中。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/865390025592119296/6o3u8GZR_normal.jpg"
         },
         {
           "id": "2",
@@ -1823,8 +2044,11 @@
           "party": "民進党",
           "type": "新",
           "url": "http://ginkawa.org",
+          "homepage_description": "銀川 ゆい子（ぎんかわ　ゆいこ） 民進党東京都議会議員選挙候補(足立区) 公式サイト",
           "twitter_url": "https://twitter.com/yuikoginkawa",
-          "facebook_url": "https://www.facebook.com/%E9%8A%80%E5%B7%9D-%E3%82%86%E3%81%84%E5%AD%90-110359972836817/"
+          "facebook_url": "https://www.facebook.com/%E9%8A%80%E5%B7%9D-%E3%82%86%E3%81%84%E5%AD%90-110359972836817/",
+          "twitter_profile": "【東京都議会議員選挙 候補者】民進党/上智大学 卒業/社会福祉士国家資格取得/衆議院議員 秘書/誰もが輝ける東京を創るため、足立区で活動しています。《福祉の専門家》※スタッフも更新しています※",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878084813856559104/4p7c2iWH_normal.jpg"
         },
         {
           "id": "3",
@@ -1835,8 +2059,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://www.babanobuo.com/",
-          "facebook_url": "https://www.facebook.com/babanobuo2017/",
-          "twitter_url": "https://twitter.com/babanobuo"
+          "homepage_description": "足立区区議会議員",
+          "twitter_url": "https://twitter.com/@babanobuo",
+          "facebook_url": "https://www.facebook.com/babanobuo2017/"
         },
         {
           "id": "4",
@@ -1847,9 +2072,10 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://hotchi.jp/",
+          "homepage_description": "東京都議会議員 ほっち易隆（足立区選出）公式サイトです。ほっち易隆のプロフィールや政策、最近の行動、連絡先等を記載しています。",
           "facebook_url": "https://www.facebook.com/328hochi/",
           "youtube_url": "https://www.youtube.com/channel/UCgSWqMvVanGIdBalRsx0BuQ",
-          "twitter_url": "https://twitter.com/hotci_support/"
+          "twitter_url": "https://twitter.com/hotci0323/"
         },
         {
           "id": "5",
@@ -1860,8 +2086,9 @@
           "party": "公明党",
           "type": "現",
           "url": "http://nakayama.bg1.jp/",
-          "facebook_url": "https://www.facebook.com/adachi.nakayama/",
-          "twitter_url": "https://twitter.com/nobudon7"
+          "homepage_description": "原点――都民のために、一人のために。",
+          "twitter_url": "https://twitter.com/@nobudon7",
+          "facebook_url": "https://www.facebook.com/adachi.nakayama/"
         },
         {
           "id": "6",
@@ -1872,8 +2099,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://gotonami.com",
-          "facebook_url": "https://www.facebook.com/GotoNamiTomin1st/",
-          "twitter_url": "https://twitter.com/gotonami_Tomin1"
+          "homepage_description": "都民ファーストの会 都政改革委員(足立区担当)、後藤なみの公式サイトです。",
+          "twitter_url": "https://twitter.com/@gotonami_Tomin1",
+          "facebook_url": "https://www.facebook.com/GotoNamiTomin1st/"
         },
         {
           "id": "7",
@@ -1884,7 +2112,8 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://saito-mariko.info/",
-          "twitter_url": "https://twitter.com/tsukuttenet",
+          "homepage_description": "斉藤まりこ公式サイトです。都政を変えて、東京から日本の政治を変えていくために、私、斉藤まりこをどうか都議会に送ってください。よろしくお願いします。",
+          "twitter_url": "https://twitter.com/＠tsukuttenet",
           "facebook_url": "https://www.facebook.com/marikojimusyo/",
           "youtube_url": "https://www.youtube.com/channel/UCVjtiClqlcfvi901PvRxwQA"
         },
@@ -1897,9 +2126,10 @@
           "party": "公明党",
           "type": "新",
           "url": "http://usui-kouichi.net/",
+          "homepage_description": "すぐやる！よくやる！うすいがやる！東京に新風期待の即戦力。「現場第一」を信条に足立区議を5期18年務め、区民相談は1万8000件を超え、築き上げた実績は「ナンバー1」",
+          "twitter_url": "https://twitter.com/‎@maikana5155",
           "youtube_url": "https://www.youtube.com/playlist?list=PLiMlUyKZToik4JRmmcyurTQBxCwk3YsEG",
-          "facebook_url": "https://www.facebook.com/%E3%81%86%E3%81%99%E3%81%84-%E6%B5%A9%E4%B8%80-336533063210111/",
-          "twitter_url": "https://twitter.com/maikana5155"
+          "facebook_url": "https://www.facebook.com/%E3%81%86%E3%81%99%E3%81%84-%E6%B5%A9%E4%B8%80-336533063210111/"
         },
         {
           "id": "9",
@@ -1910,6 +2140,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.zenryoku.net",
+          "homepage_description": "東京都議会議員　足立区選出　高島直樹（たかしまなおき）の公式サイトです。　",
           "facebook_url": "https://www.facebook.com/takashima.naoki.adachiku",
           "youtube_url": "https://www.youtube.com/watch?v=SHwz-Un-qLU"
         }
@@ -1938,7 +2169,8 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.nogami-junko.net",
-          "twitter_url": "https://twitter.com/junko_nogami116",
+          "homepage_description": "...",
+          "twitter_url": "https://twitter.com/@junko_nogami116",
           "facebook_url": "https://www.facebook.com/junko.nogami.9"
         },
         {
@@ -1950,6 +2182,7 @@
           "party": "区民ファーストの会",
           "type": "新",
           "url": "http://tanino-seishiro.com/",
+          "homepage_description": "政治家谷野せいしろうの公式ウェブサイトです。",
           "facebook_url": "https://www.facebook.com/seishiro.tanino/"
         },
         {
@@ -1971,9 +2204,12 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://izumitakehiko.com",
+          "homepage_description": "東京都議会議員いずみ武彦の公式ホームページです。未來を拓く希望あふれる街づくりの実現を目指します。",
           "twitter_url": "https://twitter.com/tizumihcc",
           "facebook_url": "https://www.facebook.com/togikaigiin/?fref=ts",
-          "youtube_url": "https://www.youtube.com/channel/UC_d4HaTDB9aqCyKu_lDmQFg"
+          "youtube_url": "https://www.youtube.com/channel/UC_d4HaTDB9aqCyKu_lDmQFg",
+          "twitter_profile": "都議会自民党の、和泉武彦です。現役の医者でもあります。若手の代表として、都政改革、都議会自民党改革を行っていきます！",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/3331310905/2554a8eb56748038b78a25ee8359bafa_normal.jpeg"
         },
         {
           "id": "6",
@@ -1995,8 +2231,11 @@
           "party": "日本共産党",
           "type": "現",
           "url": "https://blogs.yahoo.co.jp/izumi_jmsy",
+          "homepage_description": "日本共産党都議会議員の和泉なおみ事務所です。2013年初当選（葛飾区選出）。社会保険労務士。「くらし・福祉を都政の真ん中へ」とモットーに、みなさんと力あわせて頑張っています。 (都議会 子ども 憲法)（和泉なおみ事務所ブログ）",
           "facebook_url": "https://www.facebook.com/izumijmsy/?ref=aymt_homepage_panel",
-          "twitter_url": "https://twitter.com/6r58TQPgxTLCO7T"
+          "twitter_url": "https://twitter.com/6r58TQPgxTLCO7T",
+          "twitter_profile": "東京都議会議員（日本共産党）。社会保険労務士。1962年生まれ、宮城県出身。\nモットーは「くらし・福祉を都政の真ん中へ」",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/877198309986779140/ChkahnU2_normal.jpg"
         },
         {
           "id": "8",
@@ -2007,9 +2246,12 @@
           "party": "NHKから国民を守る党",
           "type": "新",
           "url": "http://nhkkara.jp/",
+          "homepage_description": "NHKから国民を守る党は公正中立な市の条例を作り数々のNHKの不条理から国民の安全を守る党です。",
           "youtube_url": "http://www.youtube.com/channel/UCatwlXd46XYr0LftyBdx1bg",
           "facebook_url": "https://www.facebook.com/takashi.tachibana.965",
-          "twitter_url": "https://twitter.com/tachibanat"
+          "twitter_url": "https://twitter.com/tachibanat",
+          "twitter_profile": "【選挙】東京都議会議員選挙にＮＨＫから国民を守る党公認で立候補予定です。７月２日が投票日となります。葛飾区でボランティアをしてくださる方を大募集中です。 https://t.co/ChvjQ5ruBC　立花孝志ひとり放送局㈱社長　元ＮＨＫ職員（週刊文春で内部告白）４９歳",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/777486693687435265/DuXhyXUa_normal.jpg"
         }
       ]
     },
@@ -2025,8 +2267,9 @@
           "party": "都民ファーストの会",
           "type": "元",
           "url": "http://ikuko-tanoue.com/",
-          "facebook_url": "https://www.facebook.com/1ikukotanoue/",
-          "twitter_url": "https://twitter.com/IKUKOTANN"
+          "homepage_description": "やさしさあふれる東京へ ～頑張る木に花咲かそう～",
+          "twitter_url": "https://twitter.com/@IKUKOTANN",
+          "facebook_url": "https://www.facebook.com/1ikukotanoue/"
         },
         {
           "id": "2",
@@ -2047,9 +2290,12 @@
           "party": "都民ファーストの会",
           "type": "現",
           "url": "http://www.ueda-reiko.com",
-          "twitter_url": "http://twitter.com/uedareiko",
+          "homepage_description": "東京都議会議員、お姐こと上田令子のオフィシャルサイト",
+          "twitter_url": "https://twitter.com/uedareiko",
           "youtube_url": "http://www.youtube.com/user/reikoueda",
-          "facebook_url": "http://www.facebook.com/people/%E4%B8%8A%E7%94%B0%E4%BB%A4%E5%AD%90/100001671249017"
+          "facebook_url": "http://www.facebook.com/people/%E4%B8%8A%E7%94%B0%E4%BB%A4%E5%AD%90/100001671249017",
+          "twitter_profile": "通称「お姐」。働くカーチャン応援団長。自由と正義を愛し、「あー面白かった！」とすべての人が人生を全うできる日本にするために無我夢中で奮闘し、気づけばいつしか東京都議会議員に。 自由主義者・花のお江戸のリバタリアン、今日も頼まれもしない世直しに奔走中！ブログはご存じ「お姐が行く！」",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/816444988535902208/wspTQSEa_normal.jpg"
         },
         {
           "id": "4",
@@ -2059,7 +2305,8 @@
           "age": "64",
           "party": "公明党",
           "type": "現",
-          "url": "http://www.ueno-net.com"
+          "url": "http://www.ueno-net.com",
+          "homepage_description": "上野和彦の活動をご紹介。"
         },
         {
           "id": "5",
@@ -2094,7 +2341,8 @@
           "age": "35",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "https://yasuhiko-takita.com/"
+          "url": "https://yasuhiko-takita.com/",
+          "homepage_description": ""
         },
         {
           "id": "2",
@@ -2105,8 +2353,11 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://www.simizu-h.com",
+          "homepage_description": "詳しくは投稿をご覧ください。",
           "facebook_url": "https://ja-jp.facebook.com/people/Hideko-Simizu/100001013727602",
-          "twitter_url": "https://twitter.com/@SimizuHideko"
+          "twitter_url": "https://twitter.com/SimizuHideko",
+          "twitter_profile": "都議会議員の清水ひで子です。\n現在5期目です。\nよろしくお願いします。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/3075729680/af4087795138dd680d2d0f46093bcec7_normal.jpeg"
         },
         {
           "id": "3",
@@ -2117,7 +2368,8 @@
           "party": "都民ファーストの会",
           "type": "現",
           "url": "http://www.morozumi-minoru.jp",
-          "twitter_url": "https://twitter.com/morozumi_m",
+          "homepage_description": "2020年、その先の東京・八王子へ。東京都議会議員 もろずみみのる 公式ホームページ 都民ファーストの会東京都議団",
+          "twitter_url": "https://twitter.com/morozumi_m?ref_src=twsrc%5Etfw",
           "facebook_url": "https://www.facebook.com/minoru.morozumi"
         },
         {
@@ -2129,6 +2381,7 @@
           "party": "民進党",
           "type": "新",
           "url": "http://www.osami-ando.com",
+          "homepage_description": "東京都議会議員,都議選,都議会,議員,安藤修三,あんどうおさみ,八王子,安藤おさみ,民進党",
           "facebook_url": "https://www.facebook.com/Ando-Osami-official-117418392139232/"
         },
         {
@@ -2139,7 +2392,8 @@
           "age": "48",
           "party": "自由民主党",
           "type": "新",
-          "url": "http://park20.wakwak.com/~shoko/"
+          "url": "http://park20.wakwak.com/~shoko/",
+          "homepage_description": ""
         },
         {
           "id": "6",
@@ -2149,7 +2403,8 @@
           "age": "51",
           "party": "無所属",
           "type": "元",
-          "url": "http://k-takizawa.com"
+          "url": "http://k-takizawa.com",
+          "homepage_description": "[前東京都議会議員] 滝沢 景一（たきざわ けいいち）のホームページ。プロフィールや政策などご案内します。ご意見やお問い合せもお待ちしております。"
         },
         {
           "id": "7",
@@ -2160,6 +2415,7 @@
           "party": "公明党",
           "type": "現",
           "url": "http://www.k-higashimura.com",
+          "homepage_description": "",
           "facebook_url": "https://www.facebook.com/higashimurakunihiro/",
           "youtube_url": "https://www.youtube.com/user/HigashimuraKunihiro"
         },
@@ -2172,7 +2428,9 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.leo-leo.jp",
-          "twitter_url": "https://twitter.com/leosuzuki"
+          "twitter_url": "https://twitter.com/leosuzuki",
+          "twitter_profile": "前八王子市議会議員（3期）  \nセント・ベル幼稚園 園長\n社会福祉法人 理事長\n自民党三多摩支部連合会青年部　部長\nHP：leo-leo.jp  \nブログ：https://t.co/5HIkSjDao3",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/843648826611183616/yXl4lppW_normal.jpg"
         },
         {
           "id": "9",
@@ -2183,7 +2441,10 @@
           "party": "日本第一党",
           "type": "新",
           "url": "https://m-okamura.japan-first.net/",
-          "twitter_url": "https://twitter.com/mvk3237"
+          "homepage_description": "岡村幹雄八王子未来の会",
+          "twitter_url": "https://twitter.com/mvk3237",
+          "twitter_profile": "日本第一党　党員／ 新潟県出身／東京に住んで４３年目、八王子に住んで１１年目になります。毎日野鳥の声で目を覚ましています。日本狸にも３回遭遇し、うち１回は我が家の庭に来てくれました。八王子の自然は本当に最高です。／日本人が暮らしやすい日本を次世代に残すため、出来ることから一つずつやっていきたいと思います。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/863035880587448322/H9lDOqT5_normal.jpg"
         }
       ]
     },
@@ -2209,7 +2470,10 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://ichiro-masuda.tokyo/",
-          "twitter_url": "https://twitter.com/ichiro_tachikaw"
+          "homepage_description": "「東京大改革」は都議会改革から！",
+          "twitter_url": "https://twitter.com/ichiro_tachikaw",
+          "twitter_profile": "都民ファーストの会　都政改革委員（立川市担当）昭和39年８月埼玉県行田市生まれ、52歳。5人家族。早稲田大学法学部卒業。㈱三和銀行、新生銀行㈱、米国系証券会社等、国内外の金融機関に29年勤務。日本証券アナリスト協会検定会員、TOEIC：945点、テニス、草野球、マラソン（2012東京マラ５時間46分12秒で完走）",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/866884796567498752/HaUttCWZ_normal.jpg"
         },
         {
           "id": "3",
@@ -2220,6 +2484,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://koji-s.net/",
+          "homepage_description": "立川市選出の東京都議会議員、清水こうじ（しみず孝治）のウェブサイト。東京都議会自由民主党。",
           "facebook_url": "https://www.facebook.com/profile.php?id=100015540737018"
         },
         {
@@ -2231,7 +2496,10 @@
           "party": "日本共産党",
           "type": "元",
           "url": "http://kouho.jcp-tokyo.net/asakawa/",
-          "twitter_url": "https://twitter.com/asakawasyuuitij"
+          "homepage_description": "東京都議会議員候補　浅川修一の公式WEBサイトです。私は、社会的立場の弱い、障害者や被爆者、子どもたち、高齢者の声を届けたいと思い政治家になりました。徹底した情報公開と都民参加で、都政・都議会を変えるために全力をつくします。ぜひ、私にこの仕事をやらせてください。",
+          "twitter_url": "https://twitter.com/asakawasyuuitij",
+          "twitter_profile": "2017年都議会議員予定候補（定数2）の浅川修一です。  都政の闇を追及します。立川市民の声を都政にまっすぐ届けます。立川市議6期、都議1期の即戦力。「 やるぞ！都政改革！」 #都議選 #立川市　＃憲法まもれ",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/468559623956357120/HnHGL7TE_normal.jpeg"
         }
       ]
     },
@@ -2246,7 +2514,8 @@
           "age": "51",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://shimazakiyoshiji.com"
+          "url": "http://shimazakiyoshiji.com",
+          "homepage_description": "武蔵野に生まれ育ち、都議4年、市議14年の経験も生かし、地域の声に耳を傾けながら責任を果たしてきました。これからも、市・都・国のパイプ役として、地域と東京のために全身全霊で働きます。 "
         },
         {
           "id": "2",
@@ -2257,8 +2526,11 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://kunikazu.jp",
+          "homepage_description": "鈴木邦和 Official Site。ITによる新しい政治手法で、一人ひとりの声を受けとめ、いまを生きる私たちだけでなく、未来を生きる子供たちも、希望を持って暮らせる東京を実現します。",
           "facebook_url": "https://www.facebook.com/%E9%88%B4%E6%9C%A8-%E9%82%A6%E5%92%8C-238352469976411/",
-          "twitter_url": "https://twitter.com/kunikazu_suzuki"
+          "twitter_url": "https://twitter.com/kunikazu_suzuki",
+          "twitter_profile": "都民ファーストの会（武蔵野市）の鈴木邦和(くにかず)です．東北の復興支援と政治サイト「日本政治.com」の運営をしてきました．政治×ITの新しい可能性に挑戦していきます．",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/851503189798993925/StZOjCYj_normal.jpg"
         },
         {
           "id": "3",
@@ -2269,8 +2541,9 @@
           "party": "民進党",
           "type": "元",
           "url": "http://015.bz/",
+          "homepage_description": "松下玲子の想い\n働く人の声や、子育て世代の声を政治の場に届けたい。\nそんな想いで、武蔵野から都議会議員選挙に挑戦したのは2005年のことでした。\n多くの方に応援していただいて、無事当選。\n以来2期にわたって、都議会でお仕事をさせていただきました。 ...",
           "facebook_url": "https://www.facebook.com/matsushitareiko/posts/1602359983108445",
-          "twitter_url": "https://twitter.com/matsushitareiko",
+          "twitter_url": "https://twitter.com/matsushitareiko/",
           "youtube_url": "https://www.youtube.com/channel/UCv3_0Nj2zTqN0r0lovmdGHA/"
         }
       ]
@@ -2287,8 +2560,11 @@
           "party": "民進党",
           "type": "現",
           "url": "http://nakamurahiroshi.jpn.org/",
+          "homepage_description": "東京都議会議員中村ひろしのオフィシャルWEBサイトです。",
           "twitter_url": "https://twitter.com/Nakamura_Mitaka",
-          "facebook_url": "https://www.facebook.com/nakamurahiroshi1971/photos/a.679856668753840.1073741829.673607522712088/1512443622161803/?type=3"
+          "facebook_url": "https://www.facebook.com/nakamurahiroshi1971/photos/a.679856668753840.1073741829.673607522712088/1512443622161803/?type=3",
+          "twitter_profile": "1971年愛知県一宮市生まれ、1995年一橋大学を卒業し東芝に入社、2002年東芝を退社し行政書士事務所を開設、2003年三鷹市議会議員に当選し2期6年務める、2009年東京都議会議員に当選、2013年に２期目の当選。以後、都議会民主党(現民進党)幹事長代行、都議会都市整備委員長を歴任。",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/875340387694424068/qLBCm2pv_normal.jpg"
         },
         {
           "id": "2",
@@ -2299,7 +2575,8 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://katokoji.tokyo/",
-          "twitter_url": "https://twitter.com/katokoji0716",
+          "homepage_description": "【三鷹に情熱・地域に責任。】都政に新しい風、新しい東京、新しい三鷹。｜加藤こうじ（かとう浩司）",
+          "twitter_url": "https://twitter.com/@kato_koji",
           "facebook_url": "https://www.facebook.com/abeshinzo"
         },
         {
@@ -2311,7 +2588,8 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://twitter.com/jcpmuro",
-          "twitter_url": "http://support.twitter.com/articles/14226-how-to-find-your-twitter-short-code-or-long-code"
+          "homepage_description": "むろ喜代一おうえん！ (@jcpmuro)さんの最新ツイート 三鷹市から都議選に立候補予定のむろさん応援Twitter(^^)むろさん本人がどんどんつぶやく！日本共産党武蔵野三鷹地区委員長。やっぱり共産党！ 東京 三鷹市",
+          "twitter_url": "https://twitter.com/jcpmuro#timeline"
         },
         {
           "id": "4",
@@ -2351,10 +2629,9 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://morimura.tokyo",
-          "facebook_url": "https://www.facebook.com/morimuratakayuki/",
-          "twitter_url": "https://twitter.com/morimurataka",
-          "twitter_profile": "都民ファーストの会、都政改革委員の森村たかゆき公式Twitterです。小池百合子都知事とともに、東京大改革に取り組んでまいります。趣味は登山です。 東京大学経済学部卒/一児の父/青梅市在住",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/861838582062784512/HbIZyni-_normal.jpg"
+          "homepage_description": "都民ファーストの会、青梅市、都議会議員候補、都政改革委員、森村たかゆき公式ホームページです。",
+          "twitter_url": "https://twitter.com/@morimurataka",
+          "facebook_url": "https://www.facebook.com/morimuratakayuki/"
         },
         {
           "id": "3",
@@ -2365,6 +2642,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.nomura-arinobu.com/",
+          "homepage_description": "野村有信オフィシャルサイト",
           "facebook_url": "https://www.facebook.com/arinobu.nomura/",
           "twitter_url": "https://twitter.com/nomuraarinobu",
           "twitter_profile": "野村有信　東京都議会議員の告知用アカウントになります。",
@@ -2405,6 +2683,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://fujiiakira.tokyo/",
+          "homepage_description": "私は改革に、YES!",
           "twitter_url": "https://twitter.com/FujiiAkiraTokyo",
           "facebook_url": "https://www.facebook.com/FujiiAkiraTokyo/",
           "twitter_profile": "都民ファーストの会　公認　都議会議員候補（府中市）の藤井あきらです。  小池百合子知事@ecoyuri とともに東京大改革をすすめます。 東京都出身、京都大学経済学部卒、JAIST情報科学研究科修了、元日本マイクロソフト、ジャーナリスト。",
@@ -2438,10 +2717,9 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.takeshinakamura.jp/",
-          "twitter_url": "https://twitter.com/tana0428",
-          "facebook_url": "https://www.facebook.com/takeshi.nakamura.543908",
-          "twitter_profile": "仙台市生まれ静岡育ち。明治大学卒、米国オレゴン大学卒。外資IT企業、米系証券会社グループに勤務。災害復旧システム開発や投資運用業務に従事。公の利益を意識し東京青年会議所に入会。2015年理事長。参議院議員選挙 自民党公認候補オープンエントリー2016ファイナリスト。2017年都議会議員選挙自民党公認候補予定者（昭島市）",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/714571303584407553/haAsxFpe_normal.jpg"
+          "homepage_description": "昭島市の選挙区にて都議会議員選挙自民党公認候補の中村豪志です。応援、よろしくお願いします！",
+          "twitter_url": "https://twitter.com/home?status=http%3A//www.takeshinakamura.jp/election/",
+          "facebook_url": "https://www.facebook.com/takeshi.nakamura.543908"
         },
         {
           "id": "2",
@@ -2451,7 +2729,8 @@
           "age": "37",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "http://ameblo.jp/boxer-shingo/"
+          "url": "http://ameblo.jp/boxer-shingo/",
+          "homepage_description": "内山真吾さんのブログ「内山真吾のブログ」です。最新記事は「都民ファーストの会、公認のご報告」です。"
         },
         {
           "id": "3",
@@ -2477,10 +2756,9 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://blog.goo.ne.jp/u1_ikegawa",
-          "twitter_url": "https://twitter.com/goo_blog",
-          "facebook_url": "https://www.facebook.com/blog.goo.ne.jp",
-          "twitter_profile": "おかげさまで13周年！gooブログ公式アカウントです。ユーザーからオススメいただいたブログ記事や、gooブログ関連の情報をご紹介しています。中の人は猫と音楽が大好きですー。 ※サービスに関するお問い合わせはgoo事務局へ。https://t.co/6pD30kL9mL DMの対応、土・日・祝の対応は行っておりません。",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/505158424653340672/S474cBA__normal.png"
+          "homepage_description": "日本共産党町田市議会議員・都議予定候補の池川友一のオフィシャルブログです。地方政治の現場からいろいろと発信していきます。【日本共産党都議候補（町田市選挙区）池川友一「市民とつくる都政への架け橋」】",
+          "twitter_url": "https://twitter.com/hashtag/%E7%94%BA%E7%94%B0?src=hash",
+          "facebook_url": "https://www.facebook.com/blog.goo.ne.jp"
         },
         {
           "id": "2",
@@ -2490,7 +2768,8 @@
           "age": "48",
           "party": "民進党",
           "type": "現",
-          "url": "http://rukaruka.info"
+          "url": "http://rukaruka.info",
+          "homepage_description": "今村るかのホームページ。民進党東京都議会議員　町田市在住。子供たちの明日の為に安全安心な未来の街づくりに全力投球。和光大学人文学部卒業 大韓民国延世大学語学堂留学 町田市議会議員４期 都議会民主党総務会副会長（平成19.8.1～20.7.31） 都議会民主党副幹事長（平成20.8.1～21.7.22）"
         },
         {
           "id": "3",
@@ -2501,10 +2780,9 @@
           "party": "日本維新の会",
           "type": "新",
           "url": "https://ebisawayuki.com",
-          "twitter_url": "https://twitter.com/ebisawayuki",
-          "facebook_url": "https://www.facebook.com/ebisawayuki.tokyo/",
-          "twitter_profile": "元スノーボードクロス日本チャンピオン。成瀬在住。日本維新の会東京都政策委員（町田市）、関東青年維新会議幹事。Twilog：https://t.co/OpmjO8tNEf LINE@:https://t.co/2B7zVRGNtC",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/812709261822205952/BTPK35cw_normal.jpg"
+          "homepage_description": "東京都議会議員選挙予定候補者（町田選挙区）海老沢由紀のホームページです。",
+          "twitter_url": "https://twitter.com/@ebisawayuki",
+          "facebook_url": "https://www.facebook.com/ebisawayuki.tokyo/"
         },
         {
           "id": "4",
@@ -2515,6 +2793,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.yoshiwara.jp/",
+          "homepage_description": "町田市選出の東京都議会議員、吉原修のホームページです。",
           "googleplus_url": "https://plus.google.com/110699824227132898523",
           "facebook_url": "https://www.facebook.com/yoshiwara"
         },
@@ -2527,7 +2806,8 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://okuzawa-takahiro.com/",
-          "facebook_url": "https://www.facebook.com/1927884604107779/posts/1990292854533620"
+          "homepage_description": "奥澤高広 official site｜都民ファーストの会",
+          "facebook_url": "https://www.facebook.com/1927884604107779/posts/1990583071171265"
         },
         {
           "id": "6",
@@ -2538,6 +2818,7 @@
           "party": "幸福実現党",
           "type": "新",
           "url": "http://www.ueda-tetsuji.net",
+          "homepage_description": "東京オリンピック・パラリンピックを大成功させます。カジノは不要。東京の魅力アップで訪日客増加を。安心して豊洲市場に移転できるよう、問題解決へ。災害に強く、人にやさしいまちづくりに取り組みます。民間的思考で、活力のある行政組織を目指します。",
           "twitter_url": "https://twitter.com/ueda_tetsuji",
           "twitter_profile": "東京都町田市金井町在住14年。税務大学校修了後、大阪国税局を経て大蔵省(現財務省)主計局に勤務。退官後は、幸福の科学、民間企業に従事。大阪市中央区出身。",
           "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/871051520933896193/KAydDGcq_normal.jpg"
@@ -2563,7 +2844,8 @@
           "age": "40",
           "party": "自由民主党",
           "type": "新",
-          "url": "http://ichikawa-m.jp"
+          "url": "http://ichikawa-m.jp",
+          "homepage_description": "町田市議会議員の市川勝斗の公式サイト。プロフィール、公約、ニュース、お問合わせ、後援会申し込み案内。｜Masato Ichikawa Official Web Site."
         }
       ]
     },
@@ -2579,6 +2861,7 @@
           "party": "無所属",
           "type": "新",
           "url": "http://kandoakiko.com",
+          "homepage_description": "Just another WordPress site",
           "facebook_url": "https://www.facebook.com/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8%E6%9D%B1%E4%BA%AC-1973630909536398/",
           "youtube_url": "https://www.youtube.com/watch?v=9DT8nN_DFwY",
           "twitter_url": "https://twitter.com/ctkoganei2017",
@@ -2604,9 +2887,11 @@
           "party": "無所属",
           "type": "新",
           "url": "http://uchikoga.com",
+          "homepage_description": "うちこが 宏　Official Site",
           "twitter_url": "https://twitter.com/UchikogaHiroshi",
+          "facebook_url": "https://www.facebook.com/uchikoga?hc_ref=NEWSFEED&fref=nf",
           "twitter_profile": "都議会選挙 立候補",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/878170329385807873/-_2fqidl_normal.jpg"
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/879969321123930112/dBxB6GSF_normal.jpg"
         },
         {
           "id": "4",
@@ -2617,11 +2902,10 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://hirose-maki.jp",
-          "twitter_url": "https://twitter.com/hiromaki0415",
+          "homepage_description": "広瀬まき【小金井から東京へ】長い歴史、優れた伝統、豊かな文化、最先端の科学技術を持つ祖国日本を心から誇りに思っています。日本が長期的に繁栄するためには、経済や文化に加え、政治的な意思決定が重要だと考え、政治の道を志しました。",
+          "twitter_url": "https://twitter.com/@hiromaki0415",
           "facebook_url": "https://www.facebook.com/profile.php?id=100011441804563",
-          "instagram_url": "https://www.instagram.com/hiromaki1982/?hl=ja",
-          "twitter_profile": "【都議選 候補者（小金井／自民党）】①名古屋出身、京大（経済）卒 ②三菱東京ＵＦＪ銀行勤務（退職予定）③趣味：茶道、着物、読書、一人旅 ④資格：首都大学東京MBA",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/859393780956315648/KcC6Uw1V_normal.jpg"
+          "instagram_url": "https://www.instagram.com/hiromaki1982/?hl=ja"
         },
         {
           "id": "5",
@@ -2647,6 +2931,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://nobuhiro-takahashi.net/",
+          "homepage_description": "東京都議会議員高橋のぶひろのオフィシャルサイトです。高橋のぶひろは、元気な東京、安心して暮らせる多摩小平の発展に向けて活動しています。",
           "facebook_url": "https://m.facebook.com/profile.php?id=100016215701175",
           "instagram_url": "https://www.instagram.com/takahashi.nobuhiro.jimin/"
         },
@@ -2658,7 +2943,8 @@
           "age": "50",
           "party": "民進党",
           "type": "現",
-          "url": "http://saitoatsushi.com"
+          "url": "http://saitoatsushi.com",
+          "homepage_description": "このサイトは都議会議員：斉藤あつしの活動・都議会報告を紹介しています。"
         },
         {
           "id": "3",
@@ -2669,6 +2955,7 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://kouho.jcp-tokyo.net/suzuki/",
+          "homepage_description": "東京都議会議員候補　鈴木大智の公式WEBサイトです",
           "facebook_url": "https://www.facebook.com/SuzukiDaichiJcp/",
           "twitter_url": "https://twitter.com/JpKorochan",
           "twitter_profile": "",
@@ -2682,7 +2969,8 @@
           "age": "61",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "http://snipesano.la.coocan.jp/"
+          "url": "http://snipesano.la.coocan.jp/",
+          "homepage_description": "環境を基本にした小平市政　佐野いくおのＨＰ"
         }
       ]
     },
@@ -2708,6 +2996,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://www.facebook.com/naoshi.sugawara",
+          "homepage_description": "菅原 直志さんはFacebookを利用しています。Facebookに登録して、菅原 直志さんや他の知り合いと交流しましょう。Facebookは、人々が簡単に情報をシェアできる、オープンでつながりのある世界の構築をお手伝いします。",
           "facebook_url": "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu"
         },
         {
@@ -2729,6 +3018,7 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://www.中野あきと.jp",
+          "homepage_description": "日本共産党　中野あきと（日野市）公式サイトです。都民のための都政実現に全力。豊洲問題、オリンピック問題など都政の闇にメスを入れます",
           "facebook_url": "https://www.facebook.com/jcpshimi"
         }
       ]
@@ -2770,6 +3060,7 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://blog.goo.ne.jp/nakamura-suguru",
+          "homepage_description": "日本国憲法で保障された「人間らしい生活」を誰もができるような社会をつくるため、日々奮闘中！【中村すぐるブログ】",
           "facebook_url": "https://www.facebook.com/blog.goo.ne.jp",
           "twitter_url": "https://twitter.com/goo_blog",
           "twitter_profile": "おかげさまで13周年！gooブログ公式アカウントです。ユーザーからオススメいただいたブログ記事や、gooブログ関連の情報をご紹介しています。中の人は猫と音楽が大好きですー。 ※サービスに関するお問い合わせはgoo事務局へ。https://t.co/6pD30kL9mL DMの対応、土・日・祝の対応は行っておりません。",
@@ -2783,7 +3074,8 @@
           "age": "64",
           "party": "無所属",
           "type": "現",
-          "url": "http://www.ishige.info"
+          "url": "http://www.ishige.info",
+          "homepage_description": "東京都議会議員　石毛　しげるの公式ホームページです。"
         }
       ]
     },
@@ -2819,6 +3111,7 @@
           "party": "自由民主党",
           "type": "新",
           "url": "http://www.tamuratoshimitsu.com",
+          "homepage_description": "東京都福生の政治家、田村利光 （たむらとしみつ）の公式サイトです。プロフィールや最近の活動、後援会の情報等をお知らせしています。 | 田村利光  Official Site",
           "facebook_url": "https://www.facebook.com/tamura.toshimitsu/",
           "twitter_url": "https://twitter.com/toshimitutamura",
           "youtube_url": "https://www.youtube.com/channel/UCE_sl71j_2MyGtKugPUZjsA",
@@ -2833,7 +3126,8 @@
           "age": "49",
           "party": "無所属",
           "type": "現",
-          "url": "http://www.yukinari-shimada.net"
+          "url": "http://www.yukinari-shimada.net",
+          "homepage_description": "西多摩から東京大改革！都議会議員 島田幸成（しまだゆきなり）の公式ホームページ"
         }
       ]
     },
@@ -2849,6 +3143,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.a-koiso.com/main/",
+          "homepage_description": "東京,都議会,議員,こいそ明,オフィシャルサイト,多摩,南多摩,こいそあきら,小礒明,自民党,自由民主党",
           "facebook_url": "https://www.facebook.com/togikai.koiso.akira",
           "twitter_url": "https://twitter.com/koiso_akira",
           "instagram_url": "https://www.instagram.com/office_koiso/",
@@ -2863,7 +3158,9 @@
           "age": "38",
           "party": "都民ファーストの会",
           "type": "新",
-          "url": "https://reina-saito.amebaownd.com"
+          "url": "https://reina-saito.amebaownd.com",
+          "homepage_description": "都民ファーストの会 斉藤れいな 公式サイト",
+          "twitter_url": "https://twitter.com/@amebaownd"
         },
         {
           "id": "3",
@@ -2874,6 +3171,7 @@
           "party": "無所属",
           "type": "現",
           "url": "http://ryo1-inagi.com",
+          "homepage_description": "東京都議会議員候補 石川良一（都民ファーストの会推薦）のofficial web siteです。",
           "facebook_url": "https://www.facebook.com/ISHIKAWA.RYOICHI.official/",
           "twitter_url": "https://twitter.com/ishikawaryo1",
           "instagram_url": "https://www.instagram.com/ishikawa.ryo1/",
@@ -2889,7 +3187,9 @@
           "age": "68",
           "party": "日本共産党",
           "type": "新",
-          "url": "http://sigemi-jimusyo.blogspot.jp/"
+          "url": "http://sigemi-jimusyo.blogspot.jp/",
+          "twitter_url": "https://twitter.com/@sigemi_jimusyo",
+          "homepage_description": "日本共産党都議予定候補（多摩市・稲城市）\n菅原しげみ事務所です。"
         },
         {
           "id": "5",
@@ -2900,6 +3200,7 @@
           "party": "無所属",
           "type": "新",
           "url": "http://doinorihiro.tokyo",
+          "homepage_description": "５０年、１００年先も日本が日本である為に",
           "facebook_url": "https://www.facebook.com/doinorihiro.tokyo/",
           "twitter_url": "https://twitter.com/norimati",
           "instagram_url": "https://www.instagram.com/rohirinoido/?hl=ja",
@@ -2919,7 +3220,8 @@
           "age": "64",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://masamichi.d.dooo.jp"
+          "url": "http://masamichi.d.dooo.jp",
+          "homepage_description": "自由民主党・北久保まさみちの公式ホームページです。よろしくお願い致します。"
         },
         {
           "id": "2",
@@ -2930,6 +3232,7 @@
           "party": "公明党",
           "type": "現",
           "url": "https://www.tanimuratakahiko.com/",
+          "homepage_description": "公明党 都議会議員 谷村たかひこのウェブサイトです。一人ひとりの声が「原点」です。プロフィール、政策・実績、活動ニュース、動画などをご紹介します。",
           "facebook_url": "https://www.facebook.com/takahiko.tanimura/"
         },
         {
@@ -2941,6 +3244,7 @@
           "party": "日本共産党",
           "type": "現",
           "url": "http://kouho.jcp-tokyo.net/ozaki/",
+          "homepage_description": "日本共産党東京都議会議員　尾崎あや子の公式WEBサイトです。政治の責任で「働き方のルールをつくる」。これが私の原点です。大企業の意向を優先し、労働者の使い捨ての政治を許すことはできません。",
           "facebook_url": "https://www.facebook.com/people/Ayako-Ozaki/100005935718833",
           "twitter_url": "https://twitter.com/ozaki_ayako",
           "youtube_url": "https://www.youtube.com/channel/UCAyhvHieBxcQxAZgcPNgmwA",
@@ -2956,8 +3260,11 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "https://sekino-takanari.com/",
+          "homepage_description": "都民ファーストの会公認東京都議会議員選挙候補者。東村山市、東大和市、武蔵村山市から東京大改革を目指す前東大和市議会議員「関野たかなり」のオフィシャルWebサイト（ホームページ）です。 子育てと教育。安心して生活できる東京を多摩地区から！東京都議会の刷新を目指して、東村山市、東大和市、武蔵村山市で活動しています。",
           "facebook_url": "https://ja-jp.facebook.com/sekino.takanari/",
-          "twitter_url": "https://twitter.com/takanaris"
+          "twitter_url": "https://twitter.com/takanaris",
+          "twitter_profile": "東大和市議会議員 関野 たかなり 2015年の統一地方選挙で4期目に突入！ テマリ保育園れんげ保育園を経て都立北多摩高校卒業。商工会青年部・東大和青年会議所・東大和おどりフェスティバルなどで活動中。 楽しい街〔東京・東大和〕創りを目標に日々奮闘中！！",
+          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/753378058510356480/Vx4RZGXQ_normal.jpg"
         },
         {
           "id": "5",
@@ -2968,6 +3275,7 @@
           "party": "民進党",
           "type": "新",
           "url": "http://tatsuo.tokyo/",
+          "homepage_description": "鈴木たつお 東京新都心ロータリークラブ会員／東京商工会議所会員、現在、民進党北多摩１区政策委員（都政担当）として、東村山・東大和・武蔵村山で活動中。",
           "facebook_url": "https://www.facebook.com/tatsuo.suzuki.supporters.association/",
           "twitter_url": "https://twitter.com/tatsuosuzukitw/"
         },
@@ -2995,6 +3303,7 @@
           "party": "東京・生活者ネットワーク",
           "type": "現",
           "url": "http://yamauchi.seikatsusha.me",
+          "homepage_description": "東京都議会議員（北多摩第二）　生活者ネットワーク",
           "facebook_url": "https://www.facebook.com/reiko.yamauchi.733"
         },
         {
@@ -3006,6 +3315,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.takasugikenichi.com",
+          "homepage_description": "自由民主党東京都国分寺市第五支部 支部長 国分寺市議会議員 たかすぎ健一 公式オフィシャルサイトです",
           "facebook_url": "https://www.facebook.com/%E3%81%9F%E3%81%8B%E3%81%99%E3%81%8E%E5%81%A5%E4%B8%80%E3%83%9A%E3%83%BC%E3%82%B8-1226101997516364/"
         },
         {
@@ -3043,6 +3353,7 @@
           "party": "無所属",
           "type": "現",
           "url": "http://ozaki-daisuke.com",
+          "homepage_description": "東京都議会議員の尾崎大介公式ホームページです。",
           "facebook_url": "https://www.facebook.com/ozakidaisuke74",
           "youtube_url": "http://www.youtube.com/user/ozakidaisuke1"
         },
@@ -3054,7 +3365,8 @@
           "age": "53",
           "party": "日本共産党",
           "type": "新",
-          "url": "http://www.ibimasatoshi.tokyo/"
+          "url": "http://www.ibimasatoshi.tokyo/",
+          "homepage_description": "「都政改革 暮らしを守る力になりたい」日本共産党・東京都議会議員選挙北多摩三区（調布・狛江）予定候補いび匡利（井樋まさとし）の公式ホームページです。 "
         },
         {
           "id": "3",
@@ -3065,6 +3377,7 @@
           "party": "公明党",
           "type": "現",
           "url": "http://nakajimanet.com/",
+          "homepage_description": "調布･狛江を、「きぼう都市」に。",
           "youtube_url": "https://www.youtube.com/user/yoshionakajima/",
           "facebook_url": "https://www.facebook.com/yoshio.nakajima.tokyo/",
           "twitter_url": "https://twitter.com/nakajimayoshio",
@@ -3103,7 +3416,8 @@
           "age": "48",
           "party": "無所属",
           "type": "新",
-          "url": "http://araitakumi.com"
+          "url": "http://araitakumi.com",
+          "homepage_description": "{val base_description}"
         }
       ]
     },
@@ -3119,10 +3433,9 @@
           "party": "日本共産党",
           "type": "新",
           "url": "http://hara-noriko.info",
-          "facebook_url": "https://www.facebook.com/profile.php?id=100013886319679",
-          "twitter_url": "https://twitter.com/haranoriko0917",
-          "twitter_profile": "日本共産党東久留米市議会議員を18年間務めました。清瀬・東久留米〔北多摩4区〕から都政に挑戦します！都心にほど近いのに、水と緑豊かなこの地域が大好きです。好きなこと・好きなものは、ピアノ、水泳、紅茶、絵本。 大切にしている曲は、 MAN IN THE MIRRORと、FORGIVE BUT NOT FORGETです。",
-          "twitter_profile_image_url": "http://pbs.twimg.com/profile_images/775675520990126080/4dPcEo_4_normal.jpg"
+          "homepage_description": "この街から都政へ,子育て,教育,福祉,働き方,都市産業・環境・防災",
+          "twitter_url": "https://twitter.com/＠haranoriko0917",
+          "facebook_url": "https://www.facebook.com/profile.php?id=100013886319679"
         },
         {
           "id": "2",
@@ -3132,7 +3445,8 @@
           "age": "44",
           "party": "無所属",
           "type": "現",
-          "url": "http://www.yamashitataro.com/"
+          "url": "http://www.yamashitataro.com/",
+          "homepage_description": ""
         },
         {
           "id": "3",
@@ -3143,6 +3457,7 @@
           "party": "自由民主党",
           "type": "現",
           "url": "http://www.nojizen.jp",
+          "homepage_description": "東京都議会議員　野島 善司（のじま ぜんじ）公式ホームページ",
           "instagram_url": "https://www.instagram.com/nojizen.jimusyo/",
           "twitter_url": "https://twitter.com/NojizenJimusyo",
           "facebook_url": "https://www.facebook.com/%E9%87%8E%E5%B3%B6%E5%96%84%E5%8F%B8%E4%BA%8B%E5%8B%99%E6%89%80-1520779881319418/",
@@ -3183,6 +3498,7 @@
           "party": "都民ファーストの会",
           "type": "新",
           "url": "http://so-yamashita.com/",
+          "homepage_description": "都民ファーストの会 八丈島支部長 山下 崇の公式サイトです。　～島は日本の縮図～　「東京大改革」を島しょ部にも...",
           "facebook_url": "https://www.facebook.com/so.yamashita.islands/?fref=ts"
         },
         {
@@ -3193,7 +3509,8 @@
           "age": "45",
           "party": "自由民主党",
           "type": "現",
-          "url": "http://www.miyake-masahiko.jp"
+          "url": "http://www.miyake-masahiko.jp",
+          "homepage_description": "ようこそ三宅正彦オフィシャルサイトへ"
         }
       ]
     }

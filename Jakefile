@@ -84,8 +84,10 @@ function parseLinks($, candidate) {
           candidate.facebook_url = url;
         break;
       case /twitter\.com\/.+/.test(url):
-        if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url))
-          candidate.twitter_url = url;
+        if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url) && !/twitter\.com\/search/.test(url) && !/twitter\.com\/.+\/status/.test(url)) {
+          if (!candidate.twitter_url)
+            candidate.twitter_url = url.replace(/https?:\/\/twitter\.com\/@/, 'https://twitter.com/');
+        }
         break;
       case /instagram\.com\/.+/.test(url):
         candidate.instagram_url = url;
@@ -97,6 +99,24 @@ function parseLinks($, candidate) {
         if (!/plus\.google\.com\/share/.test(url))
           candidate.googleplus_url = url;
         break;
+    }
+  });
+}
+
+function parseMeta($, candidate) {
+  $('meta').each(function (idx) {
+    switch (true) {
+      case /twitter:site/.test($(this).attr('name')):
+        candidate.twitter_url = 'https://twitter.com/' + $(this).attr('content');
+        break;
+      case /og:description/.test($(this).attr('property')):
+        if (!candidate.homepage_description)      
+          candidate.homepage_description = $(this).attr('content');
+        break;     
+      case /description/.test($(this).attr('name')):
+        if (!candidate.homepage_description)
+          candidate.homepage_description = $(this).attr('content');
+        break;        
     }
   });
 }
@@ -113,6 +133,8 @@ function fetchHomePage(candidate, delay) {
             candidate.error = true;
             return resolve(candidate)
           }
+
+          parseMeta(result.$, candidate)
 
           parseLinks(result.$, candidate)
 
