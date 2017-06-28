@@ -86,7 +86,7 @@ function parseLinks($, candidate) {
       case /twitter\.com\/.+/.test(url):
         if (!/twitter\.com\/share/.test(url) && !/twitter\.com\/intent/.test(url) && !/twitter\.com\/search/.test(url) && !/twitter\.com\/.+\/status/.test(url)) {
           if (!candidate.twitter_url)
-            candidate.twitter_url = url.replace(/https?:\/\/twitter\.com\/@/, 'https://twitter.com/');
+            candidate.twitter_url = url.replace('@', '');
         }
         break;
       case /instagram\.com\/.+/.test(url):
@@ -107,7 +107,7 @@ function parseMeta($, candidate) {
   $('meta').each(function (idx) {
     switch (true) {
       case /twitter:site/.test($(this).attr('name')):
-        candidate.twitter_url = 'https://twitter.com/' + $(this).attr('content');
+        candidate.twitter_url = 'https://twitter.com/' + $(this).attr('content').replace('@', '');
         break;
       case /og:description/.test($(this).attr('property')):
         if (!candidate.homepage_description)      
