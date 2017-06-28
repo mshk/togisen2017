@@ -60,7 +60,7 @@ class App extends Component {
                     showMenuIconButton={false}
                     style={{ margin: 0 }}
                   />
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017">ホーム</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><a href="/togisen2017">ホーム</a></MenuItem>
                   <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017/about">このサイトについて</Link></MenuItem>
                 </Drawer>
               </div>
