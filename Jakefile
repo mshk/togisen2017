@@ -1,7 +1,8 @@
-let client = require('cheerio-httpcli');
+let client = require('cheerio-httpcli')
+let Twitter = require('twitter')
 
-desc('候補者一覧の取得');
-task('default', (format = 'json') => {
+desc('候補者一覧の取得')
+task('default', (format = 'json', max = 3) => {
   client.fetch('http://www.h29togisen.metro.tokyo.jp/election/list.html', (err, $, res) => {
 
     let promises = [];
@@ -10,12 +11,19 @@ task('default', (format = 'json') => {
     $('.contents section').each(function (idx) {
       if ($(this).attr('id') == null) { return; }
 
+      if (format == 'debug' && idx > max) {
+        format = 'json';
+        return false;
+      }
+
+      // 選挙区
       promises.push(new Promise((resolve, error) => {
         resolve({
           area: $('h2', this).text().replace('選挙区', '')
         });
       }));
 
+      // 選挙区ごとの候補者
       $('tbody tr', this).each(function (idx) {
         let candidate = parseCandidate($, $('td', this));
         let twitter_match = candidate.url.match(/Twitterのユーザー名　(.+)/);
@@ -38,12 +46,18 @@ task('default', (format = 'json') => {
     });
 
     Promise.all(promises)
-      .then((lines) => {
+      .then((candidates) => {
+        return fetchTwitterProfile(candidates);
+      })
+      .then((candidates) => {
         if (format == 'csv') {
-          formatCSV(lines);
+          formatCSV(candidates);
         } else {
-          formatJSON(lines);
+          formatJSON(candidates);
         }
+      })
+      .catch((error) => {
+        console.error("Promise.all error", error);
       });
   });
 });
@@ -97,18 +111,100 @@ function fetchHomePage(candidate, delay) {
           if (result.err) {
             console.error("fetch url error: ", candidate.url);
             candidate.error = true;
-            return resolve(candidate);
+            return resolve(candidate)
           }
 
-          parseLinks(result.$, candidate);
+          parseLinks(result.$, candidate)
 
-          resolve(candidate);
+          resolve(candidate)
+        })
+        .catch((error) => {
+          console.error("client.fetch error: ", error)
+          resolve(candidate)
         });
     }, delay);
   });
 }
 
-function formatJSON(lines) {
+function fetchTwitterProfile(candidates) {
+  twitter_users = candidates.filter((candidate) => {
+    return candidate.twitter_url
+  })
+
+  twitter_ids = twitter_users.map((user) => {
+    return user.twitter_url.replace(/https?:\/\/twitter\.com\/(#!\/)?/, '');
+  });
+
+  let client = new Twitter({
+    consumer_key: process.env.TWITTER_CONSUMER_KEY,
+    consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+    access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+    access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+  });
+
+  let promises = []
+  let counter = twitter_ids.length
+  const WINDOW = 100
+  let profiles = {}
+  let delay = 0
+
+  while (counter > 0) {
+
+    promises.push(new Promise((resolve, error) => {
+      setTimeout(() => {
+        sliced_twitter_ids = twitter_ids.splice(0, WINDOW)
+
+        let options = { screen_name: sliced_twitter_ids.join(',') }
+
+        client.post('users/lookup', options, (error, response) => {
+          console.error("Twitter users/lookup: ", options)
+
+          if (error) {
+            console.error(error)
+            throw error
+          }
+
+          response.forEach((twitter_user) => {
+            profiles[twitter_user.screen_name.toLowerCase()] = {
+              description: twitter_user.description,
+              profile_image_url: twitter_user.profile_image_url
+            }
+          })
+
+          resolve(profiles)
+        })
+      }, delay)
+    }))
+    delay += 1000
+    counter -= WINDOW
+  }
+
+  return Promise.all(promises)
+    .then((twitter_profiles) => {
+      twitter_profiles = twitter_profiles[0]
+
+      return new Promise((resolve, error) => {
+        let updated = candidates.map((candidate) => {
+          if (candidate.twitter_url) {
+            let twitter_id = candidate.twitter_url.replace(/https?:\/\/twitter\.com\/(#!\/)?/, '').toLowerCase()
+
+            if (twitter_profiles[twitter_id]) {
+              candidate.twitter_profile = twitter_profiles[twitter_id].description
+              candidate.twitter_profile_image_url = twitter_profiles[twitter_id].profile_image_url
+            } else {
+            }
+          }
+          return candidate
+        })
+        resolve(updated)
+      })
+    })
+    .catch((error) => {
+      console.error("twitter fetch error: ", error);
+    })
+}
+
+function formatJSON(lines = []) {
   let results = { data: [] };
   let current = null;
 
