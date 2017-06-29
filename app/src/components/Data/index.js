@@ -52,7 +52,7 @@ class Data extends Component {
 
     areaMapTwitter.push(<table>{rows}</table>)
 
-     // Facebook統計
+    // Facebook統計
     const areaMapFacebook = []    
 
     rows = area.map((row) => {
@@ -72,6 +72,28 @@ class Data extends Component {
     })
 
     areaMapFacebook.push(<table>{rows}</table>)
+
+
+    // Facebook統計
+    const areaMapTwitterFacebook = []    
+
+    rows = area.map((row) => {
+      let rowResult = row.map((col) => {
+        let areaData = props.candidates.filter((area) => { return area.area == col })
+        let percentage = 0
+        if (areaData && areaData.length > 0) {
+          let twitterUsers = areaData[0].candidates.filter((candidate) => { return candidate.facebook_url && candidate.twitter_url })
+          percentage = twitterUsers.length / areaData[0].candidates.length
+        }
+        let color = this.heatMapColorforValue(percentage)
+        percentage = Math.ceil(percentage * 100)
+        let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
+        return (<td style={{ border: '1px solid black', backgroundColor: color, textAlign: 'center' }}>{col}<br/>{percentageStr}</td>)
+      })
+      return (<tr>{rowResult}</tr>)
+    })
+
+    areaMapTwitterFacebook.push(<table>{rows}</table>)
 
     return (
       <div className={classnames('Data', className)} {...props}>
@@ -95,6 +117,9 @@ class Data extends Component {
 
         <h3>地域別: Facebook利用割合</h3>
           {areaMapFacebook}
+        
+        <h3>地域別: TwitterとFacebook両方の利用割合</h3>
+          {areaMapTwitterFacebook}
         
       </div>
     );
