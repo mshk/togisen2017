@@ -28,13 +28,15 @@ task('default', (format = 'json', max = 3) => {
         let candidate = parseCandidate($, $('td', this));
         let twitter_match = candidate.url.match(/Twitterのユーザー名　(.+)/);
 
+        candidate.url = candidate.url == 'なし' ? '' : candidate.url
+
         if (candidate.url && twitter_match) {
           candidate.twitter_url = twitter_match[1];
           candidate.twitter_url = 'https://twitter.com/' + twitter_match[1];
           promises.push(new Promise((resolve, error) => {
             resolve(candidate);
           }));
-        } else if (candidate.url && candidate.url != 'なし') {
+        } else if (candidate.url) {
           promises.push(fetchHomePage(candidate, delay));
           delay += 200;
         } else {

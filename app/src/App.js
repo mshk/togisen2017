@@ -14,6 +14,7 @@ import {
   Link
 } from 'react-router-dom';
 import Candidates from './components/Candidates';
+import Data from './components/Data';
 import About from './components/About';
 import NotFound from './components/NotFound';
 
@@ -46,6 +47,7 @@ class App extends Component {
               <div>
                 <Switch>
                   <Route exact path="/togisen2017" component={Candidates} />
+                  <Route path="/togisen2017/data" component={Data} />                  
                   <Route path="/togisen2017/about" component={About} />
                   <Route component={NotFound} />
                 </Switch>
@@ -60,7 +62,8 @@ class App extends Component {
                     showMenuIconButton={false}
                     style={{ margin: 0 }}
                   />
-                  <MenuItem onTouchTap={this.handleClose}><a href="/togisen2017">ホーム</a></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017">ホーム</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017/data">データ記事</Link></MenuItem>                  
                   <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017/about">このサイトについて</Link></MenuItem>
                 </Drawer>
               </div>
