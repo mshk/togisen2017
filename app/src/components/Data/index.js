@@ -3,6 +3,7 @@ import classnames from 'classnames';
 import { withRouter } from 'react-router-dom'
 import { connect } from 'react-redux'
 import { fetchCandidatesIfNeeded } from '../../actions'
+import Paper from 'material-ui/Paper'
 import debuglogger from 'debug';
 let debug = debuglogger('app:components:Data');
 
@@ -15,6 +16,19 @@ const area = [
   [null, null, null, null, null, null, '大田区', null, null, null],
   ['島部', null, null, null, null, null, null, null, null, null],
 ]
+
+const styles = {
+  container: {
+    marginTop: 10,
+    marginBottom: 10,
+    paddingTop: 10,
+    paddingBottom: 10,
+    paddingLeft: 20,
+    paddingRight: 20,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+  }
+}
 
 class Data extends Component {
 
@@ -43,9 +57,11 @@ class Data extends Component {
           percentage = twitterUsers.length / areaData[0].candidates.length
         }
         let color = this.heatMapColorforValue(percentage)
+        if (!col)
+          color = "white"
         percentage = Math.ceil(percentage * 100)
         let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid black', backgroundColor: color, textAlign: 'center' }}>{col}<br/>{percentageStr}</td>)
+        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
       })
       return (<tr>{rowResult}</tr>)
     })
@@ -53,7 +69,7 @@ class Data extends Component {
     areaMapTwitter.push(<table>{rows}</table>)
 
     // Facebook統計
-    const areaMapFacebook = []    
+    const areaMapFacebook = []
 
     rows = area.map((row) => {
       let rowResult = row.map((col) => {
@@ -64,9 +80,11 @@ class Data extends Component {
           percentage = twitterUsers.length / areaData[0].candidates.length
         }
         let color = this.heatMapColorforValue(percentage)
+        if (!col)
+          color = "white"
         percentage = Math.ceil(percentage * 100)
         let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid black', backgroundColor: color, textAlign: 'center' }}>{col}<br/>{percentageStr}</td>)
+        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
       })
       return (<tr>{rowResult}</tr>)
     })
@@ -75,7 +93,7 @@ class Data extends Component {
 
 
     // Facebook統計
-    const areaMapTwitterFacebook = []    
+    const areaMapTwitterFacebook = []
 
     rows = area.map((row) => {
       let rowResult = row.map((col) => {
@@ -86,9 +104,11 @@ class Data extends Component {
           percentage = twitterUsers.length / areaData[0].candidates.length
         }
         let color = this.heatMapColorforValue(percentage)
+        if (!col)
+          color = "white"
         percentage = Math.ceil(percentage * 100)
         let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid black', backgroundColor: color, textAlign: 'center' }}>{col}<br/>{percentageStr}</td>)
+        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
       })
       return (<tr>{rowResult}</tr>)
     })
@@ -96,31 +116,30 @@ class Data extends Component {
     areaMapTwitterFacebook.push(<table>{rows}</table>)
 
     return (
-      <div className={classnames('Data', className)} {...props}>
-        <h2>都議選2017: 候補者のSNS利用状況</h2>
-        <h3>このサイトについて</h3>
+      <div className={classnames('Data', className)} {...props} style={styles.container}>
+              <h2>都議選2017: 候補者のSNS利用状況</h2>
+          <h3>このサイトについて</h3>
           <p>
             2017年7月2日に行われる東京都議会議員選挙の候補者のSNSプロフィールです。<br />
             <ul>
-              <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>              
-              <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>              
-              <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>              
-            </ul>              
-              </p>
+              <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>
+              <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>
+              <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>
+            </ul>
+          </p>
           <ul>
             <li>連絡先: <a href="https://twitter.com/mshk" target="_blank">@mshk</a></li>
             <li>ソースコード: <a href="https://github.com/mshk/togisen2017" target="_blank">GitHub</a></li>
           </ul>
 
-        <h3>地域別: Twitter利用割合</h3>
+          <h3>地域別: Twitter利用割合</h3>
           {areaMapTwitter}
 
-        <h3>地域別: Facebook利用割合</h3>
+          <h3>地域別: Facebook利用割合</h3>
           {areaMapFacebook}
-        
-        <h3>地域別: TwitterとFacebook両方の利用割合</h3>
+
+          <h3>地域別: TwitterとFacebook両方の利用割合</h3>
           {areaMapTwitterFacebook}
-        
       </div>
     );
   }

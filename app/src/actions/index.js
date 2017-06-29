@@ -8,8 +8,8 @@ import debuglogger from 'debug'
 
 let debug = debuglogger('app:actions')
 let axios = Axios.create({
-    baseURL: '/togisen2017/'
-  })
+  baseURL: process.env.BASE_URL
+})
 
 function requestCandidates() {
   return {
