@@ -56,7 +56,7 @@ class Candidates extends Component {
       <div>
         <Paper style={paperStyle} zDepth={0} >
           <div style={{ textAlign: 'center' }}>
-            <img src="../images/senkyo_keijiban_people.png" style={{ width: '100%', maxWidth: '500' }} /><br />
+            <img src="images/senkyo_keijiban_people.png" style={{ width: '100%', maxWidth: '500' }} /><br />
             <span style={{ fontSize: '0.5em' }}>素材: <a href="http://www.irasutoya.com/2016/07/blog-post_586.html">いらすとや</a></span>
           </div>
           <h3>候補者SNSプロフィール</h3>

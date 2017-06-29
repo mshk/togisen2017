@@ -33,7 +33,7 @@ function fetchCandidates() {
   return dispatch => {
     dispatch(requestCandidates())
 
-    axios.get('../data/togisen2017-candidates.json')
+    axios.get('data/togisen2017-candidates.json')
       .then((response) => {
         debug("fetched:", response)
         dispatch(receiveCandidates(response.data.data))
