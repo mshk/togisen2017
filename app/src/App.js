@@ -43,12 +43,15 @@ class App extends Component {
               onLeftIconButtonTouchTap={this.handleToggle}
               style={{ margin: 0 }}
             />
-            <Router {...props}>
+            <Router 
+              basename={'/togisen2017'}
+              {...props}
+            >
               <div>
                 <Switch>
-                  <Route exact path="/togisen2017" component={Candidates} />
-                  <Route path="/togisen2017/data" component={Data} />                  
-                  <Route path="/togisen2017/about" component={About} />
+                  <Route exact path="/" component={Candidates} />
+                  <Route path="/data" component={Data} />                  
+                  <Route path="/about" component={About} />
                   <Route component={NotFound} />
                 </Switch>
                 <Drawer
@@ -62,9 +65,9 @@ class App extends Component {
                     showMenuIconButton={false}
                     style={{ margin: 0 }}
                   />
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017">ホーム</Link></MenuItem>
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017/data">データ記事</Link></MenuItem>                  
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/togisen2017/about">このサイトについて</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/">ホーム</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/data">データ記事</Link></MenuItem>                  
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/about">このサイトについて</Link></MenuItem>
                 </Drawer>
               </div>
             </Router>

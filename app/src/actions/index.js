@@ -3,13 +3,13 @@ import {
   RECEIVE_CANDIDATES,
 } from '../constants' 
 
-import axios from 'axios'
-
+import Axios from 'axios'
 import debuglogger from 'debug'
 
 let debug = debuglogger('app:actions')
-
-debug("debug initialized")
+let axios = Axios.create({
+    baseURL: '/togisen2017/'
+  })
 
 function requestCandidates() {
   return {
@@ -33,7 +33,7 @@ function fetchCandidates() {
   return dispatch => {
     dispatch(requestCandidates())
 
-    axios.get('data/togisen2017-candidates.json')
+    axios.get('/assets/data/togisen2017-candidates.json')
       .then((response) => {
         debug("fetched:", response)
         dispatch(receiveCandidates(response.data.data))
