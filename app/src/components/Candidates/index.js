@@ -13,7 +13,7 @@ import debuglogger from 'debug';
 let debug = debuglogger('app:components:Candidates');
 
 const paperStyle = {
-  marginTop: 10,
+  marginTop: 0,
   marginBottom: 10,
   paddingTop: 10,
   paddingBottom: 10,

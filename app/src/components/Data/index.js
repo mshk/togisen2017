@@ -19,7 +19,7 @@ const area = [
 
 const styles = {
   container: {
-    marginTop: 10,
+    marginTop: 0,
     marginBottom: 10,
     paddingTop: 10,
     paddingBottom: 10,
@@ -117,29 +117,27 @@ class Data extends Component {
 
     return (
       <div className={classnames('Data', className)} {...props} style={styles.container}>
-              <h2>都議選2017: 候補者のSNS利用状況</h2>
-          <h3>このサイトについて</h3>
-          <p>
-            2017年7月2日に行われる東京都議会議員選挙の候補者のSNSプロフィールです。<br />
-            <ul>
-              <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>
-              <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>
-              <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>
-            </ul>
+        <h2>都議選2017: 候補者のSNS利用状況</h2>
+        <p>
+          2017年7月2日に行われる東京都議会議員選挙の候補者のSNSプロフィールを元に集計しました。
           </p>
-          <ul>
-            <li>連絡先: <a href="https://twitter.com/mshk" target="_blank">@mshk</a></li>
-            <li>ソースコード: <a href="https://github.com/mshk/togisen2017" target="_blank">GitHub</a></li>
-          </ul>
+        <ul>
+          <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>
+          <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>
+          <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>
+        </ul>
+        <br/> 
 
-          <h3>地域別: Twitter利用割合</h3>
-          {areaMapTwitter}
+        <h3>地域別: Twitter利用割合</h3>
+        {areaMapTwitter}
+        <br/>         
 
-          <h3>地域別: Facebook利用割合</h3>
-          {areaMapFacebook}
+        <h3>地域別: Facebook利用割合</h3>
+        {areaMapFacebook}
+        <br/> 
 
-          <h3>地域別: TwitterとFacebook両方の利用割合</h3>
-          {areaMapTwitterFacebook}
+        <h3>地域別: TwitterとFacebook両方の利用割合</h3>
+        {areaMapTwitterFacebook}
       </div>
     );
   }
