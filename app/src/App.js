@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import styles from './App.css'
 
 // material-ui
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import AppBar from 'material-ui/AppBar';
-import Drawer from 'material-ui/Drawer';
-import MenuItem from 'material-ui/MenuItem';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
+import AppBar from 'material-ui/AppBar'
+import Drawer from 'material-ui/Drawer'
+import MenuItem from 'material-ui/MenuItem'
 
 // react router
 import {
@@ -12,17 +13,21 @@ import {
   Route,
   Switch,
   Link
-} from 'react-router-dom';
-import Candidates from './components/Candidates';
-import Data from './components/Data';
-import About from './components/About';
-import NotFound from './components/NotFound';
+} from 'react-router-dom'
+import Candidates from './components/Candidates'
+import Data from './components/Data'
+import About from './components/About'
+import NotFound from './components/NotFound'
+import Divider from 'material-ui/Divider'
+import FontAwesome from 'react-fontawesome'
 
 // redux
 import { Provider } from 'react-redux'
 import configureStore from './store/configureStore'
 
 const store = configureStore()
+
+const isMobile = window.matchMedia("only screen and (max-width: 760px)")
 
 class App extends Component {
   constructor(props) {
@@ -54,9 +59,10 @@ class App extends Component {
                   <Route path="/about" component={About} />
                   <Route component={NotFound} />
                 </Switch>
+
                 <Drawer
                   docked={false}
-                  width={200}
+                  width={ isMobile.matches ? '80%' : '30%'}
                   open={this.state.open}
                   onRequestChange={(open) => this.setState({ open })}
                 >
@@ -65,9 +71,27 @@ class App extends Component {
                     showMenuIconButton={false}
                     style={{ margin: 0 }}
                   />
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/">ホーム</Link></MenuItem>
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/data">データ記事</Link></MenuItem>                  
-                  <MenuItem onTouchTap={this.handleClose}><Link to="/about">このサイトについて</Link></MenuItem>
+                  <MenuItem onTouchTap={this.handleClose}>
+                    <Link to="/">ホーム</Link>
+                    <MenuItem onTouchTap={this.handleClose}><Link to="/">候補者SNSプロフィール</Link></MenuItem>
+                  </MenuItem>
+                  <Divider />
+                  <MenuItem onTouchTap={this.handleClose}><Link to="/data">データ記事</Link>
+                    <MenuItem onTouchTap={this.handleClose}><Link to="/data#twitter">Twitte利用状況</Link></MenuItem>             
+                    <MenuItem onTouchTap={this.handleClose}><Link to="/data#facebook">Facebook利用状況</Link></MenuItem>                                      
+                    <MenuItem onTouchTap={this.handleClose}><Link to="/data#twitter-facebook">Twitter + Facebook両方の利用状況</Link></MenuItem>                    
+                  </MenuItem>                         
+                  <Divider />
+                  <MenuItem onTouchTap={this.handleClose}>
+                  <Link to="/about">このサイトについて</Link>
+                    <MenuItem>
+                    <a href="https://github.com/mshk/togisen2017"><FontAwesome name="github" /> ソースコード</a> 
+                  </MenuItem>                  
+                  <MenuItem>                    
+                    <a href="https://twitter.com/mshk"><FontAwesome name="twitter" /> Twitter</a>                    
+                  </MenuItem>
+                  </MenuItem>                  
+                  <Divider />                                    
                 </Drawer>
               </div>
             </Router>

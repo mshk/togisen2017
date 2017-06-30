@@ -128,15 +128,15 @@ class Data extends Component {
         </ul>
         <br/> 
 
-        <h3>地域別: Twitter利用割合</h3>
+        <h3 id="twitter">地域別: Twitter利用割合</h3>
         {areaMapTwitter}
         <br/>         
 
-        <h3>地域別: Facebook利用割合</h3>
+        <h3 id="facebook">地域別: Facebook利用割合</h3>
         {areaMapFacebook}
         <br/> 
 
-        <h3>地域別: TwitterとFacebook両方の利用割合</h3>
+        <h3 id="twitter-facebook">地域別: TwitterとFacebook両方の利用割合</h3>
         {areaMapTwitterFacebook}
       </div>
     );
