@@ -27,6 +27,9 @@ const styles = {
     paddingRight: 20,
     marginLeft: 'auto',
     marginRight: 'auto',
+  },
+  tableWrapper: {
+      overflowX: 'scroll'
   }
 }
 
@@ -42,78 +45,50 @@ class Data extends Component {
     return "hsl(" + h + ", 100%, 70%)";
   }
 
+  getRowsOfAreaGraph(condition) {
+    return area.map((row) => {
+      let rowResult = row.map((col) => {
+        let areaData = this.props.candidates.filter((area) => { return area.area == col })
+        let percentage = 0
+        if (areaData && areaData.length > 0) {
+          let twitterUsers = areaData[0].candidates.filter(condition)
+          percentage = twitterUsers.length / areaData[0].candidates.length
+        }
+        let color = this.heatMapColorforValue(percentage)
+        if (!col)
+          color = "white"
+        percentage = Math.ceil(percentage * 100)
+        let percentageStr = percentage == '0' ? '' : '' + percentage + '%'
+        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
+      })
+      return (<tr>{rowResult}</tr>)
+    })
+  }
+
   render() {
     const { className, ...props } = this.props;
 
     // Twitter統計
-    const areaMapTwitter = []
-
-    let rows = area.map((row) => {
-      let rowResult = row.map((col) => {
-        let areaData = props.candidates.filter((area) => { return area.area == col })
-        let percentage = 0
-        if (areaData && areaData.length > 0) {
-          let twitterUsers = areaData[0].candidates.filter((candidate) => { return candidate.twitter_url })
-          percentage = twitterUsers.length / areaData[0].candidates.length
-        }
-        let color = this.heatMapColorforValue(percentage)
-        if (!col)
-          color = "white"
-        percentage = Math.ceil(percentage * 100)
-        let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
-      })
-      return (<tr>{rowResult}</tr>)
+    let areaMapTwitter = [] 
+    let rows = this.getRowsOfAreaGraph((candidate) => {
+       return candidate.twitter_url 
     })
-
-    areaMapTwitter.push(<table>{rows}</table>)
+    areaMapTwitter.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
 
     // Facebook統計
-    const areaMapFacebook = []
-
-    rows = area.map((row) => {
-      let rowResult = row.map((col) => {
-        let areaData = props.candidates.filter((area) => { return area.area == col })
-        let percentage = 0
-        if (areaData && areaData.length > 0) {
-          let twitterUsers = areaData[0].candidates.filter((candidate) => { return candidate.facebook_url })
-          percentage = twitterUsers.length / areaData[0].candidates.length
-        }
-        let color = this.heatMapColorforValue(percentage)
-        if (!col)
-          color = "white"
-        percentage = Math.ceil(percentage * 100)
-        let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
-      })
-      return (<tr>{rowResult}</tr>)
+    let areaMapFacebook = []
+    rows = this.getRowsOfAreaGraph((candidate) => {
+       return candidate.facebook_url 
     })
-
-    areaMapFacebook.push(<table>{rows}</table>)
+    areaMapFacebook.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
 
 
     // Facebook統計
     const areaMapTwitterFacebook = []
-
-    rows = area.map((row) => {
-      let rowResult = row.map((col) => {
-        let areaData = props.candidates.filter((area) => { return area.area == col })
-        let percentage = 0
-        if (areaData && areaData.length > 0) {
-          let twitterUsers = areaData[0].candidates.filter((candidate) => { return candidate.facebook_url && candidate.twitter_url })
-          percentage = twitterUsers.length / areaData[0].candidates.length
-        }
-        let color = this.heatMapColorforValue(percentage)
-        if (!col)
-          color = "white"
-        percentage = Math.ceil(percentage * 100)
-        let percentageStr = percentage == '0' ? '' : '(' + percentage + '%)'
-        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
-      })
-      return (<tr>{rowResult}</tr>)
-    })
-
-    areaMapTwitterFacebook.push(<table>{rows}</table>)
+    rows = this.getRowsOfAreaGraph((candidate) => {
+       return candidate.facebook_url && candidate.twitter_url
+    })  
+    areaMapTwitterFacebook.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
 
     return (
       <div className={classnames('Data', className)} {...props} style={styles.container}>
