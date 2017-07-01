@@ -1,5 +1,30 @@
 let client = require('cheerio-httpcli')
 let Twitter = require('twitter')
+let FB = require('fb')
+
+const MAX_BATCH_REQUEST = 50
+
+desc('facebook')
+task('facebook', () => {
+  /*
+  let fb = new Facebook.Facebook({
+    access_token: process.env.FACEBOOK_ACCESS_TOKEN,    
+    appId: process.env.FACEBOOK_APP_ID,
+    appSecret: process.env.FACEBOOK_APP_SECRET,
+    version: '2.9'
+  })
+  */
+
+  FB.setAccessToken(process.env.FACEBOOK_ACCESS_TOKEN)
+  FB.api('https://www.facebook.com/profile.php?id=100008945136346', { metadata: 1 })
+    .then((res) => {
+      console.log('res: ', res.metadata.type);
+    })
+    .catch((error) => {
+      console.error("error: ", error);
+    })
+})
+
 
 desc('候補者一覧の取得')
 task('default', (format = 'json', max = 3) => {
@@ -50,6 +75,9 @@ task('default', (format = 'json', max = 3) => {
     Promise.all(promises)
       .then((candidates) => {
         return fetchTwitterProfile(candidates);
+      })
+      .then((candidates) => {
+        return fetchFacebookProfile(candidates);
       })
       .then((candidates) => {
         if (format == 'csv') {
@@ -112,13 +140,13 @@ function parseMeta($, candidate) {
         candidate.twitter_url = 'https://twitter.com/' + $(this).attr('content').replace('@', '');
         break;
       case /og:description/.test($(this).attr('property')):
-        if (!candidate.homepage_description)      
+        if (!candidate.homepage_description)
           candidate.homepage_description = $(this).attr('content');
-        break;     
+        break;
       case /description/.test($(this).attr('name')):
         if (!candidate.homepage_description)
           candidate.homepage_description = $(this).attr('content');
-        break;        
+        break;
     }
   });
 }
@@ -150,6 +178,151 @@ function fetchHomePage(candidate, delay) {
   });
 }
 
+function fetchFacebookProfile(candidates) {
+  FB.setAccessToken(process.env.FACEBOOK_ACCESS_TOKEN)
+
+  facebook_users = candidates
+    .filter((candidate) => {
+      return candidate.facebook_url
+    })
+
+  let promises = []
+  let delay = 0
+
+  // check if the url is 'Page' or 'People'
+  facebook_users.forEach((user) => {
+    promises.push(fetchFacebookMeta(user, delay))
+    delay += 500
+  })
+
+  return Promise.all(promises)
+    .then((facebook_metas) => {
+      let counter = facebook_metas.length
+      let profiles = {}
+      let delay = 0
+      let promises = []
+      let sliceIdx = 1
+      let orig_facebook_metas = JSON.parse(JSON.stringify(facebook_metas))
+
+      while (counter > 0) {
+        promises.push(fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles, delay))
+        delay += 1000
+        sliceIdx += MAX_BATCH_REQUEST
+        counter -= MAX_BATCH_REQUEST
+      }
+
+      return Promise.all(promises)
+        .then((facebook_profiles) => {
+
+          return new Promise((resolve, error) => {
+            let updated = candidates.map((candidate) => {
+              if (candidate.facebook_url) {
+                if (facebook_profiles[0][candidate.facebook_url]) {
+                  candidate.facebook_profile = facebook_profiles[0][candidate.facebook_url].description
+                }
+              }
+              return candidate
+            })
+
+            resolve(updated)
+          })
+
+        })
+        .catch((error) => {
+          console.error("twitter fetch error: ", error);
+        })
+
+    })
+    .catch((error) => {
+      console.error("facebook meta update error: ", error)
+    })
+
+}
+
+function fetchFacebookMeta(user, delay) {
+  return new Promise((resolve, error) => {
+    console.error("fetching Facebook meta information: " + user.facebook_url)
+
+    setTimeout(() => {
+      FB.api(user.facebook_url, { metadata: 1 })
+        .then((res) => {
+          if (res.metadata.type == 'page') {
+            resolve({
+              id: res.id,
+              orig_url: user.facebook_url,
+              name: res.name,
+              type: 'page',
+              url: user.facebook_url
+            })
+          } else {
+            resolve({
+              id: res.id,
+              orig_url: user.facebook_url,
+              name: res.name,
+              type: res.metadata.type,
+              url: user.facebook_url
+            })
+          }
+        })
+        .catch((error) => {
+          console.error("fetch meta error: " + user.facebook_url, error)
+          resolve({
+            id: null,
+            orig_url: user.facebook_url,
+            name: user.name,
+            type: 'page',
+            url: user.facebook_url
+          })
+        })
+    }, delay)
+  })
+}
+
+function fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles, delay) {
+  return new Promise((resolve, error) => {
+    setTimeout(() => {
+      let sliced_facebook_metas = facebook_metas.splice(0, MAX_BATCH_REQUEST)
+
+      let batch_requests = sliced_facebook_metas.map((meta) => {
+        if (meta.type == 'page') {
+          return {
+            method: 'get',
+            relative_url: meta.id + '?fields=id,name,bio,about,mission,personal_info,affiliation,description'
+          }
+        } else {
+          return {
+            method: 'get',
+            relative_url: meta.id,
+            body: 'fields=id,name,bio,about,mission,personal_info,affiliation,description'
+          }
+        }
+
+      })
+
+      FB.api('', 'post', {
+        batch: batch_requests
+      })
+        .then((responses) => {
+          responses.forEach((res, idx) => {
+            body = JSON.parse(res.body)
+            if (body.personal_info) {
+              console.error("body.personal_info: ", body.personal_info)
+            }
+            profiles[orig_facebook_metas[idx].orig_url] = {
+              description: body.bio || body.personal_info || body.description || body.about
+            }
+          })
+
+          resolve(profiles)
+        })
+        .catch((error) => {
+          console.error("Facebook batch request error: ", error)
+        })
+
+    }, delay)
+  })
+}
+
 function fetchTwitterProfile(candidates) {
   twitter_users = candidates.filter((candidate) => {
     return candidate.twitter_url
@@ -168,7 +341,7 @@ function fetchTwitterProfile(candidates) {
 
   let promises = []
   let counter = twitter_ids.length
-  const WINDOW = 100
+  const WINDOW = 50
   let profiles = {}
   let delay = 0
 

@@ -52,6 +52,7 @@ class Area extends Component {
           />
           <CardText>            
             {candidate.twitter_profile && <p><span style={{ backgroundColor: '#eee', padding: 6, borderRadius: '10px' }}>Twitter</span> {candidate.twitter_profile}</p> }
+            {candidate.facebook_profile && <p><span style={{ backgroundColor: '#eee', padding: 6, borderRadius: '10px' }}>Facebook</span> {candidate.facebook_profile}</p> }                        
             {candidate.homepage_description && <p><span style={{ backgroundColor: '#eee', padding: 6, borderRadius: '10px' }}>ホームページ</span> {candidate.homepage_description}</p> }            
             <p>
               <table>
