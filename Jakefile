@@ -219,7 +219,7 @@ function fetchFacebookProfilePromise(candidates) {
                 if (facebook_profiles[0][candidate.facebook_url]) {
                   candidate.facebook_profile = facebook_profiles[0][candidate.facebook_url].description
                   candidate.facebook_profile_image_url = facebook_profiles[0][candidate.facebook_url].facebook_profile_image_url
-                  candidate.facebook_id = facebook_profiles[0][candidate.facebook_url].facebook_idpac
+                  candidate.facebook_id = facebook_profiles[0][candidate.facebook_url].facebook_id
                 }
               }
               return candidate
@@ -255,11 +255,19 @@ function fetchFacebookMetaPromise(user, delay) {
               type: 'page',
               url: user.facebook_url
             })
-          } else {
+          } else if (res.metadata.type == 'user') {
             resolve({
               id: res.id,
               orig_url: user.facebook_url,
               name: res.name,
+              type: res.metadata.type,
+              url: user.facebook_url
+            })
+          } else {
+            resolve({
+              id: res.id,
+              orig_url: user.facebook_url,
+              name: user.name,
               type: res.metadata.type,
               url: user.facebook_url
             })
@@ -306,13 +314,10 @@ function fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, pr
         .then((responses) => {
           responses.forEach((res, idx) => {
             body = JSON.parse(res.body)
-            if (body.personal_info) {
-              console.error("body.personal_info: ", body.personal_info)
-            }
             profiles[orig_facebook_metas[idx].orig_url] = {
               description: (body.bio || body.personal_info || body.description || body.about),
               facebook_id: body.id,
-              facebook_profile_image_url: 'http://graph.facebook.com/' + body.id + '/picture'
+              facebook_profile_image_url: orig_facebook_metas[idx].type != 'url' ? 'http://graph.facebook.com/' + body.id + '/picture' : null
             }
           })
 

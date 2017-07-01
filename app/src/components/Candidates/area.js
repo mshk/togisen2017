@@ -43,7 +43,7 @@ class Area extends Component {
     const { className, ...props } = this.props;
     const candidates = this.props.candidates.map((candidate) => {
       candidate.profile = candidate.age + '歳・' + candidate.sex + '・' + candidate.party + '（' + candidate.type + '）'
-      candidate.profile_image_url = candidate.twitter_profile_image ? candidate.twitter_profile_image : (candidate.facebook_profile_image_url ? candidate.facebook_profile_image_url : '')
+      candidate.profile_image_url = candidate.twitter_profile_image_url ? candidate.twitter_profile_image_url : (candidate.facebook_profile_image_url ? candidate.facebook_profile_image_url : null)
       return (
         <Card>
           <CardHeader
