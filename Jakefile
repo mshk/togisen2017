@@ -6,23 +6,24 @@ const MAX_BATCH_REQUEST = 50
 
 desc('facebook')
 task('facebook', () => {
-  /*
-  let fb = new Facebook.Facebook({
-    access_token: process.env.FACEBOOK_ACCESS_TOKEN,    
-    appId: process.env.FACEBOOK_APP_ID,
-    appSecret: process.env.FACEBOOK_APP_SECRET,
-    version: '2.9'
-  })
-  */
+  candidates = [
+    {
+          "id": "2",
+          "name": "立石はるやす",
+          "kana": "たていし　はるやす",
+          "sex": "男",
+          "age": "75",
+          "party": "無所属",
+          "type": "現",
+          "url": "http://立石はるやす.jp/",
+          "facebook_url": "https://www.facebook.com/tateishiharuyasu/",
+    }
+  ]
 
-  FB.setAccessToken(process.env.FACEBOOK_ACCESS_TOKEN)
-  FB.api('https://www.facebook.com/profile.php?id=100008945136346', { metadata: 1 })
-    .then((res) => {
-      console.log('res: ', res.metadata.type);
-    })
-    .catch((error) => {
-      console.error("error: ", error);
-    })
+  Promise.all([fetchFacebookProfilePromise(candidates)])
+  .then((result) => {
+    console.log(result)
+  })
 })
 
 
@@ -76,9 +77,10 @@ task('default', (format = 'json', max = 3) => {
       .then((candidates) => {
         return fetchTwitterProfilePromise(candidates);
       })
-      .then((candidates) => {
+/*      .then((candidates) => {
+        console.error("candidates", candidates)
         return fetchFacebookProfilePromise(candidates);
-      })
+      }) */
       .then((candidates) => {
         if (format == 'csv') {
           formatCSV(candidates);
@@ -206,20 +208,21 @@ function fetchFacebookProfilePromise(candidates) {
 
       while (counter > 0) {
         promises.push(fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, profiles, delay))
-        delay += 1000
+        delay += 200
         sliceIdx += MAX_BATCH_REQUEST
         counter -= MAX_BATCH_REQUEST
       }
 
       return Promise.all(promises)
         .then((facebook_profiles) => {
+          console.error("profiles", profiles)          
           return new Promise((resolve, error) => {
             let updated = candidates.map((candidate) => {
               if (candidate.facebook_url) {
-                if (facebook_profiles[0][candidate.facebook_url]) {
-                  candidate.facebook_profile = facebook_profiles[0][candidate.facebook_url].description
-                  candidate.facebook_profile_image_url = facebook_profiles[0][candidate.facebook_url].facebook_profile_image_url
-                  candidate.facebook_id = facebook_profiles[0][candidate.facebook_url].facebook_id
+                if (profiles[candidate.facebook_url]) {
+                  candidate.facebook_profile = profiles[candidate.facebook_url].description
+                  candidate.facebook_profile_image_url = profiles[candidate.facebook_url].facebook_profile_image_url
+                  candidate.facebook_id = _profiles[candidate.facebook_url].facebook_id
                 }
               }
               return candidate
@@ -264,6 +267,7 @@ function fetchFacebookMetaPromise(user, delay) {
               url: user.facebook_url
             })
           } else {
+            console.error("type: " + res.metadata.type, user.facebook_url);
             resolve({
               id: res.id,
               orig_url: user.facebook_url,
@@ -276,7 +280,7 @@ function fetchFacebookMetaPromise(user, delay) {
         .catch((error) => {
           console.error("fetch meta error: " + user.facebook_url, error)
           resolve({
-            id: null,
+            id: user.facebook_url,
             orig_url: user.facebook_url,
             name: user.name,
             type: 'page',
