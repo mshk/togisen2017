@@ -77,10 +77,10 @@ task('default', (format = 'json', max = 3) => {
       .then((candidates) => {
         return fetchTwitterProfilePromise(candidates);
       })
-/*      .then((candidates) => {
-        console.error("candidates", candidates)
+      .then((candidates) => {
+
         return fetchFacebookProfilePromise(candidates);
-      }) */
+      }) 
       .then((candidates) => {
         if (format == 'csv') {
           formatCSV(candidates);
@@ -203,18 +203,20 @@ function fetchFacebookProfilePromise(candidates) {
       let profiles = {}
       let delay = 0
       let promises = []
-      let sliceIdx = 1
       let orig_facebook_metas = JSON.parse(JSON.stringify(facebook_metas))
+
+      if (counter > MAX_BATCH_REQUEST) {
+        console.error("counter > MAX_BATCH_REQUEST", counter)
+      }
 
       while (counter > 0) {
         promises.push(fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, profiles, delay))
         delay += 200
-        sliceIdx += MAX_BATCH_REQUEST
         counter -= MAX_BATCH_REQUEST
       }
 
       return Promise.all(promises)
-        .then((facebook_profiles) => {
+        .then(() => {
           console.error("profiles", profiles)          
           return new Promise((resolve, error) => {
             let updated = candidates.map((candidate) => {
@@ -222,7 +224,7 @@ function fetchFacebookProfilePromise(candidates) {
                 if (profiles[candidate.facebook_url]) {
                   candidate.facebook_profile = profiles[candidate.facebook_url].description
                   candidate.facebook_profile_image_url = profiles[candidate.facebook_url].facebook_profile_image_url
-                  candidate.facebook_id = _profiles[candidate.facebook_url].facebook_id
+                  candidate.facebook_id = profiles[candidate.facebook_url].facebook_id
                 }
               }
               return candidate
@@ -316,8 +318,12 @@ function fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, pr
         batch: batch_requests
       })
         .then((responses) => {
+          console.error("orig_facebook_metas: ", orig_facebook_metas)
           responses.forEach((res, idx) => {
+            console.error("idx: ", idx)
             body = JSON.parse(res.body)
+            console.error("orig_facebook_metas[idx].orig_url", orig_facebook_metas[idx].orig_url)
+            console.error("body", body)            
             profiles[orig_facebook_metas[idx].orig_url] = {
               description: (body.bio || body.personal_info || body.description || body.about),
               facebook_id: body.id,
@@ -325,7 +331,9 @@ function fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, pr
             }
           })
 
-          resolve(profiles)
+          orig_facebook_metas.splice(0, MAX_BATCH_REQUEST)
+
+          resolve()
         })
         .catch((error) => {
           console.error("Facebook batch request error: ", error)
