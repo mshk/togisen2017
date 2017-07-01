@@ -62,7 +62,7 @@ task('default', (format = 'json', max = 3) => {
             resolve(candidate);
           }));
         } else if (candidate.url) {
-          promises.push(fetchHomePage(candidate, delay));
+          promises.push(fetchHomePagePromise(candidate, delay));
           delay += 200;
         } else {
           promises.push(new Promise((resolve, error) => {
@@ -74,10 +74,10 @@ task('default', (format = 'json', max = 3) => {
 
     Promise.all(promises)
       .then((candidates) => {
-        return fetchTwitterProfile(candidates);
+        return fetchTwitterProfilePromise(candidates);
       })
       .then((candidates) => {
-        return fetchFacebookProfile(candidates);
+        return fetchFacebookProfilePromise(candidates);
       })
       .then((candidates) => {
         if (format == 'csv') {
@@ -151,7 +151,7 @@ function parseMeta($, candidate) {
   });
 }
 
-function fetchHomePage(candidate, delay) {
+function fetchHomePagePromise(candidate, delay) {
   return new Promise((resolve, error) => {
     setTimeout(() => {
       console.error("fetching: " + candidate.url);
@@ -178,7 +178,7 @@ function fetchHomePage(candidate, delay) {
   });
 }
 
-function fetchFacebookProfile(candidates) {
+function fetchFacebookProfilePromise(candidates) {
   FB.setAccessToken(process.env.FACEBOOK_ACCESS_TOKEN)
 
   facebook_users = candidates
@@ -191,7 +191,7 @@ function fetchFacebookProfile(candidates) {
 
   // check if the url is 'Page' or 'People'
   facebook_users.forEach((user) => {
-    promises.push(fetchFacebookMeta(user, delay))
+    promises.push(fetchFacebookMetaPromise(user, delay))
     delay += 500
   })
 
@@ -205,7 +205,7 @@ function fetchFacebookProfile(candidates) {
       let orig_facebook_metas = JSON.parse(JSON.stringify(facebook_metas))
 
       while (counter > 0) {
-        promises.push(fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles, delay))
+        promises.push(fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, profiles, delay))
         delay += 1000
         sliceIdx += MAX_BATCH_REQUEST
         counter -= MAX_BATCH_REQUEST
@@ -213,12 +213,13 @@ function fetchFacebookProfile(candidates) {
 
       return Promise.all(promises)
         .then((facebook_profiles) => {
-
           return new Promise((resolve, error) => {
             let updated = candidates.map((candidate) => {
               if (candidate.facebook_url) {
                 if (facebook_profiles[0][candidate.facebook_url]) {
                   candidate.facebook_profile = facebook_profiles[0][candidate.facebook_url].description
+                  candidate.facebook_profile_image_url = facebook_profiles[0][candidate.facebook_url].facebook_profile_image_url
+                  candidate.facebook_id = facebook_profiles[0][candidate.facebook_url].facebook_idpac
                 }
               }
               return candidate
@@ -239,7 +240,7 @@ function fetchFacebookProfile(candidates) {
 
 }
 
-function fetchFacebookMeta(user, delay) {
+function fetchFacebookMetaPromise(user, delay) {
   return new Promise((resolve, error) => {
     console.error("fetching Facebook meta information: " + user.facebook_url)
 
@@ -278,7 +279,7 @@ function fetchFacebookMeta(user, delay) {
   })
 }
 
-function fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles, delay) {
+function fetchFacebookProfileInfoPromise(facebook_metas, orig_facebook_metas, profiles, delay) {
   return new Promise((resolve, error) => {
     setTimeout(() => {
       let sliced_facebook_metas = facebook_metas.splice(0, MAX_BATCH_REQUEST)
@@ -309,7 +310,9 @@ function fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles,
               console.error("body.personal_info: ", body.personal_info)
             }
             profiles[orig_facebook_metas[idx].orig_url] = {
-              description: body.bio || body.personal_info || body.description || body.about
+              description: (body.bio || body.personal_info || body.description || body.about),
+              facebook_id: body.id,
+              facebook_profile_image_url: 'http://graph.facebook.com/' + body.id + '/picture'
             }
           })
 
@@ -323,7 +326,7 @@ function fetchFacebookProfileInfo(facebook_metas, orig_facebook_metas, profiles,
   })
 }
 
-function fetchTwitterProfile(candidates) {
+function fetchTwitterProfilePromise(candidates) {
   twitter_users = candidates.filter((candidate) => {
     return candidate.twitter_url
   })

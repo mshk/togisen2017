@@ -43,12 +43,13 @@ class Area extends Component {
     const { className, ...props } = this.props;
     const candidates = this.props.candidates.map((candidate) => {
       candidate.profile = candidate.age + '歳・' + candidate.sex + '・' + candidate.party + '（' + candidate.type + '）'
+      candidate.profile_image_url = candidate.twitter_profile_image ? candidate.twitter_profile_image : (candidate.facebook_profile_image_url ? candidate.facebook_profile_image_url : '')
       return (
         <Card>
           <CardHeader
             title={candidate.name}
             subtitle={candidate.profile}
-            avatar={candidate.twitter_profile_image_url}
+            avatar={candidate.profile_image_url }
           />
           <CardText>            
             {candidate.twitter_profile && <p><span style={{ backgroundColor: '#eee', padding: 6, borderRadius: '10px' }}>Twitter</span> {candidate.twitter_profile}</p> }
