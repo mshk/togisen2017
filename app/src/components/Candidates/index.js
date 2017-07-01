@@ -69,7 +69,6 @@ class Candidates extends Component {
             <ul>
               <li>候補者の情報は<a href="http://www.h29togisen.metro.tokyo.jp/election/list.html">東京都選挙管理委員会の立候補者一覧</a>を元にしています。</li>
               <li>上記一覧に記載の候補者ホームページを機械的に巡回し、リンクされたSNSの情報を追加しています。</li>
-              <li>このサイトは準備中です。正確でない内容が含まれる可能性があります。</li>
             </ul>
           </p>
           <ul>

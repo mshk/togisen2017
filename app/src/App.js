@@ -43,7 +43,7 @@ class App extends Component {
         <MuiThemeProvider>
           <div style={{ margin: 0 }}>
             <AppBar
-              title="都議選2017情報（β版）"
+              title="都議選2017情報"
               showMenuIconButton={true}
               onLeftIconButtonTouchTap={this.handleToggle}
               style={{ margin: 0 }}

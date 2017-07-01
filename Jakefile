@@ -217,7 +217,7 @@ function fetchFacebookProfilePromise(candidates) {
 
       return Promise.all(promises)
         .then(() => {
-          console.error("profiles", profiles)          
+          //console.error("profiles", profiles)          
           return new Promise((resolve, error) => {
             let updated = candidates.map((candidate) => {
               if (candidate.facebook_url) {
