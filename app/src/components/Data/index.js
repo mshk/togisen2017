@@ -3,7 +3,6 @@ import classnames from 'classnames';
 import { withRouter } from 'react-router-dom'
 import { connect } from 'react-redux'
 import { fetchCandidatesIfNeeded } from '../../actions'
-import Paper from 'material-ui/Paper'
 import debuglogger from 'debug';
 let debug = debuglogger('app:components:Data');
 
@@ -38,6 +37,9 @@ class Data extends Component {
   componentDidMount() {
     const { dispatch } = this.props
     dispatch(fetchCandidatesIfNeeded())
+    this.setState({
+      hello: "world"
+    })
   }
 
   heatMapColorforValue(value) {
@@ -46,9 +48,9 @@ class Data extends Component {
   }
 
   getRowsOfAreaGraph(condition) {
-    return area.map((row) => {
-      let rowResult = row.map((col) => {
-        let areaData = this.props.candidates.filter((area) => { return area.area == col })
+    return area.map((row, rowIdx) => {
+      let rowResult = row.map((col, colIdx) => {
+        let areaData = this.props.candidates.filter((area) => { return area.area === col })
         let percentage = 0
         if (areaData && areaData.length > 0) {
           let twitterUsers = areaData[0].candidates.filter(condition)
@@ -58,40 +60,39 @@ class Data extends Component {
         if (!col)
           color = "white"
         percentage = Math.ceil(percentage * 100)
-        let percentageStr = percentage == '0' ? '' : '' + percentage + '%'
-        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }}>{col}<br />{percentageStr}</td>)
+        let percentageStr = percentage == 0 ? '' : '' + percentage + '%'
+        return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }} key={colIdx}>{col}<br />{percentageStr}</td>)
       })
-      return (<tr>{rowResult}</tr>)
+      return (<tr key={rowIdx}>{rowResult}</tr>)
     })
   }
 
   render() {
-    const { className, ...props } = this.props;
+    const { className } = this.props
+
+    debug("render(): this.state = ", this.state)
 
     // Twitter統計
-    let areaMapTwitter = [] 
     let rows = this.getRowsOfAreaGraph((candidate) => {
        return candidate.twitter_url 
     })
-    areaMapTwitter.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
+    const areaMapTwitter = (<div style={styles.tableWrapper}><table width={800}><tbody>{rows}</tbody></table></div>)
 
     // Facebook統計
-    let areaMapFacebook = []
     rows = this.getRowsOfAreaGraph((candidate) => {
        return candidate.facebook_url 
     })
-    areaMapFacebook.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
+    const areaMapFacebook = (<div style={styles.tableWrapper}><table width={800}><tbody>{rows}</tbody></table></div>)
 
 
     // Facebook統計
-    const areaMapTwitterFacebook = []
     rows = this.getRowsOfAreaGraph((candidate) => {
        return candidate.facebook_url && candidate.twitter_url
     })  
-    areaMapTwitterFacebook.push(<div style={styles.tableWrapper}><table width={800}>{rows}</table></div>)
+    const areaMapTwitterFacebook = (<div style={styles.tableWrapper}><table width={800}><tbody>{rows}</tbody></table></div>)
 
     return (
-      <div className={classnames('Data', className)} {...props} style={styles.container}>
+      <div className={classnames('Data', className)} style={styles.container}>
         <h2>都議選2017: 候補者のSNS利用状況</h2>
         <p>
           2017年7月2日に行われる東京都議会議員選挙の候補者のSNSプロフィールを元に集計しました。
@@ -122,12 +123,14 @@ function mapStateToProps(state) {
   debug("mapStateToProps(): state = ", state)
 
   if (state.candidates.isFetching === true) {
+    debug("isFetching: false") 
     return {
       isFetching: true,
       candidates: []
     }
   }
   else {
+    debug("isFetching: false", this.state) 
     return {
       isFetching: false,
       candidates: state.candidates.items
