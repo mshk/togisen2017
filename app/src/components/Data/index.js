@@ -6,7 +6,7 @@ import { fetchCandidatesIfNeeded } from '../../actions'
 import debuglogger from 'debug';
 let debug = debuglogger('app:components:Data');
 
-const area = [
+const targetAreas = [
   [null, '立川市', '北多摩第一', '北多摩第四', '練馬区', '板橋区', '北区', null, null, null],
   ['青梅市', '昭島市', '小平市', '西東京市', '中野区', '豊島区', '文京区', '荒川区', '足立区', null],
   ['西多摩', '北多摩第二', '小金井市', '武蔵野市', '杉並区', '新宿区', '千代田区', '台東区', '墨田区', '葛飾区'],
@@ -48,13 +48,17 @@ class Data extends Component {
   }
 
   getRowsOfAreaGraph(condition) {
-    return area.map((row, rowIdx) => {
+    debug("getRowsOfAreaGraph: this.props = ", this.props)
+
+    return targetAreas.map((row, rowIdx) => {
       let rowResult = row.map((col, colIdx) => {
-        let areaData = this.props.candidates.filter((area) => { return area.area === col })
+        let areaData = this.props.candidates.filter((area) => { 
+          return area.area.replace(/（定数.+人）/, '') == col 
+        })
         let percentage = 0
         if (areaData && areaData.length > 0) {
-          let twitterUsers = areaData[0].candidates.filter(condition)
-          percentage = twitterUsers.length / areaData[0].candidates.length
+          let users = areaData[0].candidates.filter(condition)
+          percentage = users.length / areaData[0].candidates.length
         }
         let color = this.heatMapColorforValue(percentage)
         if (!col)
