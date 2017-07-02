@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import classnames from 'classnames';
-import Paper from 'material-ui/Paper'
 
 const styles = {
   container: {
@@ -31,8 +30,8 @@ export default class About extends Component {
           </ul>
         </p>
         <ul>
-          <li>連絡先: <a href="https://twitter.com/mshk" target="_blank">@mshk</a></li>
-          <li>ソースコード: <a href="https://github.com/mshk/togisen2017" target="_blank">GitHub</a></li>
+          <li>連絡先: <a href="https://twitter.com/mshk">@mshk</a></li>
+          <li>ソースコード: <a href="https://github.com/mshk/togisen2017">GitHub</a></li>
         </ul>
       </div>
     );

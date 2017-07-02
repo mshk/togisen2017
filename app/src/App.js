@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import styles from './App.css'
 
 // material-ui
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'

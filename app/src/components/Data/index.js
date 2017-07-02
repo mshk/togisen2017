@@ -60,7 +60,7 @@ class Data extends Component {
         if (!col)
           color = "white"
         percentage = Math.ceil(percentage * 100)
-        let percentageStr = percentage == 0 ? '' : '' + percentage + '%'
+        let percentageStr = percentage === 0 ? '' : '' + percentage + '%'
         return (<td style={{ border: '1px solid #eee', backgroundColor: color, textAlign: 'center' }} key={colIdx}>{col}<br />{percentageStr}</td>)
       })
       return (<tr key={rowIdx}>{rowResult}</tr>)

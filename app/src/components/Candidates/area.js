@@ -4,43 +4,19 @@ import {
   CardHeader,
   CardText
 } from 'material-ui/Card'
-import {
-  Table,
-  TableBody,
-  TableHeader,
-  TableHeaderColumn,
-  TableRow,
-  TableRowColumn,
-} from 'material-ui/Table'
-import Subheader from 'material-ui/Subheader';
-import Divider from 'material-ui/Divider';
-import Chip from 'material-ui/Chip';
 import FontAwesome from 'react-fontawesome'
 import debuglogger from 'debug';
 
 let debug = debuglogger('app:components:Candidates:area');
 
-const styles = {
-  tab: {
-    fontSize: 12,
-    padding: 0,
-    margin: 0,
-    backgroundColor: '#eee',
-    color: '#333',
-    height: 40
-  },
-  inkBar: {
-    color: '#333'
-  }
-}
-
 class Area extends Component {
   constructor(props) {
+    debug("Area:constructor()")
+
     super(props)
   }
 
   render() {
-    const { className, ...props } = this.props;
     const candidates = this.props.candidates.map((candidate) => {
       candidate.profile = candidate.age + '歳・' + candidate.sex + '・' + candidate.party + '（' + candidate.type + '）'
       candidate.profile_image_url = candidate.twitter_profile_image_url ? candidate.twitter_profile_image_url : (candidate.facebook_profile_image_url ? candidate.facebook_profile_image_url : null)
